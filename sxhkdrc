@@ -1,0 +1,156 @@
+
+# bspwm hotkeys
+#
+
+# Quit bspwm
+control + alt + q
+    bspc quit
+
+alt + shift + q
+    bspc window -c
+
+alt + t
+    bspc desktop -l next
+
+alt + b
+    bspc desktop -B
+
+alt + {f,m,s,e,c}
+    bspc window -t {floating,fullscreen,sticky,private,pseudo_tiled}
+
+alt + Tab
+    bspc window -f last
+
+alt + y
+    bspc window -w last.manual
+
+alt + {_,shift + }{h,j,k,l}
+    bspc window -{f,s} {left,down,up,right}
+
+alt + {comma,period}
+    bspc desktop -C {backward,forward}
+
+alt + ctrl + {Left,h,Right,l}
+    bspc desktop -f {prev,prev,next,next}
+
+ctrl + {h,j,k,l}
+    bspc window -p {left,down,up,right}
+
+alt + ctrl + {_,shift + }space
+    bspc {window -p cancel,desktop -c}
+
+alt + {h,j,k,l}
+    bspc window -e {left,down,up,right} push
+
+alt + shift + {h,j,k,l}
+    bspc window -e {right,up,down,left} pull
+
+alt + shift + {1-9,0}
+    bspc window -d ^{1-9,10}
+
+~button1
+    bspc pointer -g focus
+
+alt + button{1-3}
+    bspc pointer -g {move,resize_side,resize_corner}
+
+alt + !button{1-3}
+    bspc pointer -t %i %i
+
+alt + @button{1-3}
+    bspc pointer -u
+
+# Rotate window layout
+
+super + {h, j, k, l}
+	bspc window -R {left, down, up, right} 90
+
+# Balance Desktop
+super + b
+	bspc desktop -B
+
+# Keyboard Resize
+
+super + shift + {h,j,k,l}
+	bspc window -e {left -20,down +20,up -20,right +20}
+
+super + ctrl  + {h,j,k,l}
+    bspc window -e {right -20,up +20,down -20,left +20}
+
+# Change window gap
+alt + {minus,equal}
+	bspc config -d focused window_gap $((`bspc config -d focused window_gap` {+,-} 2 ))
+
+# Move floating windows (requires baskerville's xdo)
+super + ctrl + {Left, Right, Up, Down}
+    xdo move {-x -10,-x +10,-y -10,-y +10}
+
+super + {Left,Right,Up,Down}
+	xdo move {-x -20, -x +20, -y -20, -y +20}
+
+# Resize floating windows
+super + shift + {Left,Right,Up,Down}
+    xdo resize {-w -10,-w +10,-h -10,-h +10}
+
+# Move window into presel position
+alt + shift {a,s,d,f}
+	bspc window -w {left,down,up,right}
+
+# Some padding magic
+# Change desktop padding
+alt + super + {Left, Right}
+	bspc config -d focused right_padding $((`bspc config -d focused right_padding` {+,-} 20 ))
+
+alt + super + ctrl + {Right, Left}
+	bspc config -d focused left_padding $((`bspc config -d focused left_padding` {+,-} 20 ))
+
+alt + super + ctrl  + {Up, Down}
+	bspc config -d focused bottom_padding $((`bspc config -d focused bottom_padding` {+,-} 20 ))
+
+alt + super  + {Down, Up}
+	bspc config -d focused top_padding $((`bspc config -d focused top_padding` {+,-} 20 ))
+
+ctrl + alt + shift {Right, Left, Down, Up}
+	bspc config -d focused {right_padding 0, left_padding 0, bottom_padding 0, top_padding 0}
+
+# wm independent hotkeys
+
+alt + Return
+    urxvt -e tmux
+
+super + t
+	urxvt
+
+super + f
+	urxvt -e ranger
+
+super + m
+	urxvt -e ncmpcpp
+
+alt + p
+    dmenu_run -b -fn Tewi-7 -nb "#fafafa" -nf '#111111' -sb '#111111' -sf '#fafafa'
+
+alt + shift + p
+	mpc toggle
+
+alt + shift + s
+	mpc stop
+
+alt + shift + period
+	mpc next
+
+alt + shift + comma
+	mpc prev
+
+XF86AudioMute
+	amixer set Master toggle
+
+XF86AudioRaiseVolume
+	amixer set Master 5%+ unmute
+
+XF86AudioLowerVolume
+	amixer set Master 5%- unmute
+
+# make sxhkd reload its configuration files:
+alt + Escape
+    pkill -USR1 -x sxhkd

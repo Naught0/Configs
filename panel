@@ -1,0 +1,3 @@
+#!/bin/sh
+
+bash ~/pathTo/welp.sh | dzen2 -fn Tewi-7 -p -h 12 -w 1356 -x 5 -y 5 &
