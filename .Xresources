@@ -1,0 +1,91 @@
+Xft.dpi: 96
+Xft.antialias: true
+Xft.hinting: true
+Xft.rgba: rgb
+Xft.autohint: false
+Xft.hintstyle: hintslight
+Xft.lcdfilter: lcddefault
+urxvt*cursorBlink: true
+
+!URxvt*iconFile: /usr/share/icons/elFaenza/apps/48/Terminal.png
+
+URxvt.geometry: 91x22
+
+URxvt.scrollBar: false
+
+URxvt.font: xft:Tewi:regular:size=7
+URxvt.boldFont: xft:Tewi:regular:size=7
+
+!*background: #111111
+!*foreground: #ffffff
+! black
+!*color0: #666666
+!*color8: #999999
+! red
+!*color1: #851B1B
+!*color9: #B43737
+! green
+!*color2: #2d692d
+!*color10: #449744
+! yellow
+!*color3: #C6C227
+!*color11:#F6F69A
+! blue
+!*color4: #4a4a95
+!*color12:#7979c9
+! magenta
+!*color5: #773977
+!*color13:#966396
+! cyan
+!*color6: #479b9c
+!*color14:#8DD7D8
+! white
+!*color7: #ffffff
+!*color15: #aaaaaa
+
+*background:#1a1a1a
+*foreground:#ffffff
+*highlightColor:#444444
+! Black
+*color0:#111111
+*color15:#ffffff
+*color7:#cccccc
+*color8:#555753
+
+! Red
+*color1:#ff6565
+*color9:#ff8d8d
+
+! Green
+*color2:#93d44f
+*color10:#c8e7a8
+
+! Yellow
+*color3:#eab93d
+*color11:#ffc123
+
+! Blue
+*color4:#4a4a95
+*color12:#7979c9
+
+! Purple
+*color5: #773977
+*color13:#966396
+
+!*color5:#ce5c00
+
+! Cyan
+*color14:#6F8FB8
+*color6:#92AFD7
+
+!*color13:#f57900
+
+dzen2.foreground: #1a1a1a
+dzen2.background: #fafafa
+
+! Click URLs
+URxvt.perl-ext-common:  default,matcher
+URxvt.url-launcher:      /usr/bin/firefox
+URxvt.matcher.button:   1
+
+urxvt.iso14755:false
