@@ -1,1 +1,1 @@
-Some configs that people asked for. Go nuts.
+Some of my configs; here for my convenience and your pleasure.
