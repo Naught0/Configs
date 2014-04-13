@@ -1,0 +1,59 @@
+browser[type="content-primary"],
+browser[type="content-targetable"]{
+    overflow-y: scroll;
+    margin-right: -10px !important;
+}
+
+.tab-icon-image,
+toolbarbutton#appmenu-toolbar-button,
+.tab-close-button,
+#notification-popup-box,
+#star-button,
+#go-button,
+.tab-throbber,
+.tab-throbber[progress]{
+    display: none !important;
+}
+
+.tab-text{
+    text-align: center !important;
+}
+
+.tabbrowser-tabs{
+margin-left: 10px !important;
+margin-right: 10px !important;
+}
+
+tab.tabbrowser-tab{
+    background: transparent !important;
+    border: none !important;
+    border-radius: 0 !important;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+}
+
+.tabbrowser-tab:hover{
+    font-weight: 600 !important;
+}
+
+.tabbrowser-tab[selected=true]{
+    border: 1px solid #afafaf !important;
+    border-bottom: 0 !important;
+    border-radius: 0 !important;
+    font-weight: 600 !important;
+    box-shadow: 0 0 5px #afafaf !important;
+    transition: 0.5s ease all !important;
+}
+
+#urlbar,
+#nav-bar {
+    -moz-appearance: none !important;
+    border-radius: 0 !important;
+    background: transparent !important;
+    box-shadow: 0 0 2px #afafaf !important;
+}
+
+#main-window:not([disablechrome]),
+#navigator-toolbox[tabsontop=true]{
+    border: 0 !important;
+}
