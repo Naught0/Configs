@@ -30,8 +30,8 @@ alt + {_,shift + }{h,j,k,l}
 alt + {comma,period}
     bspc desktop -C {backward,forward}
 
-alt + ctrl + {Left,h,Right,l}
-    bspc desktop -f {prev,prev,next,next}
+alt + {bracketleft,bracketright}
+    bspc desktop -f {prev,next}
 
 ctrl + {h,j,k,l}
     bspc window -p {left,down,up,right}
@@ -128,7 +128,7 @@ super + m
 	urxvt -e ncmpcpp
 
 alt + p
-    dmenu_run -b -fn Tewi-7 -nb "#fafafa" -nf '#111111' -sb '#111111' -sf '#fafafa'
+    dmenu_run -b -fn Tewi-7 -nb "#fafafa" -nf '#111111' -sb '#f36b6b' -sf '#fafafa'
 
 alt + shift + p
 	mpc toggle
