@@ -13,7 +13,7 @@ workspace(){
 				WORKSPACE="□ ■ □ □ □";;
 			"3")
 				WORKSPACE="□ □ ■ □ □";;
-			"5")
+			"4")
 				WORKSPACE="□ □ □ ■ □";;
 			"5")
 				WORKSPACE="□ □ □ □ ■";;
