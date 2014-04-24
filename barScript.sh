@@ -42,14 +42,14 @@ vol(){
 }
 
 mus(){
-	echo  $(test -z "$(mpc current)" || mpc current)
+	echo  $(test -z "$(mpc current)" || mpc current -f %title%)
 }
 
-pause(){
-	echo  $(mpc | if grep -q "paused"; then echo "(paused)"; fi)
+paws(){
+	echo  $(mpc | if grep -q "paused"; then echo "▮▮"; else echo "♫"; fi)
 }
 
 while :; do
-	echo  "%{B$DARK} %{F$WHITE}♫ %{F$DARK}%{B$LIGHT}%{F}%{B}%{F$WHITE}%{B$LIGHT} $(mus) %{B}%{F}%{F$LIGHT}%{B}%{c}%{B$DARK}%{F$WHITE}%{B}%{F}%{B$DARK} %{F$WHITE}$(workspace) %{B}%{F}%{F$WHITE}%{B$DARK}%{B}%{F}%{c}%{r}%{F$LIGHT}%{F}%{B$LIGHT}%{F$WHITE} $(bat) ram $(ram) vol $(vol)% %{B}%{F}%{F$DARK}%{B$LIGHT}%{F}%{B}%{B$DARK}%{F$WHITE} $(dat) %{B}%{F}"
-sleep 1
+	echo  "%{B$DARK} %{F$WHITE}$(paws) %{F$DARK}%{B$LIGHT}%{F}%{B}%{F$WHITE}%{B$LIGHT} $(mus) %{B}%{F}%{F$LIGHT}%{B}%{c}%{B$DARK}%{F$WHITE}%{B}%{F}%{B$DARK} %{F$WHITE}$(workspace) %{B}%{F}%{F$WHITE}%{B$DARK}%{B}%{F}%{c}%{r}%{F$LIGHT}%{F}%{B$LIGHT}%{F$WHITE} $(bat) ram $(ram) vol $(vol)% %{B}%{F}%{F$DARK}%{B$LIGHT}%{F}%{B}%{B$DARK}%{F$WHITE} $(dat) %{B}%{F}"
+sleep 0
 done
