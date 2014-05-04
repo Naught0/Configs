@@ -128,7 +128,7 @@ super + m
 	urxvt -e ncmpcpp
 
 alt + p
-    dmenu_run -b -fn Tewi-7 -nb "#fafafa" -nf '#111111' -sb '#f36b6b' -sf '#fafafa'
+    dmenu_run -b -fn Tewi-7 -nb "#fafafa" -nf '#111111' -sb '#ff897d' -sf '#fafafa'
 
 alt + shift + p
 	mpc toggle
