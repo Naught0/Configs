@@ -1,59 +1,215 @@
-browser[type="content-primary"],
-browser[type="content-targetable"]{
-    overflow-y: scroll;
-    margin-right: -10px !important;
+@namespace url(http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul);
+/* Edited Nanima's CSS -- so yeah. :3
+_ _ _ _ _
+| \| | __ _ | \| |(_)
+| .` |/ _` || .` || |
+|_|\_|\__,_||_|\_||_|
+Last edited: 2014-05-19
+ 
+Firefox selectors are fucking dumb.
+v 0.1 for Arch
+ 
+/////////////////////////
+_____ _
+|_ _|_ _| |__ ___
+| |/ _` | '_ (_-<
+|_|\__,_|_.__/__/
+ 
+/////////////////////////
+*/
+/* Stupid ass border at bottom*/
+#TabsToolbar::after{
+display: none;
+}
+#tabbrowser-tabs{ /* Tab container*/
+background-color: #efefef;
+margin-left:-10px; /* Flush with the side of the window */
+margin-right: -20px; /* You need like 5-7 tabs open for this to come into effect */
+margin-bottom: -10px; /* Since we shrink the tab size, we have to shrink the container to match */
+}
+.tabbrowser-tab{ /* Actual tabs */
+max-height: 20px;
+margin-right: 20px;
+padding: 0;
+}
+.tabbrowser-tab:not([pinned]) {
+/* Defining a max/min width inside tabs breaks the ability
+of the tab to shrink/move on close of another tab*/
+max-width:300px;
+}
+.tab-text.tab-label{ /* Tab text */
+text-align: center;
+font-family: Open Sans !important;
+font-size: 11px;
+color: #afafaf;
+transition: 0.5s ease all;
+}
+/* Deal with rounded tabs in Australis */
+.tab-background-start, .tab-background-end{
+display: none;
+}
+.tab-background-middle{
+background-image: none!important;
+transition: 0.5s ease all;
+}
+/* Tab hovering */
+.tabbrowser-tab:hover .tab-background-middle{
+background-color: #fafafa;
+transition: 0.5s ease all;
+}
+/* Selected tab */
+.tabbrowser-tab[selected="true"] .tab-background-middle, .tabbrowser-tab[selected="true"] .tab-content{
+background-color: #fafafa;
+transition: 0.5s ease all;
 }
 
-.tab-icon-image,
-toolbarbutton#appmenu-toolbar-button,
-.tab-close-button,
-#notification-popup-box,
-#star-button,
-#go-button,
-.tab-throbber,
-.tab-throbber[progress]{
-    display: none !important;
+.tabbrowser-tab:hover .tab-label, .tabbrowser-tab[selected="true"] .tab-label{
+color: #666;
+transition: 0.5s ease all;
 }
-
-.tab-text{
-    text-align: center !important;
+ 
+/* Clean up miscellaneous shit that can't be done in customize */
+#main-window #tabbrowser-tabs .tab-close-button,
+#tabbrowser-tabs toolbarbutton.scrollbutton-up,
+#tabbrowser-tabs toolbarbutton.scrollbutton-down,
+#appmenu-button, #appmenu-toolbar-button, #alltabs-button,
+.tabbrowser-tab .tab-icon-image,
+.tabs-newtab-button,
+.tab-throbber
+{
+display: none !important;
 }
-
-.tabbrowser-tabs{
-margin-left: 10px !important;
-margin-right: 10px !important;
+ 
+/* Tab separators */
+.tabbrowser-tab::after,
+.tabbrowser-tab::before {
+background-image: none!important;;
 }
-
-tab.tabbrowser-tab{
-    background: transparent !important;
-    border: none !important;
-    border-radius: 0 !important;
-    padding-left: 5px !important;
-    padding-right: 5px !important;
-}
-
-.tabbrowser-tab:hover{
-    font-weight: 600 !important;
-}
-
-.tabbrowser-tab[selected=true]{
-    border: 1px solid #afafaf !important;
-    border-bottom: 0 !important;
-    border-radius: 0 !important;
-    font-weight: 600 !important;
-    box-shadow: 0 0 5px #afafaf !important;
-    transition: 0.5s ease all !important;
-}
-
-#urlbar,
+ 
+/*
+/////////////////////////
+_ _ ___ _
+| | | | _ \ |
+| |_| | / |__
+\___/|_|_\____|
+/////////////////////////
+*/
+ 
 #nav-bar {
-    -moz-appearance: none !important;
-    border-radius: 0 !important;
-    background: transparent !important;
-    box-shadow: 0 0 2px #afafaf !important;
+-moz-appearance: none!important;
+margin: 0;
+padding: 0;
+}
+#urlbar-container{
+margin: 0;
+padding: 0;
+height: 25px;
+}
+#urlbar{
+background-color: #efefef;
+color: #666;
+font-family: Open Sans;
+font-size: 11px;
+border:0;
+margin: 0!important;
+padding: 5px 0; /* make the URL bar take the full space of the container. */
+padding-left: 3px; /* its hard to read if the text is flush */
+}
+ 
+/* Dropdown of suggested URL */
+.popup-internal-box, .autocomplete-richlistbox{
+background-color: #efefef!important;
+border: none!important;
+margin: -4px 0 -5px 0!important;
+padding: 0!important;
+transition: 0.5s ease all;
+}
+.ac-title, .ac-description, .ac-url-text, .ac-emphasize-text{
+color: #666!important;
+}
+/* Selected from dropdown */
+.autocomplete-richlistitem[selected="true"], .autocomplete-richlistiem:hover{
+background-color: #fafafa!important;
+color: #afafaf!important;
+transition: 0.5s ease all;
+}
+/* Get rid of the little gray emphasis thing matching the URL snippet you typed*/
+.autocomplete-richlistitem:hover *|*.ac-emphasize-text, .autocomplete-richlistitem[selected="true"] *|*.ac-emphasize-text{
+background: none;
+box-shadow: none;
+}
+/* If you have tab already or something */
+.ac-action-text{
+color: #fff;
+}
+ 
+#back-button,
+#forward-button,
+#urlbar-go-button,
+#urlbar-reload-button,
+#urlbar-stop-button,
+#urlbar-container dropmarker, /* Dropdown inside urlbar */
+#identity-box, /* SSL cert thingy */
+#notification-popup-box, /* That one tab thingy that shows up next to cert thingy */
+#PanelUI-button /* Customization button in Australis */
+{
+display: none;
+}
+/*
+//////////////////////////////////////////////////
+___ _ _
+| _ ) ___ ___| |___ __ __ _ _ _| |__ ___
+| _ \/ _ \/ _ \ / / ' \/ _` | '_| / /(_-<
+|___/\___/\___/_\_\_|_|_\__,_|_| |_\_\/__/
+//////////////////////////////////////////////////
+*/
+ 
+/* remove favicons */
+.bookmark-item .toolbarbutton-icon{
+display:none;
+}
+/* Huge wrapper*/
+#PersonalToolbar{
+background-color: #1f1f22!important;
+margin-top: -5px!important;
+}
+/* Boookmarks wrapper*/
+#personal-bookmarks {
+margin: 0;
+background-color: #1f1f22;
+}
+/* Actual bookmarks */
+.bookmark-item{
+-moz-appearance: none;
+margin: 0 2px;
+font-family: Tewi;
+font-size: 11px;
+}
+/* ISSUE
+If you use the arrow keys to select a bookmark item, it blends into the background.
+I don't know how to style those. I thought it was selected=true but apparently not.
+Update: _moz-menuactive = true
+*/
+.bookmark-item:hover, .bookmark-item[_moz-menuactive="true"]{
+ 
+color: rgb(120,120,120);
+}
+/* Bookmark menus */
+.menu-iconic-icon{ /* Who needs favicons */
+display: none;
+}
+.menu-iconic.bookmark-item, .menuitem-iconic.bookmark-item{
+background: none!important;
+margin-left: -10px!important; /* Since we get rid of favicons might as well slide these over */
+padding: 2px 0!important;
+}
+#navigator-toolbox::after{
+display: none;
 }
 
-#main-window:not([disablechrome]),
-#navigator-toolbox[tabsontop=true]{
-    border: 0 !important;
+/* SCREW YOU SCROLLBAR */
+#content browser {
+ margin-right: -15px !important;
+ overflow-y: scroll;
+ overflow-x: hidden;
 }

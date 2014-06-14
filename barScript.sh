@@ -1,8 +1,14 @@
 #!/bin/bash
 
-DARK="#FFf36b6b"
-LIGHT="#FFff897d"
-WHITE="#FFefefef"
+WHITE=#FFefefef
+
+# ----- PINK ----- #
+DARK=#FFf36b6b
+LIGHT=#FFff897d
+
+# ----- Bliss ----- #
+#DARK=#FF1369ee
+#LIGHT=#FF6997ed
 
 workspace(){
 	SPACE_NUM=$(bspc query -D -d);
@@ -18,38 +24,40 @@ workspace(){
 			"5")
 				WORKSPACE="□ □ □ □ ■";;
 		esac
-	echo $WORKSPACE
+	echo -n $WORKSPACE
 }
 
 chg(){
-	echo  $(acpi --battery | awk '{gsub(/,/, "");} {print $4}')
+	echo -n  $(acpi --battery | awk '{gsub(/,/, "");} {print $4}')
 }
 
 bat(){ 
-	echo  $(acpi -a | if grep -q "on-line"; then echo ""; else echo "⭫ $(chg)%"; fi)
+	echo -n  $(acpi -a | if grep -q "on-line"; then echo -n ""; else echo -n "⭫ $(chg)%"; fi)
 }
 
 ram(){
-	echo  $(free -m | awk '/-/ {print $3}')
+	echo -n  $(free -m | awk '/-/ {print $3}')
 }
 
 dat(){
-	echo  $(date "+%H:%M  %D")
+	echo -n  $(date "+%H:%M  %D")
 }
 
 vol(){
-	echo  $(amixer | if grep -q "off"; then echo "mute"; else echo $(amixer | awk '/Front Left: Playback/ {print $5}' | sed 's/\[//g;s/\]//g');fi)
+	echo -n  $(amixer | if grep -q "off"; then echo -n "mute"; else echo -n $(amixer | awk '/Front Left: Playback/ {print $5}' | sed 's/\[//g;s/\]//g');fi)
 }
 
 mus(){
-	echo  $(test -z "$(mpc current)" || mpc current -f %title%)
+	#echo -n  $(test -z "$(mpc current)" || mpc current -f %title%)
+	echo -n $(ps aux | grep -v "grep" | if grep -q "cmus"; then echo $(cmus-remote -Q | sed -n 's/tag title //p'); else echo "n/a"; fi)
 }
 
 paws(){
-	echo  $(mpc | if grep -q "paused"; then echo "▮▮"; else echo "♫"; fi)
+	#echo -n  $(mpc | if grep -q "paused"; then echo -n "▮▮"; else echo -n "♫"; fi)
+	echo -n $(cmus-remote -Q | if grep -q "paused"; then echo -n "▮▮"; else echo -n "♫"; fi)
 }
 
 while :; do
-	echo  "%{B$DARK} %{F$WHITE}$(paws) %{F$DARK}%{B$LIGHT}%{F}%{B}%{F$WHITE}%{B$LIGHT} $(mus) %{B}%{F}%{F$LIGHT}%{B}%{c}%{B$DARK}%{F$WHITE}%{B}%{F}%{B$DARK} %{F$WHITE}$(workspace) %{B}%{F}%{F$WHITE}%{B$DARK}%{B}%{F}%{c}%{r}%{F$LIGHT}%{F}%{B$LIGHT}%{F$WHITE} $(bat) ram $(ram) vol $(vol)% %{B}%{F}%{F$DARK}%{B$LIGHT}%{F}%{B}%{B$DARK}%{F$WHITE} $(dat) %{B}%{F}"
-sleep 0
+	printf "%s\n" "%{A::}%{B$DARK} %{F$WHITE}$(paws)%{A} %{F$DARK}%{B$LIGHT}%{A}%{F-}%{B-}%{F$WHITE}%{B$LIGHT} $(mus) %{B-}%{F-}%{F$LIGHT}%{B-}%{c}%{B$DARK}%{F$WHITE}%{B-}%{F-}%{B$DARK} %{F$WHITE}$(workspace) %{B-}%{F-}%{F$WHITE}%{B$DARK}%{B-}%{F-}%{c}%{r}%{F$LIGHT}%{F-}%{B$LIGHT}%{F$WHITE} $(bat) ram $(ram) vol $(vol)% %{B-}%{F-}%{F$DARK}%{B$LIGHT}%{F-}%{B-}%{B$DARK}%{F$WHITE} $(dat) %{B-}%{F-}"
+sleep 1
 done
