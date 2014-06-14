@@ -7,7 +7,7 @@ Xft.hintstyle: hintslight
 Xft.lcdfilter: lcddefault
 urxvt*cursorBlink: true
 
-!URxvt*iconFile: /usr/share/icons/elFaenza/apps/48/Terminal.png
+! URxvt*iconFile: /usr/share/icons/elFaenza/apps/48/Terminal.png
 
 URxvt.geometry: 94x22
 
@@ -16,41 +16,17 @@ URxvt.scrollBar: false
 URxvt.font: xft:Tewi:regular:size=11
 URxvt.boldFont: xft:Tewi:regular:size=11
 
-!*background: #111111
-!*foreground: #ffffff
-! black
-!*color0: #666666
-!*color8: #999999
-! red
-!*color1: #851B1B
-!*color9: #B43737
-! green
-!*color2: #2d692d
-!*color10: #449744
-! yellow
-!*color3: #C6C227
-!*color11:#F6F69A
-! blue
-!*color4: #4a4a95
-!*color12:#7979c9
-! magenta
-!*color5: #773977
-!*color13:#966396
-! cyan
-!*color6: #479b9c
-!*color14:#8DD7D8
-! white
-!*color7: #ffffff
-!*color15: #aaaaaa
-
 *background:#1a1a1a
 *foreground:#fafafa
 *highlightColor:#444444
+
 ! Black
 *color0:#666666
-*color15:#fafafa
-*color7:#cccccc
 *color8:#eeeeee
+
+! White
+*color7:#cccccc
+*color15:#fafafa
 
 ! Red
 *color1:#f04444
@@ -72,16 +48,9 @@ URxvt.boldFont: xft:Tewi:regular:size=11
 *color5:#939ddc
 *color13:#b4badc
 
-!*color5:#ce5c00
-
 ! Cyan
-*color14:#FF897D
 *color6:#F36B6B
-
-!*color13:#f57900
-
-dzen2.foreground: #666666
-dzen2.background: #efefef
+*color14:#FF897D
 
 ! Click URLs
 URxvt.perl-ext-common:  default,matcher
