@@ -1,0 +1,407 @@
+/* Naught's Edit of Imouto | For use with ihavenoface's fork of 4chanX */
+
+@-moz-document domain("boards.4chan.org") {
+/* Relative to the general appearance of 4chan. */
+*{
+    outline: 0 !important;
+    text-decoration: none !important;
+    font-weight: normal !important;
+}
+
+body {
+    background: #efefef !important;
+    font-family: 'Open Sans', sans-serif !important;
+    color: #1f1f1f !important;
+    margin: auto !important;
+    font-size: 8pt !important;
+}
+hr {
+    padding-top: 5px !important;
+    border: 0 !important;
+}
+
+/* Links */
+a {
+    color: #666 !important;
+}
+
+/* Foreground of the header bar */
+#board-list,
+#custom-board-list {
+    color: #666 !important;
+}
+#header-bar a {
+    color: #666666 !important;
+}
+
+/* Background of the header bar */
+#header-bar.dialog {
+    background: #fafafa !important;
+    border: 0 !important;
+}
+
+/* Color of the selected board on the sublheader bar. */
+#header-bar a {
+    color: #648ea7 !important;
+    font-weight: bold !important;
+}
+
+/* Appearance of the menus. */
+#menu.dialog,
+.entry {
+    background: #ddd !important;
+    border: 0 !important;
+    color: #666 !important;
+    
+}
+
+/* Catalog search and page links, This is not ready. */
+div.navLinks,
+div.pagelist {
+    background: transparent !important;
+    border: 0 !important;
+    display: inline-block !important;
+    margin-bottom: 0 !important;
+}
+
+/* Appearance of the thread updater and thread stats. */
+#index-search.field,
+#updater.dialog,
+#thread-stats.dialog {
+    
+    background: transparent !important;
+    color: #1a1a1a !important;
+    border-style: none !important;
+}
+
+/* Thread updater menu */
+#index-search.field:hover,
+#updater.dialog:hover {
+    background: #efefef !important;
+    color: #1a1a1a !important;
+}
+
+/* Clean up. */
+.bottomCtrl.desktop,
+#absbot.absBotText,
+.navLinks.desktop,
+.navLinks.navLinksBot.desktop {
+    display: none !important;
+}
+
+/* Hide ads? */
+div.topad.center,
+div.middlead.center,
+div.bottomad.center,
+div.ad-plea,
+.center {
+    display: none !important;
+}
+
+/* Display board banner? */
+.boardBanner {
+    display: none !important;
+}
+
+/* Relative to posts. */
+.post.reply {
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 8pt !important;
+    background: #fafafa !important;
+    color: #1a1a1a !important;
+    width: 100% !important;
+    border: 0 !important;
+    padding: 6px !important;
+    box-shadow: #afafaf 0 0 2px !important;
+    transition: 0.5s ease all 0s !important;
+}
+.post.reply:hover {
+    box-shadow: #666 0 0 2px !important;
+}
+
+/* Image thumbnails */
+.fileThumb img{
+    box-shadow:0 0 2px #afafaf !important;
+    border-radius: 5px !important;
+}
+   
+/* Relative to the thread */
+.thread {
+    margin-top: -10px !important;
+    margin-right: 30px !important;
+    margin-left: 15px !important;
+}
+div.postContainer.opContainer {
+    display: inline-block !important;
+    width: 100% !important;
+    margin: auto !important;
+}
+.inline {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+    border: 0 !important;
+}
+.inline .post.reply {
+    background-color: #fff !important;
+    border: 0 !important;
+}
+
+/* Post subjects. */
+span.subject {
+    color: #f05858 !important;
+}
+
+/* Tripcodes. */
+span.postertrip {
+    color: #96c3b6 !important;
+}
+
+.prettyprint{
+    margin-bottom: -7px !important;
+    background: #efefef !important;
+}
+
+/* Post numbers. */
+span.postNum a {
+    color: #a5a5a5 !important;
+}
+
+/* Poster's name. */
+span.name {
+    color: #3d3d3d !important;
+    font-weight: normal !important;
+}
+
+/* Date and time of the posts. */
+span.dateTime {
+    color: #6f6f6f !important;
+}
+
+/* Quote links. */
+a.quotelink {
+    color: #91b6c6 !important;
+}
+
+/* Link to posts quoting the current post. */
+a.backlink {
+    color: #3f3f3f !important;
+}
+
+/* Greentext. */
+span.quote {
+    color: #93a77f !important;
+}
+
+/* Post menu button. */
+.post .menu-button {
+    float: right;
+    position: relative;
+    left: 0px;
+}
+
+
+
+/* Hide "hide reply" buttons. */
+.postInfo > input,
+a.hide-reply-button > span {
+    display: none !important;
+}
+
+/* Relative to post info, i.e. Post name, tripcode, post date, etc. */
+.postInfo a,
+div.postInfo {
+    color: #6f6f6f !important;
+}
+
+/* Relative to file info, i.e. filename, file size, resolution, etc. */
+div.fileText {
+    
+}
+
+/* Fix post previews. */
+#qp {
+    border: 0 !important;
+    box-shadow: none !important;
+}
+
+
+/* Relative to the quick reply. */
+#qr {
+    background: #dedede !important;
+    color: #666 !important;
+    border: none !important;
+    border-radius: 0 !important;
+    box-shadow: 0 0 5px #afafaf !important;
+    transition: all 0.2s ease 0s;
+}
+#qr form {
+    border-radius: 0 !important;
+    bottom: 12px !important;
+    right: 0% !important;
+    width: 300px !important;
+    padding: 4px !important;
+    margin-top: 23px !important;
+    padding-top: 10px !important;
+    padding-bottom: 3px !important;
+    background: #efefef !important;
+}
+#dump-button {
+    background: #dedede !important;
+    color: #666 !important;
+    border: 0 !important;
+}
+
+/* Color of the fields. */
+#qr .field {
+    background: #fefefe !important;
+    border-color: #dedede !important;
+    color: #666 !important;
+    font-size: 8pt !important;
+}
+
+/* Movable QR? */
+/* {
+    display: none !important;
+}*/
+
+/* Remove menu */
+#qr select,
+#qr > div {
+    display: none !important;
+}
+
+/* Make the name field become invisible when there's something in it... */
+#qr input.field:nth-child(2) {
+    background: #fefefe !important;
+    color: #fefefe !important;
+}
+
+/* ... And then make it visible again when you hover over it. */
+#qr input.field:nth-child(2):hover {
+    background: #fefefe !important;
+    color: #dedede !important;
+}
+
+/* Remove bar above the fields. */
+#qr > div {
+    position: fixed !important;
+}
+
+/* Relative to 4chan X's menu */
+#fourchanx-settings.dialog,
+fieldset legend,
+a.tab-main.tab-selected {
+    font-family: "Open Sans" !important;
+    font-size: 8pt !important;
+    background: #1a1a1a !important;
+    color: #dedede !important;
+}
+/* Relative to the thread watcher */
+#thread-watcher {
+    font-family: "Open Sans" !important;
+    color: #666 !important;
+    background: #efefef !important;
+    position: fixed !important;
+    margin: 20px !important;
+    box-shadow: #afafaf 0 0 5px !important;
+}
+#watched-threads a,
+#thread-watcher .fa{
+    color: #666 !important;
+    font-size: 8pt !important;
+}
+
+#thread-watcher .move {
+    display: none !important;
+}
+
+/* Catalog stuff */
+
+#order-ctrl,
+.ctrl-wrap {
+    display: none !important;
+}
+
+#ctrl,
+#settings span.button {
+    font-family: "Open Sans" !important;
+    color: #1a1a1a !important;
+}
+
+#threads .thread {
+    background: #fafafa !important;
+    box-shadow: #afafaf 0 0 2px !important;
+    padding: 10px !important;
+    max-height: 200px !important;
+    margin-bottom: 20px !important;
+    transition: 0.5s ease all 0s !important;
+}
+#threads .thread:hover {
+    box-shadow: #666 0 0 2px !important;
+}
+
+/* Transitions */
+
+/* Change backlinks to >> and animate them. */
+a.backlink {
+    font-size: 0 !important;
+    text-decoration:none!important;
+}
+.backlink:after {
+    font-size: 13px !important;
+    padding: 1px;
+    content: /*"✔"*/"➤" !important;
+    color:#afafaf!important;
+    text-decoration:none!important;
+    transition:0.5s ease all!important;
+}
+
+.backlink:hover::after,
+.backlink.inlined::after{
+    color:#91b6c6!important;
+    transition:0.5s ease all!important;
+}
+
+.backlink.inlined::after{
+    content:"✔"!important;
+    color:#000!important;
+}
+
+.backlink:not(:first-child) {
+  transition: all .1s linear .2s;
+}
+.postContainer:hover .backlink {
+  margin-left: 0rem;
+  transition-delay: .1s;
+}
+/* QR animations. */
+#qr.dialog.has-captcha.autohide,
+#qr.dialog.autohide {
+    top: -300px !important;
+    height: 21px !important;
+    transition: all 0.7s ease 0s;
+}
+
+/* Post deleteform things */
+.post .menu-button {
+    opacity: 0 !important;
+    transition: 0.5s ease all !important;
+}
+.post:hover .menu-button{
+    opacity: 1 !important;
+}
+    
+.hide-post-button{
+        display: none !important;
+    }
+    
+/* Start a New Thread */
+    #togglePostFormLink{
+        display: none !important;
+    }
+    
+#navlinks a:hover{
+    color:#91b6c6!important;
+    transition:0.5s ease all !important;
+}
+}
