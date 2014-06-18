@@ -22,14 +22,8 @@ p {
     display: none !important;
 }
 
-div.nav-buttons{
-    margin: 10px 0 0 15px !important
-}
-
-.nextprev a{
-    border-radius: 0 !important;
-    border: none !important;
-    color: #648ea7 !important;
+.content { /* fix margin above posts / comments etc */
+    margin-top: 40px !important;
 }
 
 /*
@@ -42,6 +36,16 @@ div.nav-buttons{
                                          __/ |     
                                         |___/      
 */
+
+.front-page .content {
+    margin-top: 50px !important;
+}
+
+.front-page .tabmenu { /* fix alignment */
+    margin-bottom: 5px !important;
+    margin-left: 0 !important;
+}
+
 .font-page #header{ /* Bar @ top */
     top: -55px !important;
     background: #efefef !important;
@@ -61,6 +65,9 @@ div.nav-buttons{
     margin-top: -10px !important;
 }
 
+.front-page .side{ /* fix alignment */
+    margin-top: 10px !important;
+}
 /* 
   _    _                _           
  | |  | |              | |          
@@ -124,8 +131,9 @@ div.nav-buttons{
     font-weight: normal !important;
     font-size: 8pt !important;
 }
-.tabmenu {
+.tabmenu { /* fix alignment */
     margin-bottom: 5px !important;
+    margin-left: -9px !important;
 }
 .tabmenu li {
     margin: -3px !important;
@@ -182,9 +190,6 @@ body{ /* Sets BG of most things */
     margin: 10px 10px 0 10px !important;
 }
 
-.listing-page{ /* room for bar */
-    margin-top: 40px !important;
-}
 .listing-chooser-collapsed .content .spacer{ /* Fixes left margin between
                                                  front page and subreddits */
     margin-left: -10px !important;
@@ -215,11 +220,11 @@ a.title { /* Title Size */
 
 div.side { /* Actual Sidebar */
     padding: 10px!important;
-    padding-right: 20px !important;
+    padding-right: 30px !important;
     background: #fafafa !important;
-    transition: 1s ease all !important;
+    transition: 1s ease all 0.5s!important;
     opacity: 0 !important;
-    top: -15px !important;
+    top: 25px !important;
     left: -325px !important;
     float: left !important;
     position: absolute !important;
@@ -283,16 +288,8 @@ div.side:hover {
                                                      
 */
 
-.comments-page .side{ /* fix positioning of the sidebar */
-    margin-top: 40px !important;
-}
-
 .panestack-title { /* Section above comments */
     border: 0 !important;
-}
-
-.comments-page { /* fixes margins so you can read the OP */
-    margin-top: 40px !important;
 }
 
 .comments-page .menuarea { /* "sorted by" */
@@ -574,5 +571,15 @@ div.md p del,
 
 div.footer-parent { /* Footer */
     display: none !important;
+}
+
+div.nav-buttons{
+    margin: 10px 0 0 15px !important
+}
+
+.nextprev a{
+    border-radius: 0 !important;
+    border: none !important;
+    color: #648ea7 !important;
 }
 }
