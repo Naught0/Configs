@@ -145,7 +145,7 @@ img#header-img { /* Logo */
 
 .content .menuarea { /* When on "top" etc, controls "links from ..." */
     border: 0 !important;
-    margin-top: -15px !important;
+    margin-top: -5px !important;
     text-align: center !important;
 }
 
