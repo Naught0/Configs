@@ -26,6 +26,56 @@ p {
     margin-top: 40px !important;
 }
 
+.midcol {
+    height:80px !important;
+}
+.midcol .score {
+    margin-top: 5px !important;
+}
+
+.upmod,
+.up { /* up arrow */
+    width: 0 !important;
+    height: 15px !important;
+}
+
+.up:before,
+.upmod:before { /* replaces up arrow */
+    content: "⮝" !important;
+    font-size: 20px !important;
+    margin-left: -9px !important;
+    color: #ccc ;
+}
+
+.upmod:before{
+    color: #93a77f;
+}
+.midcol .likes{
+    color: #93a77f !important;;
+}
+
+.down,
+.downmod{
+    width: 0 !important;
+    margin-top: -5px !important;
+    height: 15px !important;
+}
+.down:before,
+.downmod:before {
+    content: "⮟" !important;
+    font-size: 20px !important;
+    margin-left: -9px !important;
+    color: #ccc !important;;
+    margin-top: -5px
+}
+.downmod:before{
+    color: #c69195 !important;
+}
+.midcol .dislikes{
+    color: #c69196 !important;
+}
+
+
 /*
   ______               _     _____                 
  |  ____|             | |   |  __ \                
@@ -147,7 +197,7 @@ img#header-img { /* Logo */
     display: none !important;
 }
 
-#sr-header-area .dropdown { /* Hide "My Subreddits" */
+header-area .dropdown { /* Hide "My Subreddits" */
     display: none !important;
 }
 
@@ -328,6 +378,17 @@ div.side:hover {
     color: #666 !important;
 }
 
+.comments-page .up,
+.comments-page .upmod{ /* fixes arrows */
+    margin-bottom: 10px !important;
+    height: 15px !important;
+}
+.comments-page .down,
+.comments-page .downmod{ /* Fixes arrows */
+    margin-top: 0 !important;
+    height: 15px !important;
+}
+
 /*
   _    _                 _____                 
  | |  | |               |  __ \                
@@ -465,11 +526,14 @@ div.side:hover {
     margin: 0 0 -20px 0 !important;
     border: none !important;
     box-shadow: 0 2px 2px #afafaf !important;
-    transition: 0.5s ease all !important;
+}
+
+.messages-page .tabmenu{ /* fix "compose" etc alignment */
+    margin-left: 0 !important;
 }
 
 .messages-page .content{ /* view " all unread etc " */
-    margin-top: 45px !important;
+    margin-top: 35px !important;
 }
 
 .messages-page .menuarea{ /* Fix spacing with Menu */
@@ -479,6 +543,14 @@ div.side:hover {
 .messages-page .thing{ /* Spacing on messages */
     margin: 10px 5px 0 5px !important;
     padding: 0 !important;
+}
+
+.message .unvoted,
+.message .entry { /* no double box shadows & appearance of message */
+    box-shadow: none !important;
+    border: 0 !important;
+    background-color: #efefef !important;
+    margin: 5px !important;
 }
 
 /*
