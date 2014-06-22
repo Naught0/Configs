@@ -1,57 +1,41 @@
 /* Naught's Edit of Imouto | For use with ihavenoface's fork of 4chanX */
 
 @-moz-document domain("boards.4chan.org") {
-/* Relative to the general appearance of 4chan. */
-*{
+
+*{ /* kill outlines and underlines */
     outline: 0 !important;
     text-decoration: none !important;
     font-weight: normal !important;
+    font-size: 8pt !important;
 }
 
-body {
+#navlinks a{
+    font-size: 12pt !important;
+}
+
+body { /* general stuff */
     background: #efefef !important;
     font-family: 'Open Sans', sans-serif !important;
     color: #1f1f1f !important;
     margin: auto !important;
     font-size: 8pt !important;
 }
-hr {
+hr { /* ugly lines @ top of pages */
     padding-top: 5px !important;
     border: 0 !important;
 }
 
-/* Links */
-a {
+a { /* Links */
     color: #666 !important;
-}
-
-/* Foreground of the header bar */
-#board-list,
-#custom-board-list {
-    color: #666 !important;
-}
-#header-bar a {
-    color: #666666 !important;
-}
-
-/* Background of the header bar */
-#header-bar.dialog {
-    background: #fafafa !important;
-    border: 0 !important;
-}
-
-/* Color of the selected board on the sublheader bar. */
-#header-bar a {
-    color: #648ea7 !important;
-    font-weight: bold !important;
 }
 
 /* Appearance of the menus. */
 #menu.dialog,
 .entry {
-    background: #ddd !important;
+    background: #fafafa !important;
     border: 0 !important;
     color: #666 !important;
+    font-size:8pt !important;
     
 }
 
@@ -165,9 +149,9 @@ span.postertrip {
 span.postNum a {
     color: #a5a5a5 !important;
 }
-
+f
 /* Poster's name. */
-span.name {
+.nameBlock *{
     color: #3d3d3d !important;
     font-weight: normal !important;
 }
@@ -259,11 +243,6 @@ div.fileText {
     font-size: 8pt !important;
 }
 
-/* Movable QR? */
-/* {
-    display: none !important;
-}*/
-
 /* Remove menu */
 #qr select,
 #qr > div {
@@ -293,18 +272,10 @@ fieldset legend,
 a.tab-main.tab-selected {
     font-family: "Open Sans" !important;
     font-size: 8pt !important;
-    background: #1a1a1a !important;
-    color: #dedede !important;
+    background: #fafafa !important;
+    color: #666 !important;
 }
 /* Relative to the thread watcher */
-#thread-watcher {
-    font-family: "Open Sans" !important;
-    color: #666 !important;
-    background: #efefef !important;
-    position: fixed !important;
-    margin: 20px !important;
-    box-shadow: #afafaf 0 0 5px !important;
-}
 #watched-threads a,
 #thread-watcher .fa{
     color: #666 !important;
@@ -402,6 +373,54 @@ a.backlink {
     
 #navlinks a:hover{
     color:#91b6c6!important;
-    transition:0.5s ease all !important;
+}
+
+/* Header */
+#header > .dialog{
+    background: #efefef !important;
+    border: 0 !important;
+    height: 60px !important;
+    color: #91b6c6 !important;
+    margin-top: -43px !important;
+    transition:0.5s ease all 1s !important;
+}
+#header-bar:hover{
+    margin-top: 0 !important;
+}
+
+#header-bar > #shortcuts a{
+    color: #91b6c6 !important;
+}
+
+#header-bar > #shortcuts{
+    position: absolute !important;
+    padding: 3px !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    background: #fafafa !important;
+}
+#board-list{
+    margin-bottom: 30px !important;
+}
+#custom-board-list > .current {
+    color: #648ea7 !important;
+    font-size: 20pt !important;
+    font-family: "Raleway" !important;
+    font-weight: 200 !important;
+}
+#custom-board-list{
+    color: #efefef !important;
+}
+.show-board-list-button{
+    display: none !important;
+}
+#thread-watcher {
+    font-family: "Open Sans" !important;
+    color: #666 !important;
+    background: #fafafa !important;
+    box-shadow: #afafaf 0 0 2px !important;
+    position: fixed !important;
+    margin: 20px !important;
 }
 }
