@@ -1,16 +1,20 @@
 /* Naught's Edit of Imouto | For use with ihavenoface's fork of 4chanX */
 
 @-moz-document domain("boards.4chan.org") {
+/*
+   _____                           _ 
+  / ____|                         | |
+ | |  __  ___ _ __   ___ _ __ __ _| |
+ | | |_ |/ _ \ '_ \ / _ \ '__/ _` | |
+ | |__| |  __/ | | |  __/ | | (_| | |
+  \_____|\___|_| |_|\___|_|  \__,_|_|
+*/
 
 *{ /* kill outlines and underlines */
     outline: 0 !important;
     text-decoration: none !important;
     font-weight: normal !important;
     font-size: 8pt !important;
-}
-
-#navlinks a{
-    font-size: 12pt !important;
 }
 
 body { /* general stuff */
@@ -39,23 +43,13 @@ a { /* Links */
     
 }
 
-/* Catalog search and page links, This is not ready. */
-div.navLinks,
-div.pagelist {
-    background: transparent !important;
-    border: 0 !important;
-    display: inline-block !important;
-    margin-bottom: 0 !important;
-}
-
 /* Appearance of the thread updater and thread stats. */
 #index-search.field,
 #updater.dialog,
 #thread-stats.dialog {
-    
     background: transparent !important;
     color: #1a1a1a !important;
-    border-style: none !important;
+    border: 0 !important;
 }
 
 /* Thread updater menu */
@@ -143,15 +137,16 @@ span.postertrip {
 .prettyprint{
     margin-bottom: -7px !important;
     background: #efefef !important;
+    font-family: "tewi" !important;
 }
 
 /* Post numbers. */
 span.postNum a {
     color: #a5a5a5 !important;
 }
-f
+
 /* Poster's name. */
-.nameBlock *{
+span.name {
     color: #3d3d3d !important;
     font-weight: normal !important;
 }
@@ -195,11 +190,6 @@ a.hide-reply-button > span {
 .postInfo a,
 div.postInfo {
     color: #6f6f6f !important;
-}
-
-/* Relative to file info, i.e. filename, file size, resolution, etc. */
-div.fileText {
-    
 }
 
 /* Fix post previews. */
