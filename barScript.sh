@@ -1,10 +1,15 @@
 #!/bin/bash
 
 WHITE=#FFefefef
+DARK=#FF385879
+LIGHT=#FF688aad
 
+# ----- Summer ----- #
+#DARK=#FF648ea7
+#LIGHT=#FF91b6c6
 # ----- PINK ----- #
-DARK=#FFf36b6b
-LIGHT=#FFff897d
+#DARK=#FFf36b6b
+#LIGHT=#FFff897d
 
 # ----- Bliss ----- #
 #DARK=#FF1369ee
@@ -48,16 +53,16 @@ vol(){
 }
 
 mus(){
-	#echo -n  $(test -z "$(mpc current)" || mpc current -f %title%)
-	echo -n $(ps aux | grep -v "grep" | if grep -q "cmus"; then echo $(cmus-remote -Q | sed -n 's/tag title //p'); else echo "n/a"; fi)
+	echo -n  $(test -z "$(mpc current)" || mpc current -f %title%)
+	#echo -n $(ps aux | grep -v "grep" | if grep -q "cmus"; then echo $(cmus-remote -Q | sed -n 's/tag title //p'); else echo "n/a"; fi)
 }
 
 paws(){
-	#echo -n  $(mpc | if grep -q "paused"; then echo -n "▮▮"; else echo -n "♫"; fi)
-	echo -n $(cmus-remote -Q | if grep -q "paused"; then echo -n "▮▮"; else echo -n "♫"; fi)
+	echo -n  $(mpc | if grep -q "paused"; then echo -n "▮▮"; else echo -n "♫"; fi)
+	#echo -n $(cmus-remote -Q | if grep -q "paused"; then echo -n "▮▮"; else echo -n "♫"; fi)
 }
 
 while :; do
-	printf "%s\n" "%{A::}%{B$DARK} %{F$WHITE}$(paws)%{A} %{F$DARK}%{B$LIGHT}%{A}%{F-}%{B-}%{F$WHITE}%{B$LIGHT} $(mus) %{B-}%{F-}%{F$LIGHT}%{B-}%{c}%{B$DARK}%{F$WHITE}%{B-}%{F-}%{B$DARK} %{F$WHITE}$(workspace) %{B-}%{F-}%{F$WHITE}%{B$DARK}%{B-}%{F-}%{c}%{r}%{F$LIGHT}%{F-}%{B$LIGHT}%{F$WHITE} $(bat) ram $(ram) vol $(vol)% %{B-}%{F-}%{F$DARK}%{B$LIGHT}%{F-}%{B-}%{B$DARK}%{F$WHITE} $(dat) %{B-}%{F-}"
+	printf "%s\n" "%{A:mpc toggle:}%{B$DARK} %{F$WHITE}$(paws) %{F$DARK}%{B$LIGHT}%{A}%{A:osd:}%{F-}%{B-}%{F$WHITE}%{B$LIGHT} $(mus) %{B-}%{F-}%{F$LIGHT}%{B-}%{A}%{c}%{B$DARK}%{F$WHITE}%{B-}%{F-}%{B$DARK} %{F$WHITE}$(workspace) %{B-}%{F-}%{F$WHITE}%{B$DARK}%{B-}%{F-}%{c}%{r}%{F$LIGHT}%{F-}%{B$LIGHT}%{F$WHITE} $(bat) ram $(ram) vol $(vol)% %{B-}%{F-}%{F$DARK}%{B$LIGHT}%{F-}%{B-}%{B$DARK}%{F$WHITE} $(dat) %{B-}%{F-}"
 sleep 1
 done
