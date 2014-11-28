@@ -1,8 +1,8 @@
 #!/bin/bash
 
-WHITE=#FFefefef
-DARK=#FF385879
-LIGHT=#FF688aad
+WHITE=#FFf0ebcd
+DARK=#FF568090
+LIGHT=#FFc08158
 
 # ----- Summer ----- #
 #DARK=#FF648ea7
@@ -41,7 +41,7 @@ bat(){
 }
 
 ram(){
-	echo -n  $(free -m | awk '/-/ {print $3}')
+	echo -n  $(free -m | awk '/Mem/ {print $3}')
 }
 
 dat(){

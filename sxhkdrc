@@ -34,7 +34,10 @@ alt + {bracketleft,bracketright}
     bspc desktop -f {prev,next}
 
 ctrl + {h,j,k,l}
-    bspc window -p {left,down,up,right}
+    bspc window -p {left,down,up,right} -r .5
+
+ctrl + alt {h,j,k,l}
+    bspc window -p {left,down,up,right} -r .25
 
 alt + ctrl + {_,shift + }space
     bspc {window -p cancel,desktop -c}
@@ -128,7 +131,7 @@ super + m
 	urxvt -e ncmpcpp
 
 alt + p
-    dmenu_run -b -fn Tewi-7 -nb "#fafafa" -nf '#111111' -sb '#ff897d' -sf '#fafafa'
+    dmenu_run -b -fn "-*-tewi-*-*-normal-*-11-*-*-*-*-*-*-*" -nb "#fafafa" -nf '#111111' -sb '#c08158' -sf '#fafafa'
 
 alt + shift + p
 	mpc toggle
@@ -141,6 +144,9 @@ alt + shift + period
 
 alt + shift + comma
 	mpc prev
+
+alt + super + p
+    osd
 
 XF86AudioMute
 	amixer set Master toggle

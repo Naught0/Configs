@@ -1,4 +1,4 @@
-! Xft.dpi: 96
+Xft.dpi: 96
 Xft.antialias: true
 Xft.hinting: true
 Xft.rgba: rgb
@@ -6,16 +6,15 @@ Xft.autohint: false
 Xft.hintstyle: hintslight
 Xft.lcdfilter: lcddefault
 urxvt*cursorBlink: true
-URxvt*buffered: false
 
 ! URxvt*iconFile: /usr/share/icons/elFaenza/apps/48/Terminal.png
 
-URxvt.geometry: 98x20
+URxvt.geometry: 94x22
 
 URxvt.scrollBar: false
 
-URxvt.font: xft:tewi:normal:pixelsize=11
-URxvt.boldFont: xft:tewi:normal:pixelsize=11
+URxvt.font: xft:Tewi:regular:size=11
+URxvt.boldFont: xft:Tewi:regular:size=11
 
 *background:#1a1a1a
 *foreground:#fafafa
@@ -27,35 +26,35 @@ URxvt.boldFont: xft:tewi:normal:pixelsize=11
 
 ! White
 *color7:#cccccc
-*color15:#ffffff
+*color15:#fafafa
 
 ! Red
-*color1:#BE634E
-*color9:#E9917E
+*color1:#A7646A
+*color9:#C69195
 
 ! Green
-*color2:#7B8E78
-*color10:#A8C9A3
+*color2:#637F53
+*color10:#93A77F
 
 ! Yellow
-*color3:#E9C77D
-*color11:#F0EBCD
+*color3:#F4E477
+*color11:#FBEFA1
 
 ! Blue
-*color4:#568090
-*color12:#7FA4B3
+*color4:#648EA7
+*color12:#91B6C6
 
 ! Purple
-*color5:#85736B
-*color13:#AF9B9B
+*color5:#555584
+*color13:#7D7DA8
 
 ! Cyan
-*color6:#C08158
-*color14:#E0AD8D
+*color6:#64A794
+*color14:#96C3B6
 
 ! Click URLs
 URxvt.perl-ext-common:  default,matcher
-URxvt.url-launcher:      /usr/bin/chromium
+URxvt.url-launcher:      /usr/bin/firefox
 URxvt.matcher.button:   1
 
 urxvt.iso14755:false

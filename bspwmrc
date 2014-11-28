@@ -1,17 +1,17 @@
-#! /bin/sh
+#!/bin/bash
 
 bspc monitor -d 1 2 3 4 5 
 
 bspc config border_width        5
 bspc config window_gap          5
-bspc config split_ratio         0.52
+bspc config split_ratio         0.5
 bspc config borderless_monocle  false
 bspc config gapless_monocle     false
 
 bspc config top_padding 17px
-bspc config presel_border_color "#BA3E48"
-bspc config normal_border_color "#cccccc"
-bspc config focused_border_color "#ff8f7d"
+bspc config presel_border_color "#568090"
+bspc config normal_border_color "#f0ebcd"
+bspc config focused_border_color "#7fa4b3"
 bspc config focus_follows_pointer true
 
 bspc rule -a Gimp desktop=^3 follow=on floating=on

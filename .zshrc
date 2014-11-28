@@ -1,11 +1,16 @@
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
+export PULSE_LATENCY_MSEC=60
 
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
-ZSH_THEME="robbyrussell"
+ZSH_THEME="eastwood"
+#PROMPT='> '
+
+# Grep_error fix
+unset GREP_OPTIONS
 
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
@@ -58,7 +63,7 @@ export PATH="/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/
 #export PATH="/home/james/.scripts"
 # export MANPATH="/usr/local/man:$MANPATH"
 export PATH="$PATH:/home/james/.scripts"
-#export PATH="$PATH:/usr/bin/core_perl"
+export PATH="$PATH:/usr/bin/core_perl"
 
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
@@ -82,9 +87,17 @@ alias rmv="sudo pacman -R"
 alias rmva="sudo pacman -Rcns"
 alias up="sudo pacman -Syuu"
 alias inst="pacaur -S"
+#alias in="sudo apt-get install"
+#alias rmv="sudo apt-get remove"
+#alias rmva="sudo apt-get autoremove --purge"
+#alias up="sudo apt-get update ; sudo apt-get upgrade ; sudo apt-get dist-upgrade"
 alias fonts="fc-cache -fv"
 alias rm="rm -v"
 alias cp="cp -v"
 alias mv="mv -v"
-alias push="gitstuff"
 alias chat="weechat"
+alias git1="git add ."
+alias git2="git commit -m"
+alias git3="git push origin master"
+alias xinit="xinit -- /usr/bin/Xorg.bin -nolisten tcp :0 vt$XDG_VTNR"
+export PATH="$HOME/.rbenv/bin:$PATH"
