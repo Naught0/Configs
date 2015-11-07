@@ -30,28 +30,28 @@ URxvt.boldFont: xft:tewi:normal:pixelsize=11
 *color15:#ffffff
 
 ! Red
-*color1:#944743
-*color9:#BD726E
+*color1:#BE634E
+*color9:#E9917E
 
 ! Green
-*color2:#9FB877
-*color10:#DFEACE
+*color2:#7B8E78
+*color10:#A8C9A3
 
 ! Yellow
-*color3:#8F5626
-*color11:#BF916A
+*color3:#E9C77D
+*color11:#F0EBCD
 
 ! Blue
-*color4:#3D667F
-*color12:#72A9CA
+*color4:#568090
+*color12:#7FA4B3
 
 ! Purple
-*color5:#6C527C
-*color13:#A886BE
+*color5:#85736B
+*color13:#AF9B9B
 
 ! Cyan
-*color6:#6CAB95
-*color14:#B9E0D2
+*color6:#C08158
+*color14:#E0AD8D
 
 ! Click URLs
 URxvt.perl-ext-common:  default,matcher
