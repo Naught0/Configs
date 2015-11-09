@@ -131,7 +131,7 @@ super + m
 	urxvt -e ncmpcpp
 
 alt + p
-    dmenu_run -b -fn "-*-tewi-*-*-normal-*-11-*-*-*-*-*-*-*" -nb "#fafafa" -nf '#111111' -sb '#c08158' -sf '#fafafa'
+    dmenu_run -b -fn 'Tewi-9' -nb "#DFEACE" -nf '#111111' -sb '#3d667f' -sf '#DFEACE'
 
 alt + shift + p
 	mpc toggle

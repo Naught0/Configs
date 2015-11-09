@@ -1,12 +1,17 @@
 #!/bin/bash
 
-WHITE=#FFf0ebcd
-DARK=#FF568090
-LIGHT=#FFc08158
+WHITE=#FFDFEACE
+DARK=#FF3d667f
+LIGHT=#FF8F5626
+
+# ----- Alice ----- #
+# DARK=#FF568090
+# LIGHT=#FFc08158
 
 # ----- Summer ----- #
 #DARK=#FF648ea7
 #LIGHT=#FF91b6c6
+
 # ----- PINK ----- #
 #DARK=#FFf36b6b
 #LIGHT=#FFff897d
@@ -63,6 +68,6 @@ paws(){
 }
 
 while :; do
-	printf "%s\n" "%{A:mpc toggle:}%{B$DARK} %{F$WHITE}$(paws) %{F$DARK}%{B$LIGHT}%{A}%{A:osd:}%{F-}%{B-}%{F$WHITE}%{B$LIGHT} $(mus) %{B-}%{F-}%{F$LIGHT}%{B-}%{A}%{c}%{B$DARK}%{F$WHITE}%{B-}%{F-}%{B$DARK} %{F$WHITE}$(workspace) %{B-}%{F-}%{F$WHITE}%{B$DARK}%{B-}%{F-}%{c}%{r}%{F$LIGHT}%{F-}%{B$LIGHT}%{F$WHITE} $(bat) ram $(ram) vol $(vol)% %{B-}%{F-}%{F$DARK}%{B$LIGHT}%{F-}%{B-}%{B$DARK}%{F$WHITE} $(dat) %{B-}%{F-}"
-sleep 1
+    printf "%s\n" "%{A:mpc toggle:}%{B$DARK} %{F$WHITE}$(paws) %{F$DARK}%{B$LIGHT}%{A}%{A:osd:}%{F-}%{B-}%{F$WHITE}%{B$LIGHT} $(mus) %{B-}%{F-}%{F$LIGHT}%{B-}%{A}%{c}%{B$DARK}%{F$WHITE}%{B-}%{F-}%{B$DARK} %{F$WHITE}$(workspace) %{B-}%{F-}%{F$WHITE}%{B$DARK}%{B-}%{F-}%{c}%{r}%{F$LIGHT}%{F-}%{B$LIGHT}%{F$WHITE} $(bat) ram $(ram) vol $(vol) %{B-}%{F-}%{F$DARK}%{B$LIGHT}%{F-}%{B-}%{B$DARK}%{F$WHITE} $(dat) %{B-}%{F-}"
+sleep 0.5s
 done
