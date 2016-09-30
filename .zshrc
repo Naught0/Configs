@@ -64,6 +64,7 @@ export PATH="/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/
 # export MANPATH="/usr/local/man:$MANPATH"
 export PATH="$PATH:/home/james/.scripts"
 export PATH="$PATH:/usr/bin/core_perl"
+export PATH="$PATH:/home/james/bspwm/examples/panel"
 
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
@@ -99,5 +100,5 @@ alias chat="weechat"
 alias git1="git add ."
 alias git2="git commit -m"
 alias git3="git push origin master"
-alias xinit="xinit -- /usr/bin/Xorg.bin -nolisten tcp :0 vt$XDG_VTNR"
+alias xinit="startx"
 export PATH="$HOME/.rbenv/bin:$PATH"
