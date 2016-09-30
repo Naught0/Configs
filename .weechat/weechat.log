@@ -1,0 +1,15 @@
+[2016-09-29 23:18:03] WeeChat 1.5 (compiled on May 11 2016 07:10:34)
+[2016-09-29 23:18:03] Reading configuration file sec.conf
+[2016-09-29 23:18:03] Reading configuration file weechat.conf
+[2016-09-29 23:18:03] Reading configuration file plugins.conf
+[2016-09-29 23:18:03] Reading configuration file charset.conf
+[2016-09-29 23:18:03] Reading configuration file logger.conf
+[2016-09-29 23:18:03] Reading configuration file exec.conf
+[2016-09-29 23:18:03] Reading configuration file trigger.conf
+[2016-09-29 23:18:03] Reading configuration file alias.conf
+[2016-09-29 23:18:03] Reading configuration file xfer.conf
+[2016-09-29 23:18:03] Reading configuration file irc.conf
+[2016-09-29 23:18:03] Reading configuration file relay.conf
+[2016-09-29 23:18:03] Reading configuration file buffers.conf
+[2016-09-29 23:18:03] Reading configuration file script.conf
+[2016-09-29 23:18:03] irc: connecting to server irc.rizon.net/6667...

@@ -1,0 +1,1403 @@
+2014-12-04 22:37:09	◥	notc (0c@io-E2D6DA82.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2014-12-04 22:37:09	--	Topic for #null is "/dev/null"
+2014-12-04 22:37:09	--	Topic set by mkfs on Thu, 04 Dec 2014 00:11:32
+2014-12-04 22:37:09	--	Channel #null: 10 nicks (5 ops, 0 halfops, 2 voices, 3 normals)
+2014-12-04 22:37:11	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2014-12-04 22:37:15	--	Nicks #null: [&D @bash @mkfs @nani @voni +xwlf +zugg inai notc xcel]
+2014-12-04 22:37:15	--	Channel #null: 10 nicks (5 ops, 0 halfops, 2 voices, 3 normals)
+2014-12-04 22:38:11	notc	D
+2014-12-04 22:38:20	@mkfs	hi notc 
+2014-12-04 22:38:22	notc	ahoy
+2014-12-04 22:38:24	notc	what's a D
+2014-12-04 22:38:35	@mkfs	D's the bot, I guess
+2014-12-04 22:38:39	notc	o !
+2014-12-04 22:39:08	@mkfs	if you msg BotServ with "botlist", you only get D and nigglypuff
+2014-12-04 22:44:07	@voni	huh?
+2014-12-04 22:44:16	@mkfs	voni: BotServ
+2014-12-04 22:44:24	@voni	oh wait
+2014-12-04 22:44:33	@voni	lol I had /away set for a while and didn't know it
+2014-12-04 22:45:58	@voni	.desktop 3
+2014-12-04 22:45:59	@bash	http://a.pomf.se/bfdmhb.png [voni]
+2014-12-04 22:46:00	@voni	k
+2014-12-04 22:46:08	@mkfs	.desktop voni
+2014-12-04 22:46:09	@bash	[1] https://u.teknik.io/0RN7I5.png [2] http://a.pomf.se/ekjcyq.png [3] http://a.pomf.se/bfdmhb.png [voni]
+2014-12-04 22:46:16	@mkfs	.desktop cobcorn
+2014-12-04 22:46:17	@bash	[1] http://a.pomf.se/ekjcyq.png [2] https://u.teknik.io/0RN7I5.png [cobcorn]
+2014-12-04 22:46:21	@mkfs	k
+2014-12-04 22:46:24	@voni	o rite
+2014-12-04 22:47:11	@mkfs	the reason I'd rather have people use the same nicks they use on Rizon is because by doing so, they can mess with their desktop lists and they'll sync
+2014-12-04 22:47:37	+xwlf	My nick is similarat least.
+2014-12-04 22:47:37	@voni	right
+2014-12-04 22:47:46	@voni	http://a.pomf.se/bfdmhb.png what font is this
+2014-12-04 22:47:49	@mkfs	xwlf: what's your nick on Rizon?
+2014-12-04 22:47:55	+xwlf	Pr0Wolf29
+2014-12-04 22:48:00	@voni	kek
+2014-12-04 22:48:02	@mkfs	voni: no idea
+2014-12-04 22:48:06	@voni	hrmm
+2014-12-04 22:48:15	@mkfs	xwlf: I don't think it's similar, but ok
+2014-12-04 22:48:16	@voni	I think it was default before but I changed it
+2014-12-04 22:48:31	notc	voni: that there is a sexy desktop
+2014-12-04 22:48:38	+xwlf	It's about as close as I could get without blatantly putting "wolf".
+2014-12-04 22:48:39	@voni	mkfs: what editor do you use anyway
+2014-12-04 22:48:41	@voni	notc: ty
+2014-12-04 22:48:53	notc	:>
+2014-12-04 22:48:57	@mkfs	voni: Notepad2
+2014-12-04 22:49:01	@voni	lel
+2014-12-04 22:49:09	notc	what's swm all about
+2014-12-04 22:49:13	@mkfs	pls no bully
+2014-12-04 22:49:17	@voni	atom is available for windows u no
+2014-12-04 22:49:21	@voni	notc: being cool
+2014-12-04 22:49:25	notc	what's it do
+2014-12-04 22:49:31	@voni	well
+2014-12-04 22:49:44	@voni	all it really does rn is add double window borders and mouse focus for me
+2014-12-04 22:49:51	@mkfs	voni: and sublime text is available, Notepad++, etc
+2014-12-04 22:49:55	@voni	default it lets you move windows with the mouse but I removed
+2014-12-04 22:49:56	@mkfs	I like Notepad2
+2014-12-04 22:50:00	@voni	mkfs: o k
+2014-12-04 22:50:04	@voni	I liked atom because github
+2014-12-04 22:50:11	@voni	but its 2heavy for my aspire
+2014-12-04 22:50:34	@voni	notc: I only use swm because of the mouse focus
+2014-12-04 22:50:38	@voni	wmutils really handles my windows
+2014-12-04 22:51:00	notc	uhh
+2014-12-04 22:51:04	notc	so it's 2bwm
+2014-12-04 22:51:23	@voni	smaller, without the broken shit, and with double borders
+2014-12-04 22:51:57	@voni	double borders are p sexy
+2014-12-04 23:19:28	@voni	ugh, is it bad that I like sublime so much
+2014-12-04 23:21:59	notc	sublime text?
+2014-12-04 23:22:18	@voni	yeah
+2014-12-04 23:22:49	notc	it's 8/10, that's why
+2014-12-04 23:23:10	@voni	kek
+2014-12-04 23:23:20	@voni	it's just so smooth and there's so many features and ugh
+2014-12-04 23:23:29	@voni	if it wasn't proprietary it'd be 10/10
+2014-12-04 23:23:34	@voni	but I can understand it
+2014-12-04 23:26:45	notc	it's pr ok
+2014-12-04 23:26:57	notc	proprietary isn't necessarily a bad thing
+2014-12-04 23:27:01	notc	how else would programmers make money
+2014-12-04 23:27:58	@voni	mmhm
+2014-12-04 23:29:54	notc	I think the crusades against proprietary software are autistic. If you don't like it, then don't use it. It's completely unreasonable to think all software should be free and open.
+2014-12-04 23:29:59	notc	Anyway, good night frienderinos
+2014-12-04 23:30:05	@voni	true that
+2014-12-04 23:30:06	@voni	nn notc
+2014-12-04 23:30:13	notc	gee ehn
+2014-12-04 23:30:16	--	irc: disconnected from server
+2014-12-05 14:51:33	◥	notc (0c@io-E2D6DA82.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2014-12-05 14:51:33	--	Topic for #null is "/dev/null"
+2014-12-05 14:51:33	--	Topic set by mkfs on Thu, 04 Dec 2014 00:11:32
+2014-12-05 14:51:33	--	Channel #null: 12 nicks (5 ops, 0 halfops, 2 voices, 5 normals)
+2014-12-05 14:51:35	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2014-12-05 14:51:37	tttt	that shit's the greates
+2014-12-05 14:51:38	tttt	t
+2014-12-05 14:52:06	notc	hiya
+2014-12-05 14:52:17	tttt	hola
+2014-12-05 14:52:21	xcel	hello notc 
+2014-12-05 14:52:35	tttt	are you guys feeling festive yet http://puu.sh/dbE2Q/a2f8a86fe6.png
+2014-12-05 14:52:40	tttt	it's almost christmas
+2014-12-05 14:53:19	kybk	 hey notc 
+2014-12-05 14:53:30	notc	hi !
+2014-12-05 14:53:35	notc	hru guys
+2014-12-05 14:53:57	@mkfs	hi notc 
+2014-12-05 14:54:00	@mkfs	I'm ok, you?
+2014-12-05 14:54:07	notc	I'm p alright. Gonna go to da mall soon
+2014-12-05 14:54:12	notc	Get me some chik fil a :')
+2014-12-05 14:54:28	@mkfs	tttt: you're right, it is almost christmas
+2014-12-05 14:54:38	kybk	ilu mkfs 
+2014-12-05 14:54:43	@mkfs	y-you too
+2014-12-05 14:54:47	tttt	notc: we have chik fil a here on campus
+2014-12-05 14:55:04	notc	and you're not eating there right now why?
+2014-12-05 14:55:13	tttt	p. good, i really only like the breakfast biscuit chicken guys
+2014-12-05 14:55:25	tttt	notc: good point.
+2014-12-05 14:58:42	kybk	tfw properly programming for the first time in forever
+2014-12-05 14:58:47	kybk	I might actually finish a project
+2014-12-05 15:04:51	tttt	do it
+2014-12-05 15:05:18	@mkfs	ncie
+2014-12-05 15:05:20	@mkfs	nice*
+2014-12-05 15:05:37	kybk	lol I didn't want everything to be in one big mainfile, so I've moved everything out, and now the main file is about 4 lines
+2014-12-05 15:05:59	kybk	idk if that's good or bad
+2014-12-05 15:09:35	xcel	kybk: if your trying to follow the unix philosophy then it is okay.
+2014-12-05 15:09:46	xcel	if not then probably no
+2014-12-05 15:09:49	kybk	Well I guess I am
+2014-12-05 15:09:59	kybk	I'm not sure if that's unix philosphy or not though
+2014-12-05 15:10:30	xcel	unix philosophy is writing few code as possible and one thing doing one thing well
+2014-12-05 15:10:40	xcel	if your doing that then i guess that is fine?
+2014-12-05 15:11:06	kybk	Have I might you before btw xcel?
+2014-12-05 15:11:13	kybk	Do you ever go by another name
+2014-12-05 15:11:20	xcel	don't remember meeting anyone before
+2014-12-05 15:12:07	kybk	ok
+2014-12-05 15:15:07	@mkfs	kybk: I like to think xcel's nickname here is a reference to Kingdom Hearts' Axel, but his name is already four letters long
+2014-12-05 15:15:17	@mkfs	I hate Excel, so I just keep telling myself it's axel
+2014-12-05 15:15:28	kybk	Fair enough
+2014-12-05 15:15:31	xcel	my name is originally "Xcelq" it just a randomly generated name
+2014-12-05 15:15:40	kybk	why does everyone have 4 letter names?
+2014-12-05 15:15:42	@mkfs	sure, axel
+2014-12-05 15:15:47	@mkfs	kybk: is a rool
+2014-12-05 15:15:47	xcel	kek
+2014-12-05 15:15:51	kybk	k
+2014-12-05 15:15:53	kybk	What about D
+2014-12-05 15:16:03	@mkfs	it was either D or nigglytuff
+2014-12-05 15:16:08	kybk	inb4 dick jokes
+2014-12-05 15:16:10	kybk	k
+2014-12-05 15:16:12	kybk	Do I know who D is?
+2014-12-05 15:16:21	@mkfs	kybk: /msg botserv botlist
+2014-12-05 15:16:25	kybk	oh
+2014-12-05 15:16:34	@mkfs	he's the resident bot
+2014-12-05 15:16:54	kybk	>D (SheW@nts.it)
+2014-12-05 15:16:56	kybk	pls
+2014-12-05 15:17:01	kybk	I inb4'd
+2014-12-05 15:17:07	@mkfs	you did
+2014-12-05 15:17:58	xcel	Does anybody here like vidya?
+2014-12-05 15:18:08	kybk	People don't like vidya?
+2014-12-05 15:18:09	@mkfs	I like it, but not much a gamer myself
+2014-12-05 15:18:16	@mkfs	kybk: my grandfather doesn't
+2014-12-05 15:18:20	@mkfs	unless it's a flight simulator
+2014-12-05 15:18:27	@mkfs	my grandma still associates pikachu to games
+2014-12-05 15:18:28	kybk	lol
+2014-12-05 15:18:42	xcel	mkfs: they still put pikachu in pokemon
+2014-12-05 15:18:43	xcel	mfw
+2014-12-05 15:19:02	xcel	my parents always assoicated games with "are you winning yet" ugh
+2014-12-05 15:19:05	@mkfs	xcel: I know, but she's only ever seen the cartoon
+2014-12-05 15:19:24	kybk	Idk what my parents think about games
+2014-12-05 15:19:32	@mkfs	everytime a pokémon pops up on the screen, no matter who it is, "Wilson, pikachu is on the telly, come watch"
+2014-12-05 15:19:48	kybk	as long as they weren't getting in the way of me studying they didn't really care
+2014-12-05 15:20:02	@mkfs	kybk: your parents are great
+2014-12-05 15:20:07	xcel	i meant to say those were my grandparents
+2014-12-05 15:20:14	xcel	my parents don't care as long as it isn't harming anybody
+2014-12-05 15:20:22	kybk	mkfs: ik <3
+2014-12-05 15:20:53	xcel	I should quote "harming" cuse they have a weird definition
+2014-12-05 15:20:54	@mkfs	I used to hear stories from a classmate about his dad barging into his room whilst he played something on his computer
+2014-12-05 15:21:18	kybk	Well they are the nicest people, they do have a few oddities though
+2014-12-05 15:21:42	kybk	They're really paranoid, I doubt they would want me talking on irc because they think some internet predator will kill me
+2014-12-05 15:21:52	@mkfs	turns out his father has won "international championships" of Minecraft, League of Legends, CS:GO, World of Warcraft, Super Mario Kart and The Legend of Zelda: The Minish Cap
+2014-12-05 15:22:00	kybk	lol
+2014-12-05 15:22:14	kybk	Those well known minecraft championships
+2014-12-05 15:22:28	@mkfs	everytime: "oh, you're playing that? I won last year's international championship, son"
+2014-12-05 15:22:30	kybk	I watch them on twitch all the time
+2014-12-05 15:23:30	xcel	kybk: do you know about livestreamer?
+2014-12-05 15:23:32	kybk	yes
+2014-12-05 15:23:35	kybk	I use it
+2014-12-05 15:23:37	xcel	good~
+2014-12-05 15:23:37	tttt	I play games with my friends sometimes
+2014-12-05 15:23:44	tttt	on the internet
+2014-12-05 15:23:55	notc	> watching streams
+2014-12-05 15:23:57	notc	I swear
+2014-12-05 15:24:11	notc	Anyone that watches others play video games for any extended period of time is autism
+2014-12-05 15:24:12	kybk	Streams are fun
+2014-12-05 15:24:15	notc	pure autism
+2014-12-05 15:24:18	kybk	I am autism
+2014-12-05 15:24:24	tttt	I have a few close friends from high school who i still hang out with on mumble like every day
+2014-12-05 15:24:31	xcel	notc: I am master race autism
+2014-12-05 15:24:34	notc	unsame
+2014-12-05 15:24:56	kybk	Once I leave 6th form I think I will lose contact with my friends
+2014-12-05 15:25:01	kybk	Which is sad
+2014-12-05 15:25:01	notc	I can't deal with it. Those things are so boring. They're like the only thing my little brother watches. Then he'll watch Yogscast and shit and I can't understand how anyone deals with it.
+2014-12-05 15:25:06	kybk	but I think it's inevitable
+2014-12-05 15:25:18	@mkfs	tfw no stream watching and I'm autistic
+2014-12-05 15:25:32	notc	lol
+2014-12-05 15:25:38	kybk	mkfs: Why did you rice twitch chat if you never watch streams?
+2014-12-05 15:25:38	tttt	some of the yogscast guys are pretty funny though
+2014-12-05 15:25:47	tttt	sips is a great guy
+2014-12-05 15:25:54	xcel	tttt: do you watch mindcrack?
+2014-12-05 15:26:00	tttt	no
+2014-12-05 15:26:04	xcel	wot
+2014-12-05 15:26:04	kybk	God this brings me back
+2014-12-05 15:26:08	kybk	I used to watch mindcrack
+2014-12-05 15:26:09	tttt	I don't follow a lot of their things
+2014-12-05 15:26:13	kybk	rip
+2014-12-05 15:26:13	@mkfs	kybk: I wanted to rice something, plus sometimes I get sent links to twitch.tv streams that I watch for two minutes before disconnecting out of boredom
+2014-12-05 15:26:16	tttt	I just watch some of sips' stuff.
+2014-12-05 15:26:21	kybk	fair enough
+2014-12-05 15:26:32	tttt	and the dnd series they've been doing is pretty good.
+2014-12-05 15:26:39	xcel	kybk: ethoslab still make videos they are fun to watch
+2014-12-05 15:26:44	tttt	also team double dragon is pretty comfy
+2014-12-05 15:26:50	kybk	I used to watch that quite a lot
+2014-12-05 15:27:01	xcel	he doing crash landing
+2014-12-05 15:27:08	kybk	I don't really watch many gaming vids now
+2014-12-05 15:27:28	kybk	I just watch a stream of a godly league player when I'm bored and cba to do anything else
+2014-12-05 15:27:35	xcel	kybk: i do their fun https://www.youtube.com/watch?v=NM1Yi6W4-yQ&list=UUFKDEp9si4RmHFWJW1vYsMA
+2014-12-05 15:27:55	kybk	Ooh he's still using that intro
+2014-12-05 15:27:59	kybk	holy shit nostalgia
+2014-12-05 15:28:19	tttt	hat films anyone?
+2014-12-05 15:28:30	kybk	my friend and I used to watch him all the time
+2014-12-05 15:28:37	tttt	those guys are good people
+2014-12-05 15:28:45	kybk	tfw that friends left and I'll possibly never see him again
+2014-12-05 15:28:54	tttt	:(
+2014-12-05 15:29:09	notc	ok stop being sad
+2014-12-05 15:29:10	tttt	well, it's time for me to head out to campus for the last two lectures of the quarter
+2014-12-05 15:29:12	notc	no sad allowed
+2014-12-05 15:29:35	kybk	k
+2014-12-05 15:29:37	@mkfs	no sad
+2014-12-05 15:29:46	xcel	Anyone koreaboo in here?
+2014-12-05 15:29:53	kybk	the fuck is koreaboo
+2014-12-05 15:29:56	kybk	oh
+2014-12-05 15:29:57	kybk	I get it
+2014-12-05 15:30:07	@mkfs	kybk: korea equivalent of weeb, I guess
+2014-12-05 15:30:19	xcel	yup mkfs
+2014-12-05 15:30:29	@mkfs	I'm not really into korean stuff, I like a few kpop songs, but that's about it
+2014-12-05 15:30:39	xcel	im a hybrid between korea/japan
+2014-12-05 15:30:42	@mkfs	I've seen a few korean dramas, too
+2014-12-05 15:30:43	kybk	some kpop is cute
+2014-12-05 15:30:48	@mkfs	you're cute
+2014-12-05 15:30:52	notc	n-no homo
+2014-12-05 15:30:58	kybk	I am not a *boo though
+2014-12-05 15:31:05	xcel	notc: >not wanting bl
+2014-12-05 15:31:16	@mkfs	kybk: but anime
+2014-12-05 15:31:23	notc	what's bl
+2014-12-05 15:31:28	xcel	boylove
+2014-12-05 15:31:33	kybk	There is a difference between liking some anime and being a weeb imho
+2014-12-05 15:31:44	kybk	idk
+2014-12-05 15:31:55	@mkfs	meh
+2014-12-05 15:32:02	kybk	maybe I am
+2014-12-05 15:32:07	xcel	kybk: I am a buyfag too i guess that doesn't help huh?
+2014-12-05 15:32:13	xcel	"buyfag"
+2014-12-05 15:32:23	@mkfs	I'm into japanese songs, anime, a few manga, so I guess that already makes me qualify as a weeb
+2014-12-05 15:32:36	tttt	https://www.youtube.com/watch?v=OFQQALduhzA
+2014-12-05 15:32:39	kybk	mkfs: what do you mean by japanese songs btw?
+2014-12-05 15:32:41	@mkfs	given I'm not that into western stuff, even though it's not because I don't like it
+2014-12-05 15:32:46	kybk	Like vokaloid
+2014-12-05 15:32:49	xcel	I am obessed with japanese and korea culture mkfs so im pretty positive i am a weeb
+2014-12-05 15:33:36	@mkfs	kybk: vocaloid, anime soundtracks, YUI's discography, some indigo la End songs, nano, random songs by japanese singers like Yanagi Nagi, Utada Hikaru and Chelly, etc
+2014-12-05 15:33:51	kybk	k
+2014-12-05 15:33:55	xcel	I like denpa too
+2014-12-05 15:34:09	kybk	I can't get into vocaloid, it just has no feeling to it
+2014-12-05 15:34:10	tttt	i like japanese girl rock bands
+2014-12-05 15:34:11	kybk	too robotic
+2014-12-05 15:34:19	xcel	kybk: try denpa
+2014-12-05 15:34:20	tttt	kybk how's this?
+2014-12-05 15:34:21	tttt	one sec
+2014-12-05 15:34:30	xcel	https://www.youtube.com/watch?v=QVwrR4gH-Vk
+2014-12-05 15:34:36	@mkfs	kybk: listen to this: https://www.youtube.com/watch?v=fbQuCVOv1Ds&hd=1
+2014-12-05 15:34:40	tttt	http://vimeo.com/39758142
+2014-12-05 15:35:12	xcel	mkfs: do you listen to doujinmusic?
+2014-12-05 15:35:20	@mkfs	not really
+2014-12-05 15:35:27	@mkfs	I'm not that into stuff
+2014-12-05 15:35:36	kybk	I forgot I love touhou as well
+2014-12-05 15:35:39	kybk	maybe I am weeb
+2014-12-05 15:35:41	kybk	idk
+2014-12-05 15:35:56	tttt	gonna go listen to some silent siren on the way to school
+2014-12-05 15:35:57	tttt	adios now
+2014-12-05 15:35:59	kybk	mkfs: Idk the voice is just really weird
+2014-12-05 15:36:02	@mkfs	I'm a shame to the true weeb community, I think
+2014-12-05 15:36:31	@mkfs	kybk: come on, the song is great :<
+2014-12-05 15:36:45	kybk	hmm
+2014-12-05 15:37:44	kybk	I like Liz Triangle 
+2014-12-05 15:38:09	kybk	that's a 2hu circle
+2014-12-05 15:38:22	@mkfs	kybk: tfw too weeb for common people, too common for weeb people
+2014-12-05 15:38:35	kybk	you're just right for me
+2014-12-05 15:38:43	kybk	n-no homo
+2014-12-05 15:38:45	@mkfs	y-you too, b-baka
+2014-12-05 15:39:31	kybk	https://www.youtube.com/watch?v=lFcr2iYgfrQ
+2014-12-05 15:39:33	kybk	This is great
+2014-12-05 15:39:45	◣	tttt (lyk@io-E7CEADFB.dhcp.snlo.ca.charter.com) has quit (Ping timeout: 181 seconds)
+2014-12-05 15:40:54	xcel	tfw too weeb for mkfs
+2014-12-05 15:40:56	@mkfs	rip tttt
+2014-12-05 15:41:19	@mkfs	xcel: you sound pretty knowledgeable to the point of anticipating something overwhelming
+2014-12-05 15:41:27	@mkfs	me anticipating*
+2014-12-05 15:41:43	xcel	mkfs: I try to be knowledgeable
+2014-12-05 15:42:19	@mkfs	I stop to appreciate things for a long time, it keeps me from looking more into media
+2014-12-05 15:43:54	xcel	w-why would anyone do this https://imgur.com/a/u1Ti7
+2014-12-05 15:44:28	kybk	That would waste so much power
+2014-12-05 15:44:32	@mkfs	^
+2014-12-05 15:44:34	kybk	why not just use extractor fans
+2014-12-05 15:44:42	kybk	which are actually designed for that task
+2014-12-05 15:44:55	kybk	or just dust your room
+2014-12-05 15:45:13	xcel	Maybe he from /r/neckbeardnest? lel
+2014-12-05 15:45:37	kybk	I didn't want to know that subreddit existed
+2014-12-05 15:45:39	kybk	now I do
+2014-12-05 15:45:40	kybk	t-thanks
+2014-12-05 15:45:53	xcel	Your welcome sama
+2014-12-05 15:46:18	xcel	is like iosys weeb?
+2014-12-05 15:46:27	kybk	idk
+2014-12-05 15:46:43	@mkfs	went to see ir /r/extractorfans/ existed
+2014-12-05 15:46:43	@mkfs	https://u.teknik.io/Wsr5x2.png
+2014-12-05 15:46:45	@mkfs	no luck :<
+2014-12-05 15:47:01	kybk	rip
+2014-12-05 15:47:35	kybk	https://www.reddit.com/user/spoonm
+2014-12-05 15:47:40	kybk	>there doesn't seem to be anything here
+2014-12-05 15:47:42	kybk	rip
+2014-12-05 15:47:54	@mkfs	I created it for the purpose of ricing
+2014-12-05 15:47:56	@mkfs	never got to it, though
+2014-12-05 15:48:12	xcel	I think i remember talking to spoonm on #rice
+2014-12-05 15:48:22	kybk	xcel: You've been to #rice?
+2014-12-05 15:48:26	kybk	I might know you then?
+2014-12-05 15:48:30	kybk	What nick did you use?
+2014-12-05 15:48:30	@mkfs	a-are you a spy?
+2014-12-05 15:48:38	xcel	kybk: under a different name i'd like to be anonymous tho :p
+2014-12-05 15:48:43	kybk	pls
+2014-12-05 15:48:47	kybk	this is spooky
+2014-12-05 15:48:49	@mkfs	xcel: what did we talk about?
+2014-12-05 15:48:51	kybk	what if I know you
+2014-12-05 15:49:06	xcel	mkfs: i was just messing around with you i don't think we talked much
+2014-12-05 15:49:14	@mkfs	people do that ;-;
+2014-12-05 15:49:23	xcel	sorry spoonm
+2014-12-05 15:49:31	xcel	im a semi troll
+2014-12-05 15:49:53	kybk	xcel: pls pm name
+2014-12-05 15:50:02	@mkfs	NOTICE: we're not safe anymore
+2014-12-05 15:50:34	xcel	mkfs: please no bully
+2014-12-05 15:50:40	@mkfs	pls no bully
+2014-12-05 15:53:50	xcel	mkfs: i used to be dtyle/livecd on rizon :p
+2014-12-05 15:54:03	@mkfs	dtyle
+2014-12-05 15:54:08	@mkfs	I remember that nickname
+2014-12-05 15:54:14	@mkfs	I think
+2014-12-05 15:54:18	kybk	I defo do
+2014-12-05 15:54:54	xcel	i think we talked on #defect was it?
+2014-12-05 15:55:09	kybk	mfw I remember having an argument with you
+2014-12-05 15:55:12	kybk	with nanima
+2014-12-05 15:55:19	kybk	well nanima sided w/ me
+2014-12-05 15:55:21	@mkfs	I don't remember anything but the nickname
+2014-12-05 15:55:29	kybk	and we were arguing about if macs were good or not lol
+2014-12-05 15:55:33	xcel	haha
+2014-12-05 15:55:37	xcel	might have been it
+2014-12-05 15:58:03	xcel	kybk: i used to play ruescape on a imac before
+2014-12-05 15:58:03	kybk	I'm remembering more and more
+2014-12-05 15:58:11	kybk	you showed me bedrock linux
+2014-12-05 15:58:29	@mkfs	inb4 "did he makes your bed rock?"
+2014-12-05 15:58:39	@mkfs	make*
+2014-12-05 15:58:48	kybk	pls
+2014-12-05 15:58:53	@voni	hi kybk
+2014-12-05 15:58:57	@voni	welcome
+2014-12-05 15:58:57	xcel	mkfs: it a distrobution that takes other distro package mangement and you can take what you want
+2014-12-05 15:59:02	kybk	hi voni 
+2014-12-05 15:59:16	@voni	lol bedrock
+2014-12-05 15:59:19	kybk	voni: do I know you btw?
+2014-12-05 15:59:19	xcel	so let say you wanted gentoo as your system but wanted stable debian
+2014-12-05 15:59:22	@voni	I would use bedrock but I'm too lazy
+2014-12-05 15:59:26	xcel	you can do that
+2014-12-05 15:59:27	@voni	kybk: you did in the past
+2014-12-05 15:59:31	@voni	but this is a new life
+2014-12-05 15:59:32	@mkfs	huh
+2014-12-05 15:59:33	@voni	a new time
+2014-12-05 15:59:36	@voni	a NEW WORLD
+2014-12-05 15:59:38	kybk	k
+2014-12-05 15:59:44	kybk	w-who were you
+2014-12-05 15:59:47	@mkfs	kybk: just /whois him
+2014-12-05 15:59:50	@voni	kek
+2014-12-05 16:00:01	kybk	lol
+2014-12-05 16:00:14	kybk	hi cobcorn
+2014-12-05 16:00:23	xcel	kybk: i also like this game a lot https://www.youtube.com/watch?v=nbLOA_NlqZE
+2014-12-05 16:00:33	kybk	I should stop trying to find out who everyone is
+2014-12-05 16:00:39	kybk	it just disconcerts me not knowing
+2014-12-05 16:01:03	@mkfs	gnu network gnu life
+2014-12-05 16:01:14	xcel	mkfs: gnu bloat, unix is life unix is love
+2014-12-05 16:01:32	@mkfs	but I can't make unix jokes ;-;
+2014-12-05 16:01:47	xcel	But you can make gnu jokes :p
+2014-12-05 16:02:04	@mkfs	touché
+2014-12-05 16:02:41	xcel	I am going to show off my battlestation when i complete it
+2014-12-05 16:02:59	@voni	what differences are there between C and C++
+2014-12-05 16:03:11	xcel	c++ is harmful software were as c isn't
+2014-12-05 16:03:12	xcel	:^)
+2014-12-05 16:03:27	@voni	yeah that's why I'm wondering what the difference is lol
+2014-12-05 16:03:32	@voni	I'm looking at the catv page
+2014-12-05 16:03:32	@mkfs	voni: C++ is C, but + 1
+2014-12-05 16:03:46	@voni	kek
+2014-12-05 16:03:49	@mkfs	:3
+2014-12-05 16:03:59	@voni	so far I kiiinda like C
+2014-12-05 16:04:03	@voni	but I've always hated java
+2014-12-05 16:04:07	xcel	same
+2014-12-05 16:04:17	@mkfs	I've never had any experience with java
+2014-12-05 16:04:20	xcel	java is a bloated mess, because it is ported to every platform.
+2014-12-05 16:04:22	@voni	it's p ew
+2014-12-05 16:04:31	@voni	yeah, it's got a lot of bloat, as well as jut taking forever to write
+2014-12-05 16:05:09	kybk	mfw I checked for the success value then outputted an error message on it
+2014-12-05 16:05:11	kybk	me pls
+2014-12-05 16:05:33	@mkfs	kybk pls
+2014-12-05 16:05:38	xcel	does anybody here like suckless?
+2014-12-05 16:05:44	@mkfs	never heard of it
+2014-12-05 16:05:54	@voni	suckless is p cool
+2014-12-05 16:06:00	kybk	suprised you haven't seen kori talk about
+2014-12-05 16:06:02	kybk	them
+2014-12-05 16:06:02	@voni	I used wmii for a little while
+2014-12-05 16:06:12	@voni	and awesomewm was kinda ok but I don't like the bloat
+2014-12-05 16:06:13	xcel	surprised mkfs, http://suckless.org/
+2014-12-05 16:06:16	kybk	they made dwm and wmii and all sorts of "unix philosphy" tuff
+2014-12-05 16:06:31	xcel	they make software that suckless
+2014-12-05 16:06:34	@voni	dwm is p cool but I don't want to recompile to customize everything
+2014-12-05 16:06:37	xcel	dwm is only 5k lines of code
+2014-12-05 16:06:38	@voni	swm is the only exception in that case
+2014-12-05 16:06:40	xcel	i think
+2014-12-05 16:07:41	@voni	Children are nothing more than a toy some parents use to feed their ego and feel important. They are a nuisance and make life miserable for everyone else around.
+2014-12-05 16:07:45	@voni	haha what
+2014-12-05 16:08:15	@voni	wow
+2014-12-05 16:08:17	xcel	voni: read what he says on religion and agnositc, make me kek
+2014-12-05 16:08:18	@mkfs	nice
+2014-12-05 16:08:44	@voni	I was about to say " I agree with a few points when it comes to cat-v's opinions"
+2014-12-05 16:08:49	@voni	now I just can't even
+2014-12-05 16:09:52	xcel	voni: I tend to think he make good point on some stuff or a lot
+2014-12-05 16:10:06	@voni	when it comes to the software section, I agree partially
+2014-12-05 16:10:13	@voni	other than that, some of this is just rediculous
+2014-12-05 16:10:40	xcel	voni: this one was funny http://harmful.cat-v.org/software/operating-systems/linux/linux.gif
+2014-12-05 16:11:59	@voni	Another bunch of ignorant bullshit about your children: school uniforms. Bad
+2014-12-05 16:11:59	@voni	theory! The idea that if kids wear uniforms to school, it helps keep order.
+2014-12-05 16:11:59	@voni	Hey! Don't these schools do enough damage makin' all these children think
+2014-12-05 16:12:00	@voni	alike? Now they're gonna get 'em to look alike, too?
+2014-12-05 16:12:16	@voni	http://harmful.cat-v.org/society/children/fuck_the_children
+2014-12-05 16:12:21	@voni	I agree with some of this
+2014-12-05 16:12:49	@voni	You want to know how to help your kids?
+2014-12-05 16:12:50	@voni	Leave them the fuck alone.
+2014-12-05 16:12:52	@voni	that was a good line
+2014-12-05 16:12:53	@voni	I like that
+2014-12-05 16:13:08	kybk	it's just a quote from a commedian isn't it
+2014-12-05 16:13:18	kybk	and edgemaste commedian at that
+2014-12-05 16:13:32	@voni	idk if it's a comedian
+2014-12-05 16:14:08	xcel	voni: i always found uniforms ridiculous.
+2014-12-05 16:14:20	@voni	always.
+2014-12-05 16:14:25	@voni	there's no denying it
+2014-12-05 16:14:29	@voni	like, let's say
+2014-12-05 16:14:41	@voni	the rule against "PDA"s that they have at almost any school
+2014-12-05 16:14:51	@voni	sure, noone wants to see people making out in the middle of a hallway or something
+2014-12-05 16:14:55	xcel	The other argument was that "what if somebody comes into the school that not attending"?
+2014-12-05 16:15:05	@voni	but adults can do it in the middle of the sidewalk and the police don't throw them in prison
+2014-12-05 16:15:18	@voni	the only reason minors can't is because they have no rights to do anything about it
+2014-12-05 16:16:12	@voni	ugh, I've gotta say this guy is completely insane but i agree with some of it
+2014-12-05 16:16:21	@voni	http://harmful.cat-v.org/society/children/i_dont_care
+2014-12-05 16:16:50	@mkfs	I'm reading cat-v now
+2014-12-05 16:16:56	@mkfs	this seems so cool 
+2014-12-05 16:17:06	@voni	I really really really like some of it
+2014-12-05 16:17:10	@voni	and I really really really hate some of it
+2014-12-05 16:17:38	kybk	cat-v is autism in writing
+2014-12-05 16:17:44	kybk	they have an irc on freenode
+2014-12-05 16:17:46	kybk	I idle in it
+2014-12-05 16:19:26	@voni	 i might be autistic
+2014-12-05 16:19:28	xcel	voni: if you agreed with everything that would be silly huh?
+2014-12-05 16:19:33	@voni	lol
+2014-12-05 16:19:45	@voni	The only way to really end all discrimination related to marriage is to get government out of the marriage business.
+2014-12-05 16:19:48	@voni	definitely agree
+2014-12-05 16:20:00	@voni	what the fuck does the government even have to do with marriage
+2014-12-05 16:20:16	@voni	it's a choice made by the people that doesn't harm anyone else
+2014-12-05 16:20:25	@voni	there's no reason the government should hold any rights over that
+2014-12-05 16:21:40	@mkfs	voni: if you genuinely suspect you have autism, seek a psychiatrist and ask for a diagnosis
+2014-12-05 16:21:55	@voni	lmao
+2014-12-05 16:21:57	@voni	I don't think I do
+2014-12-05 16:22:02	@mkfs	..
+2014-12-05 16:22:05	@mkfs	pls
+2014-12-05 16:22:08	@voni	I was memeing
+2014-12-05 16:22:08	@voni	;-;
+2014-12-05 16:22:27	xcel	>I was only pretending!
+2014-12-05 16:22:36	xcel	:p
+2014-12-05 16:23:00	@mkfs	voni: please don't treat it as something to be made fun of
+2014-12-05 16:23:01	@mkfs	it's rude
+2014-12-05 16:23:06	@voni	;-; i'm sorry
+2014-12-05 16:23:17	@voni	i don't think autism is fun
+2014-12-05 16:23:19	@voni	ny*
+2014-12-05 16:51:19	◥	tttt (lyk@79E7E4F6.89F822D3.5E8E301.IP) has joined #null
+2014-12-05 16:51:24	xcel	welcome back tttt 
+2014-12-05 16:51:35	tttt	why thank you
+2014-12-05 16:51:47	@voni	hi tttt 
+2014-12-05 16:51:48	tttt	I have ten minutes before next (last) lecture
+2014-12-05 16:52:04	tttt	then I'll just sit in there and dick about on the computer, like usual
+2014-12-05 16:52:11	xcel	tttt: in that time you can do a quickie
+2014-12-05 16:52:25	tttt	a quickie irc hangout
+2014-12-05 16:52:29	@voni	lel
+2014-12-05 21:21:03	notc	IIIIIIIIIIIIIIIIIIIIIIIIIII
+2014-12-05 21:21:04	notc	have become
+2014-12-05 21:21:06	notc	comfortably numb
+2014-12-05 21:22:06	--	irc: disconnected from server
+2014-12-05 21:22:08	◥	notc (0c@io-E2D6DA82.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2014-12-05 21:22:08	--	Topic for #null is "/dev/null"
+2014-12-05 21:22:08	--	Topic set by mkfs on Thu, 04 Dec 2014 00:11:32
+2014-12-05 21:22:08	--	Channel #null: 10 nicks (5 ops, 0 halfops, 2 voices, 3 normals)
+2014-12-05 21:22:12	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2014-12-05 21:23:54	@zani	hey notc
+2014-12-05 21:24:00	notc	hiya!
+2014-12-05 21:24:01	xcel	Hello notc
+2014-12-05 21:24:08	notc	who is everyone
+2014-12-05 21:24:19	notc	what's a zani
+2014-12-05 21:24:23	notc	what's an xcel
+2014-12-05 21:24:26	@zani	im a nani
+2014-12-05 21:24:41	notc	o
+2014-12-05 21:24:48	xcel	notc: your basically asking me what is a trap :p
+2014-12-05 21:24:56	notc	is there any way that people figure out these things without asking?
+2014-12-05 21:24:59	notc	xcel: u wot
+2014-12-05 21:25:09	@zani	notc: does it matter?
+2014-12-05 21:25:36	notc	zani: If i know people then sure it does! But if it doesn't matter to the other person then I guess not.
+2014-12-05 21:25:44	@zani	well
+2014-12-05 21:25:45	@zani	you know me
+2014-12-05 21:25:54	@zani	mkfs is spoom
+2014-12-05 21:26:04	@mkfs	you don't know what
+2014-12-05 21:26:05	notc	I know cobcorn is hither
+2014-12-05 21:26:07	@mkfs	you don't know that*
+2014-12-05 21:26:26	xcel	notc: I am a trap that is pretty aggresive and likes to disucsse hot topics
+2014-12-05 21:26:38	notc	you sound as if you frequent tumblr
+2014-12-05 21:26:48	xcel	i am not from tumblr at all
+2014-12-05 21:26:50	xcel	nor leddit
+2014-12-05 21:26:55	notc	Okay! 
+2014-12-05 21:26:57	notc	:>
+2014-12-05 21:27:10	@zani	.desktop
+2014-12-05 21:27:11	@bash	You don't have any desktops saved.
+2014-12-05 21:27:14	@zani	wa
+2014-12-05 21:27:17	notc	.desktop
+2014-12-05 21:27:19	@bash	https://u.teknik.io/UN2Ro6.png [notc]
+2014-12-05 21:27:20	@zani	;_;
+2014-12-05 21:27:21	notc	:')
+2014-12-05 21:27:31	@zani	looks good notc 
+2014-12-05 21:27:41	notc	Do you really think so!? ty :>
+2014-12-05 21:27:48	@zani	yeah~
+2014-12-05 21:27:49	xcel	notc: too bright and busy for my taste but it okay
+2014-12-05 21:27:56	notc	pfffft
+2014-12-05 21:28:09	notc	It is very busy
+2014-12-05 21:28:40	notc	.desktop add http://i.imgur.com/aQ3u93O.png
+2014-12-05 21:28:42	@bash	notc: Desktop(s) saved.
+2014-12-05 21:28:45	notc	.desktops
+2014-12-05 21:28:50	notc	.desktop 
+2014-12-05 21:28:52	@bash	[1] https://u.teknik.io/UN2Ro6.png [2] http://i.imgur.com/aQ3u93O.png [notc]
+2014-12-05 21:28:54	notc	cool beans
+2014-12-05 21:28:58	notc	sorry about the flood-ish
+2014-12-05 21:29:11	notc	.desktop add https://u.teknik.io/1PsuNH.png
+2014-12-05 21:29:13	@bash	notc: Desktop(s) saved.
+2014-12-05 21:29:35	xcel	notc: nice to see you like foo fighters
+2014-12-05 21:29:59	notc	They're pr a-ok
+2014-12-05 21:31:15	xcel	w-why are you guys tempting me with rice again
+2014-12-05 21:31:25	@zani	cause rice is life
+2014-12-05 21:31:31	@mkfs	rice is love
+2014-12-05 21:34:32	xcel	When i get back onto awesome wm i might try ricing it...
+2014-12-05 21:38:05	xcel	this is nice https://i.imgur.com/9lM66KS.png
+2014-12-05 21:43:07	notc	rice is amazing
+2014-12-05 21:43:11	notc	that guy has a nice top
+2014-12-05 21:43:16	notc	reminds me of vosh
+2014-12-05 21:43:23	xcel	it using rio
+2014-12-05 21:43:25	xcel	the plan9 wm
+2014-12-05 21:43:34	notc	yasseh
+2014-12-06 12:57:42	--	irc: disconnected from server
+2014-12-06 12:57:44	◥	notc (0c@io-565C3B46.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2014-12-06 12:57:44	--	Topic for #null is "/dev/null"
+2014-12-06 12:57:44	--	Topic set by mkfs on Thu, 04 Dec 2014 00:11:32
+2014-12-06 12:57:44	--	Channel #null: 11 nicks (5 ops, 0 halfops, 1 voice, 5 normals)
+2014-12-06 12:57:47	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2014-12-06 12:59:35	@voni	h notc
+2014-12-06 12:59:43	@mkfs	hi notc 
+2014-12-06 12:59:44	notc	hiya!
+2014-12-06 12:59:45	notc	hru guys
+2014-12-06 12:59:52	@mkfs	I'm alright
+2014-12-06 12:59:53	@mkfs	you?
+2014-12-06 13:00:07	notc	zani: c-can I have a % por favor? It's muy cute
+2014-12-06 13:00:12	notc	mkfs: i'm ok! doin some college apps
+2014-12-06 13:00:22	--	Mode #null [+h notc] by mkfs
+2014-12-06 13:00:41	@voni	qt
+2014-12-06 13:00:43	xcel	good you notc?
+2014-12-06 13:00:47	@mkfs	.hop add notc 
+2014-12-06 13:00:52	@mkfs	hmm
+2014-12-06 13:00:55	@mkfs	.ahop add notc 
+2014-12-06 13:00:56	@mkfs	k
+2014-12-06 13:01:11	@mkfs	.halfop add notc
+2014-12-06 13:01:20	@mkfs	fuck this bot
+2014-12-06 13:01:37	@voni	kek
+2014-12-06 13:02:27	xcel	spoonm i think the bot want you to spoonm first kek
+2014-12-06 13:03:31	xcel	did anybody see this? who seriously does this.. http://rt.com/usa/211903-sony-hack-password-folder/
+2014-12-06 13:05:18	@voni	hm
+2014-12-06 13:07:25	%notc	lol
+2014-12-06 13:07:33	%notc	xcel: I'm a-ok m8e
+2014-12-06 13:07:37	@mkfs	lol
+2014-12-06 13:07:43	%notc	ty for trying mkfs
+2014-12-06 13:08:13	%notc	mkfs.msdos -F 32 /hop/notc/
+2014-12-06 13:09:53	xcel	How did i know something like this was going to happen with filters? http://ccc.de/en/updates/2014/ccc-censored-in-uk
+2014-12-06 13:12:24	kybk	xcel: I love my country
+2014-12-06 13:12:48	@voni	>One of the joys of working with Google’s Go programming language is that it is kind of like writing C/C++ but without the extreme verbosity of C++.
+2014-12-06 13:12:55	@voni	google own's Go? what
+2014-12-06 13:13:03	kybk	yep
+2014-12-06 13:13:11	@voni	I thought rob pike created Go
+2014-12-06 13:13:13	@voni	and stuff
+2014-12-06 13:13:34	kybk	rob pike works for google
+2014-12-06 13:13:36	kybk	lol
+2014-12-06 13:13:45	xcel	voni: yup the guy that created plan9
+2014-12-06 13:13:48	@voni	he does? jesus I need to read up on stuff
+2014-12-06 13:13:50	xcel	or helped
+2014-12-06 13:13:52	@voni	yeah I know he made plan9 and stuff
+2014-12-06 13:14:00	kybk	yep
+2014-12-06 13:14:01	@voni	but I didn't know he had affiliation with google
+2014-12-06 13:14:20	xcel	voni: 24-23 ex openbsd devs work with google too
+2014-12-06 13:14:21	kybk	he was also behind utf8
+2014-12-06 13:14:34	@voni	>inb4 google remakes plan9
+2014-12-06 13:14:44	kybk	lol
+2014-12-06 13:15:01	@voni	that would be...weird
+2014-12-06 13:15:06	xcel	They already have chrome os which is based offof gentoo
+2014-12-06 13:15:07	xcel	:p
+2014-12-06 13:15:11	@voni	right
+2014-12-06 13:15:49	xcel	it wouldn't surprise me if google re invents unix
+2014-12-06 13:15:53	xcel	that would be interesting
+2014-12-06 13:15:58	@voni	hrm
+2014-12-06 13:16:32	xcel	Im a huge fan of their dart lang
+2014-12-06 13:16:41	xcel	it preforms better then javascript
+2014-12-06 13:16:52	xcel	https://www.dartlang.org/
+2014-12-06 13:24:06	◣	kybk (kyubiko@io-6C7AAC79.range109-154.btcentralplus.com) has quit (Client exited)
+2014-12-06 14:18:45	xwlf	I think Lua should be used instead of Javascript.
+2014-12-06 14:19:10	@voni	same
+2014-12-06 14:19:13	@voni	lua is great
+2014-12-06 14:30:25	◣	voni (pcc31@io-7163C9BF.ok.ok.cox.net) has quit (Quit: leaving)
+2014-12-06 14:33:01	xcel	lua is love
+2014-12-06 14:35:13	xwlf	I'd like to see a Lua/Linux
+2014-12-06 14:35:27	xcel	xwlf: why not a lua operating system?
+2014-12-06 14:36:34	xwlf	Kernels need to be binary.
+2014-12-06 14:36:42	xwlf	There needs to be some bianry.
+2014-12-06 15:55:17	--	irc: disconnected from server
+2014-12-06 22:19:26	◥	notc (0c@io-565C3B46.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2014-12-06 22:19:26	--	Topic for #null is "/dev/null"
+2014-12-06 22:19:26	--	Topic set by mkfs on Thu, 04 Dec 2014 00:11:32
+2014-12-06 22:19:26	--	Channel #null: 10 nicks (4 ops, 0 halfops, 1 voice, 5 normals)
+2014-12-06 22:19:27	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2014-12-07 16:42:53	--	irc: disconnected from server
+2014-12-07 16:43:05	◥	notc (0c@io-565C3B46.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2014-12-07 16:43:05	--	Topic for #null is "/dev/null"
+2014-12-07 16:43:05	--	Topic set by mkfs on Thu, 04 Dec 2014 00:11:32
+2014-12-07 16:43:05	--	Channel #null: 10 nicks (3 ops, 0 halfops, 1 voice, 6 normals)
+2014-12-07 16:43:08	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2014-12-07 16:44:48	@mkfs	hi notc
+2014-12-07 16:45:58	notc	ahoy!
+2014-12-07 16:53:43	xcel	nuzzle spoonm~
+2014-12-07 16:53:50	notc	:o
+2014-12-07 16:56:10	xcel	How are you notc?
+2014-12-07 16:56:16	notc	I'm ok
+2014-12-07 16:56:21	notc	do economics hw and it's 'ok'
+2014-12-07 16:56:23	notc	wbu
+2014-12-07 16:59:48	◣	kybk (kyubiko@io-12D76186.range86-182.btcentralplus.com) has quit (Quit: WeeChat 1.0.1)
+2014-12-07 17:07:27	xcel	just lurking
+2014-12-07 17:07:29	xcel	kind of boring
+2014-12-07 17:15:08	notc	I'm extremely bored
+2014-12-07 17:15:10	notc	I need something tod o
+2014-12-07 17:15:20	notc	I don't have fun playing vidya anymore. It's horrifying ;_;
+2014-12-07 17:16:02	xcel	nuzzle n~
+2014-12-07 17:29:43	xcel	I want to make a text based mmo
+2014-12-07 17:31:38	◥	cobcorn (pcc31@io-7163C9BF.ok.ok.cox.net) has joined #null
+2014-12-07 17:31:42	cobcorn	h
+2014-12-07 17:31:50	xcel	dat long name
+2014-12-07 17:31:50	xcel	ew
+2014-12-07 17:31:55	cobcorn	shite
+2014-12-07 17:32:00	--	cobcorn is now known as voni
+2014-12-07 17:32:13	xcel	that better voni
+2014-12-07 17:56:29	xcel	voni: how are you today?
+2014-12-07 17:56:53	voni	xcel: i'm alright 
+2014-12-07 18:11:40	xcel	https://boards.4chan.org/pol/
+2014-12-07 18:11:41	xcel	pol is kill
+2014-12-07 21:02:54	notc	o
+2014-12-07 21:17:17	--	irc: disconnected from server
+2014-12-07 21:17:21	◥	notc (0c@io-565C3B46.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2014-12-07 21:17:21	--	Topic for #null is "/dev/null"
+2014-12-07 21:17:21	--	Topic set by mkfs on Thu, 04 Dec 2014 00:11:32
+2014-12-07 21:17:21	--	Channel #null: 10 nicks (3 ops, 0 halfops, 1 voice, 6 normals)
+2014-12-07 21:17:25	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2014-12-07 21:17:28	xcel	hello note senpai~
+2014-12-07 21:17:39	voni	h notc
+2014-12-07 21:17:45	notc	sup qt !
+2014-12-07 21:17:50	notc	(s)
+2014-12-07 21:19:47	xcel	is it so much to ask for a phone with a simple ui and not a flashy one?
+2014-12-07 21:22:26	voni	is it too much to ask for a non-bloated OS
+2014-12-07 21:22:27	voni	lol
+2014-12-07 21:22:33	voni	I guess FFOS is kinda non-bloated
+2014-12-07 21:22:39	xcel	notc: i want to make vidya now, I might learn
+2014-12-07 21:22:51	xcel	voni: bsd in non bloated and respect your freedum
+2014-12-07 21:23:07	voni	lol
+2014-12-07 21:23:13	voni	i've been considering going to bsd actually
+2014-12-07 21:23:15	notc	what kind of vidya?
+2014-12-07 21:23:39	xcel	notc: i have to ask tttt for the link of the rouge like game but it going to be like that
+2014-12-07 21:23:50	xcel	like kind of like nethack but mmo style
+2014-12-07 21:25:38	notc	what's a nethack
+2014-12-07 21:25:56	xcel	http://www.nethack.org/
+2014-12-07 21:26:09	voni	nethack is cool
+2014-12-07 21:26:16	voni	old
+2014-12-07 21:26:17	voni	but cool
+2014-12-07 21:27:29	notc	! that is cool indeed
+2014-12-07 21:31:06	xcel	notc: this is what nethack is https://www.youtube.com/watch?v=aMumSgis-Jg
+2014-12-07 21:32:17	xcel	what it going to be is a mmo like in that graphics
+2014-12-07 21:32:26	xcel	so could be fun
+2014-12-07 21:33:43	notc	jeez
+2014-12-07 21:34:09	xcel	it'll be easier to make because i suck at graphics
+2014-12-07 21:34:15	xcel	anything above 2d
+2014-12-07 21:34:33	notc	that sounds like a large challenge
+2014-12-07 21:34:52	xcel	that the best way i learn anything is if i have a large challenge
+2014-12-07 21:35:02	xcel	i don't get motivation by doing simple stuff
+2014-12-07 21:38:21	notc	cool beans
+2014-12-07 21:38:23	notc	lmk if you do it
+2014-12-07 21:38:23	notc	:D
+2014-12-07 21:39:47	xcel	Should i share it with you guys if i do make it?
+2014-12-07 21:41:21	notc	wtf of course
+2014-12-07 21:51:34	voni	usage: wtf <wid>
+2014-12-07 21:51:35	voni	:^)
+2014-12-07 21:51:46	xcel	hehe
+2014-12-07 21:51:56	voni	wmutils jokes lel
+2014-12-07 21:52:33	voni	(wtf transfers focus to a window)
+2014-12-07 21:52:38	voni	(pls use wmutils its cool)
+2014-12-07 22:00:11	notc	idrk how
+2014-12-07 22:00:14	notc	and I don't know why I should
+2014-12-07 22:28:35	voni	lo
+2014-12-07 22:28:36	voni	l
+2014-12-08 18:33:44	--	irc: disconnected from server
+2014-12-09 19:59:15	◥	notc (0c@io-565C3B46.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2014-12-09 19:59:16	--	Topic for #null is "/dev/null"
+2014-12-09 19:59:16	--	Topic set by mkfs on Thu, 04 Dec 2014 00:11:32
+2014-12-09 19:59:16	--	Channel #null: 9 nicks (4 ops, 0 halfops, 1 voice, 4 normals)
+2014-12-09 19:59:17	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2014-12-09 20:00:50	xcel	hey notc
+2014-12-09 20:00:59	@voni	h notc 
+2014-12-09 20:01:15	notc	hiya
+2014-12-09 20:01:16	notc	hru guys
+2014-12-09 20:03:35	xcel	good you?
+2014-12-09 20:04:11	@voni	doin k
+2014-12-09 20:04:14	@voni	was gonna install slackware
+2014-12-09 20:04:15	@voni	then didn't
+2014-12-09 20:04:51	xcel	you should install gentoo instead :p
+2014-12-09 20:05:25	@voni	lol
+2014-12-09 20:05:35	@voni	 _           _        _ _                  _              
+2014-12-09 20:05:36	@voni	(_)         | |      | | |                | |             
+2014-12-09 20:05:36	@voni	 _ _ __  ___| |_ __ _| | | __ _  ___ _ __ | |_ ___   ___  
+2014-12-09 20:05:36	@voni	| | '_ \/ __| __/ _` | | |/ _` |/ _ \ '_ \| __/ _ \ / _ \ 
+2014-12-09 20:05:36	@voni	| | | | \__ \ || (_| | | | (_| |  __/ | | | || (_) | (_) |
+2014-12-09 20:05:37	@voni	|_|_| |_|___/\__\__,_|_|_|\__, |\___|_| |_|\__\___/ \___/ 
+2014-12-09 20:05:40	@voni	                           __/ |                          
+2014-12-09 20:05:42	@voni	                          |___/                           
+2014-12-09 20:05:55	notc	i yam ok
+2014-12-09 20:05:57	notc	doing a research paper
+2014-12-09 20:06:06	notc	cuz it's due tomorrow dB^)
+2014-12-09 20:11:45	xwlf	meow
+2014-12-09 20:25:33	--	irc: disconnected from server
+2014-12-09 20:25:45	◥	notc (0c@io-565C3B46.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2014-12-09 20:25:45	--	Topic for #null is "/dev/null"
+2014-12-09 20:25:45	--	Topic set by mkfs on Thu, 04 Dec 2014 00:11:32
+2014-12-09 20:25:45	--	Channel #null: 9 nicks (4 ops, 0 halfops, 1 voice, 4 normals)
+2014-12-09 20:25:48	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2014-12-09 20:27:11	@mkfs	voni: pls
+2014-12-09 20:27:26	@voni	mkfs: ;-;
+2014-12-09 20:37:47	◣	nani (Zanthas@io-1C940E1D.lightspeed.snantx.sbcglobal.net) has quit (Ping timeout: 181 seconds)
+2014-12-09 20:38:11	xcel	mkfs: what do you think of unicomp keyboards?
+2014-12-09 20:38:44	@mkfs	never heard of them
+2014-12-09 20:38:54	xcel	br really is full of normals ;_;
+2014-12-09 20:39:06	@mkfs	:<
+2014-12-09 20:39:18	xcel	they make ibm model m but rebranded
+2014-12-09 20:39:20	xcel	if that make sense
+2014-12-09 20:39:27	xcel	they bought the license for ibm model m keyboards
+2014-12-09 20:58:26	notc	what's the point 
+2014-12-09 20:58:30	notc	aren't they buckling spring?
+2014-12-09 21:28:56	xcel	notc: it made by ibm
+2014-12-09 21:28:58	xcel	that like saying
+2014-12-09 21:29:03	xcel	>thinkpad is just a laptop
+2014-12-09 21:29:05	xcel	what the point
+2014-12-09 21:29:05	xcel	kek
+2014-12-09 21:29:58	@voni	lel
+2014-12-09 21:30:32	notc	what's a thinkpad
+2014-12-09 21:30:47	xcel	u wot m7?
+2014-12-09 21:32:05	xcel	>he goes on irc and hasn't heard of a thinkpad
+2014-12-09 22:43:48	notc	> implyng
+2014-12-09 23:03:14	◣	bash (bash@C2E172D0.2058F5AD.8C3EAA94.IP) has quit (Connection reset by peer)
+2014-12-09 23:03:20	◣	mkfs (spoonm@C2E172D0.2058F5AD.8C3EAA94.IP) has quit (Connection reset by peer)
+2014-12-09 23:15:57	◥	mkfs (spoonm@C2E172D0.2058F5AD.8C3EAA94.IP) has joined #null
+2014-12-09 23:15:57	--	Mode #null [+o mkfs] by D
+2014-12-09 23:16:02	◥	bash (bash@C2E172D0.2058F5AD.8C3EAA94.IP) has joined #null
+2014-12-09 23:16:02	--	Mode #null [+o bash] by D
+2014-12-09 23:20:04	◣	zugg (snookibot@io-1E68050E.ml) has quit (Client exited)
+2014-12-09 23:24:29	◥	zugg (snookibot@io-1E68050E.ml) has joined #null
+2014-12-09 23:52:31	--	irc: disconnected from server
+2014-12-14 21:05:10	◥	notc (0c@io-E2D6DA82.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2014-12-14 21:05:10	--	Topic for #null is "/dev/null"
+2014-12-14 21:05:10	--	Topic set by mkfs on Thu, 04 Dec 2014 00:11:32
+2014-12-14 21:05:10	--	Channel #null: 7 nicks (2 ops, 0 halfops, 0 voices, 5 normals)
+2014-12-14 21:05:11	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2014-12-14 21:05:15	xcel	hello notc~
+2014-12-14 21:05:18	notc	ahoyahoy
+2014-12-14 21:41:35	xcel	does anybody else feel like this were they need to click on a key like alt when using the mouse?
+2014-12-14 21:41:42	xcel	it make it easier for some reason
+2014-12-14 21:43:27	xcel	https://github.com/vermiculus/sx.el/
+2014-12-14 21:43:31	xcel	you can literally do anything in emacs
+2014-12-14 21:44:04	zani	ty xcel 
+2014-12-14 21:53:31	notc	lecx yt
+2014-12-14 21:53:58	xcel	notc: i donb't have a yt :o
+2014-12-14 21:55:56	notc	o no
+2014-12-14 21:55:57	notc	sry
+2014-12-14 21:56:11	notc	RIP my eyes
+2014-12-14 21:56:12	notc	gn friends
+2014-12-14 21:56:45	--	irc: disconnected from server
+2014-12-15 19:30:16	◥	notc (0c@io-565C3B46.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2014-12-15 19:30:16	--	Topic for #null is "/dev/null"
+2014-12-15 19:30:16	--	Topic set by mkfs on Thu, 04 Dec 2014 00:11:32
+2014-12-15 19:30:16	--	Channel #null: 8 nicks (2 ops, 0 halfops, 0 voices, 6 normals)
+2014-12-15 19:30:18	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2014-12-15 19:40:20	xcel	hey notc
+2014-12-15 19:40:43	notc	wassup
+2014-12-15 19:40:58	xcel	benis
+2014-12-15 19:42:02	notc	unsame
+2014-12-15 19:42:07	notc	brb dinnar
+2014-12-16 18:31:42	--	irc: disconnected from server
+2014-12-16 18:31:54	◥	notc (0c@io-565C3B46.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2014-12-16 18:31:54	--	Topic for #null is "/dev/null"
+2014-12-16 18:31:54	--	Topic set by mkfs on Thu, 04 Dec 2014 00:11:32
+2014-12-16 18:31:54	--	Channel #null: 9 nicks (3 ops, 0 halfops, 0 voices, 6 normals)
+2014-12-16 18:31:58	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2014-12-16 18:52:13	xcel	hello notc
+2014-12-16 18:57:39	voni	tfw life
+2014-12-16 18:58:01	--	Mode #null [+o voni] by D
+2014-12-16 18:58:07	@voni	ty D
+2014-12-16 18:58:17	tttt	tfw all i've done today is cartoons and food
+2014-12-16 18:58:18	xcel	voni: he gave you the D
+2014-12-16 18:58:28	@voni	:^)
+2014-12-16 18:58:34	@voni	tfw all i've done today is nothing productive
+2014-12-16 18:58:41	@voni	tfw all i've done with my life is nothing productive
+2014-12-16 18:58:46	@voni	gg
+2014-12-16 18:58:53	xcel	tfw writing your own unix system soon
+2014-12-16 18:59:06	tttt	xcel: why?
+2014-12-16 18:59:14	tttt	operating systems class?
+2014-12-16 18:59:15	xcel	tttt: im un happy with the current ones
+2014-12-16 18:59:26	tttt	why?
+2014-12-16 18:59:58	xcel	because their only really one distro that focus on security
+2014-12-16 19:00:08	xcel	i find it lacking
+2014-12-16 19:00:22	tttt	so are you going to fork a distro?
+2014-12-16 19:00:29	tttt	or do all the work from scratch?
+2014-12-16 19:00:35	xcel	do all the work from scratch
+2014-12-16 19:00:37	tttt	because that's not particularily feasable
+2014-12-16 19:01:57	xcel	i might fork a bsd at first to get some experience with it
+2014-12-16 19:02:03	xcel	then work on making my own unix system
+2014-12-16 19:02:13	tttt	gl
+2014-12-16 19:07:45	@voni	https://www.youtube.com/watch?v=6y43ZpfUswk
+2014-12-16 19:08:59	xcel	voni: feminist and sjw are annoying
+2014-12-16 19:09:42	@voni	kek
+2014-12-16 19:10:40	xcel	https://8chan.co/pol/res/595354.html
+2014-12-16 19:11:05	@voni	Oh no, not /pol/!
+2014-12-16 19:11:19	xcel	:^)
+2014-12-16 19:14:23	notc	:o
+2014-12-16 19:15:16	@voni	notc is her
+2014-12-16 19:15:19	@voni	hi notc 
+2014-12-16 19:15:26	notc	yes hi hallo
+2014-12-16 19:16:17	xcel	*bullies notc* :3c
+2014-12-16 19:24:23	notc	r 0 0 d
+2014-12-16 19:24:29	notc	finna fade ?
+2014-12-16 19:27:37	--	irc: disconnected from server
+2014-12-16 22:02:18	◥	notc (0c@io-565C3B46.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2014-12-16 22:02:18	--	Topic for #null is "/dev/null /\"
+2014-12-16 22:02:18	--	Topic set by voni on Tue, 16 Dec 2014 20:05:12
+2014-12-16 22:02:18	--	Channel #null: 8 nicks (4 ops, 0 halfops, 0 voices, 4 normals)
+2014-12-16 22:02:19	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2014-12-16 22:08:13	xcel	notc: did you install gentoo?
+2014-12-16 22:08:39	notc	not even once
+2014-12-16 22:11:55	xcel	But gentoo
+2014-12-16 22:31:56	◣	zani (Zanthas@io-1C940E1D.lightspeed.snantx.sbcglobal.net) has quit (Ping timeout: 182 seconds)
+2014-12-18 20:48:04	--	irc: disconnected from server
+2014-12-18 20:48:16	◥	notc (0c@io-E2D6DA82.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2014-12-18 20:48:16	--	Topic for #null is "/dev/null /\"
+2014-12-18 20:48:16	--	Topic set by voni on Tue, 16 Dec 2014 20:05:12
+2014-12-18 20:48:16	--	Channel #null: 8 nicks (3 ops, 0 halfops, 0 voices, 5 normals)
+2014-12-18 20:48:20	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2014-12-18 21:48:56	@voni	hi notc
+2014-12-18 21:52:47	xcel	hey notc
+2014-12-18 21:52:48	xcel	qt
+2014-12-18 21:53:01	notc	hi guise
+2014-12-18 21:53:27	notc	soup
+2014-12-18 21:53:36	xcel	notc: are you the creator of the internet? https://www.youtube.com/watch?v=GO6F13Gix0E&index=5&list=PL7NLtT26_iW_GPwcj9r_y8SsmhXaSM4eg
+2014-12-18 21:54:55	notc	yes. also I can't open links because internet is borkd
+2014-12-18 22:00:30	◣	voni (pcc31@io-1918C300.ok.ok.cox.net) has quit (Ping timeout: 184 seconds)
+2014-12-18 22:18:25	xcel	notc: is this your battlestation? https://i.imgur.com/scAbkjk.jpg
+2014-12-18 22:18:51	notc	:'D I wish
+2014-12-18 22:19:26	◥	voni (pcc31@io-1918C300.ok.ok.cox.net) has joined #null
+2014-12-18 22:19:26	--	Mode #null [+o voni] by D
+2014-12-18 22:23:42	◣	voni (pcc31@io-1918C300.ok.ok.cox.net) has quit (Client exited)
+2014-12-18 22:23:48	xcel	notc: >wanting the botnet>2014 :^)
+2014-12-18 22:25:03	xcel	notc: why isn't mpv your favorite media player?
+2014-12-18 22:25:12	notc	cuz
+2014-12-18 22:25:13	notc	it lags
+2014-12-18 22:25:22	xcel	that because your using osx
+2014-12-18 22:25:23	xcel	:p
+2014-12-18 22:25:27	notc	> implying
+2014-12-18 22:25:28	xcel	osx is shitware
+2014-12-18 22:25:35	notc	I wish I was using osx
+2014-12-18 22:25:39	notc	Q_Q
+2014-12-18 22:25:45	xcel	The init system is based on xml tho
+2014-12-18 22:25:47	notc	.desktop notc 
+2014-12-18 22:25:48	@bash	[1] https://u.teknik.io/UN2Ro6.png [2] http://i.imgur.com/aQ3u93O.png [3] https://u.teknik.io/1PsuNH.png [notc]
+2014-12-18 22:25:51	xcel	why would you want that?
+2014-12-18 22:25:57	notc	tru
+2014-12-18 22:26:00	notc	it's pretty
+2014-12-18 22:26:03	notc	that's why
+2014-12-18 22:26:22	xcel	notc: i might go for a pink rice
+2014-12-18 22:26:42	xcel	is that gnome in (2)?
+2014-12-18 22:28:24	notc	I can't open imgur links
+2014-12-18 22:28:25	notc	fudge
+2014-12-18 22:28:32	notc	it's probably pantheon
+2014-12-18 22:28:35	xcel	notc senpai fix your interwebs
+2014-12-18 22:28:37	notc	from when I was using eOS
+2014-12-18 22:28:39	notc	lol pls
+2014-12-18 22:28:40	notc	nevar
+2014-12-18 22:30:51	xcel	use a superior browser palemoon (tm)
+2014-12-18 22:32:27	notc	that'll fix the internet for sure!
+2014-12-18 22:32:37	notc	ty based xl
+2014-12-18 22:34:38	xcel	did it really fix it? :o
+2014-12-18 22:34:43	notc	pl
+2014-12-18 22:34:44	notc	s
+2014-12-18 23:58:17	--	irc: disconnected from server
+2014-12-24 11:30:16	◥	notc (0c@io-E2D6DA82.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2014-12-24 11:30:16	--	Topic for #null is "/dev/null /\"
+2014-12-24 11:30:16	--	Topic set by voni on Tue, 16 Dec 2014 20:05:12
+2014-12-24 11:30:16	--	Channel #null: 9 nicks (1 op, 0 halfops, 0 voices, 8 normals)
+2014-12-24 11:30:17	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2014-12-24 11:50:48	◣	kybk (kyubiko@io-DFCCB2A4.range86-153.btcentralplus.com) has quit (Quit: WeeChat 1.0.1)
+2014-12-24 11:50:52	◥	kybk (kyubiko@io-DFCCB2A4.range86-153.btcentralplus.com) has joined #null
+2014-12-24 12:07:41	◣	tttt (lyk@azu.cat) has quit (Ping timeout: 184 seconds)
+2014-12-24 12:10:06	◥	tttt (lyk@azu.cat) has joined #null
+2014-12-24 12:13:06	◥	tttt_ (lyk@io-E2A86DF7.war.clearwire-wmx.net) has joined #null
+2014-12-24 12:13:26	◣	tttt (lyk@azu.cat) has quit (Ping timeout: 184 seconds)
+2014-12-24 12:39:16	--	tttt_ is now known as tttt
+2014-12-24 12:52:48	xcel	hey kybk
+2014-12-24 12:55:29	kybk	Hey xcel ilu
+2014-12-24 12:58:36	xcel	at grandparents house sadface
+2014-12-24 13:01:10	xcel	also kybk im used to getting bullied not loved sorry if i am weird around that
+2014-12-24 13:01:22	kybk	xcel: :(
+2014-12-24 13:03:45	tttt	happy christmas eve!
+2014-12-24 13:04:26	xcel	tttt what did you get for xmas?
+2014-12-24 13:04:37	tttt	it's not xmas yet
+2014-12-24 13:04:38	tttt	nerd
+2014-12-24 13:07:10	xcel	inb4 no dragon dildo
+2014-12-24 13:19:43	tttt	why would i want a dragon dildo
+2014-12-24 13:19:53	tttt	that's some shitty internet meme
+2014-12-24 16:19:57	--	irc: disconnected from server
+2014-12-24 16:20:08	◥	notc (0c@io-E2D6DA82.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2014-12-24 16:20:08	--	Topic for #null is "/dev/null /\"
+2014-12-24 16:20:08	--	Topic set by voni on Tue, 16 Dec 2014 20:05:12
+2014-12-24 16:20:08	--	Channel #null: 8 nicks (1 op, 0 halfops, 0 voices, 7 normals)
+2014-12-24 16:20:12	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2014-12-24 16:41:18	◥	kybk (kyubiko@io-841E5E46.range86-160.btcentralplus.com) has joined #null
+2014-12-24 16:41:24	kybk	startx
+2014-12-24 16:41:27	kybk	oops
+2014-12-24 16:41:30	kybk	lol
+2014-12-24 16:41:48	◣	kybk (kyubiko@io-841E5E46.range86-160.btcentralplus.com) has quit (Quit: WeeChat 1.0.1)
+2014-12-24 16:42:03	◥	kybk (kyubiko@io-841E5E46.range86-160.btcentralplus.com) has joined #null
+2014-12-24 16:56:30	◥	voni (pcc31@io-1918C300.ok.ok.cox.net) has joined #null
+2014-12-24 16:56:44	--	Mode #null [+o voni] by D
+2014-12-24 16:56:49	@voni	h
+2014-12-24 16:59:01	xwlf	kybk: Shouldn't you have weechat closed before starting x?
+2014-12-24 16:59:09	kybk	xwlf: Yeah
+2014-12-24 16:59:10	kybk	maybe
+2014-12-24 18:04:38	--	irc: disconnected from server
+2014-12-24 18:04:50	◥	notc (0c@io-E2D6DA82.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2014-12-24 18:04:50	--	Topic for #null is "/dev/null /\"
+2014-12-24 18:04:50	--	Topic set by voni on Tue, 16 Dec 2014 20:05:12
+2014-12-24 18:04:50	--	Channel #null: 9 nicks (2 ops, 0 halfops, 0 voices, 7 normals)
+2014-12-24 18:04:54	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2014-12-24 18:59:27	xcel	hey voni how is void?
+2014-12-24 19:00:27	@voni	xcel: its ok
+2014-12-24 19:00:37	@voni	it's very clean and nice but I've had problems in terms of installing things
+2014-12-24 19:00:44	@voni	pyqt is being a bitch, spectrwm is being a bitch
+2014-12-24 19:00:50	@voni	I guess I gotta get used to it and give it a while
+2014-12-24 19:01:53	 *	xwlf squirms
+2014-12-24 19:02:16	xwlf	I don't like Python. ;_;
+2014-12-24 19:04:20	@voni	I don't either
+2014-12-24 19:04:32	@voni	but there's programs I have to use that use it ;_;
+2014-12-24 19:04:39	xwlf	Same
+2014-12-24 19:04:54	xwlf	In my wokr VM, I use Sunflower FM and that's in PYthon.
+2014-12-24 19:05:05	xwlf	Everything else I use is lua or C.
+2014-12-24 19:05:19	@voni	lua and C are very good languages :D
+2014-12-24 19:05:28	xwlf	yeah
+2014-12-24 19:11:09	xcel	using sjw python 2014
+2014-12-24 19:18:40	xwlf	what?
+2014-12-24 19:18:51	xwlf	SJWs have nothing to do with Python.
+2014-12-24 19:21:02	xcel	xwlf pls
+2014-12-24 19:21:13	xwlf	kitty pls
+2014-12-24 19:24:03	◥	bash (bash@io-E23943B6.dsl.telesp.net.br) has joined #null
+2014-12-24 19:24:03	--	Mode #null [+o bash] by D
+2014-12-24 19:30:14	xwlf	Tell me about your beards null.
+2014-12-24 19:31:16	@voni	wot
+2014-12-24 19:32:03	xcel	voni just shaved his unix beard lel
+2014-12-24 19:32:21	@voni	I n-never have a b-b-b-eard
+2014-12-24 19:33:33	@voni	http://i.imgur.com/KdJ9TsD.png?1 >OC Numix Steam Skin
+2014-12-24 19:33:34	@voni	UHM
+2014-12-24 19:33:36	@voni	YOURE A FUCKASS
+2014-12-24 19:33:49	@voni	that's a mod of the Metro theme
+2014-12-24 19:33:51	@voni	fucken reddit
+2014-12-24 19:33:57	tttt	the metro theme is the best one
+2014-12-24 19:34:01	@voni	very good
+2014-12-24 19:34:03	@voni	I use it myself
+2014-12-24 19:34:17	tttt	it has actual updates and stuff
+2014-12-24 19:34:17	@voni	oh wait
+2014-12-24 19:34:18	@voni	no it's called air
+2014-12-24 19:34:20	xwlf	huh?
+2014-12-24 19:34:24	xwlf	Air :3
+2014-12-24 19:34:25	@voni	http://steamcommunity.com/groups/airforsteam
+2014-12-24 19:34:39	tttt	xwlf: i shave because i can't grow a full beard . . 
+2014-12-24 19:34:41	tttt	. . yet
+2014-12-24 19:34:56	xwlf	I'd make own skin if knew how
+2014-12-24 19:35:13	xwlf	The people who make the GUI s at Steam seem to be graphic designers
+2014-12-24 19:37:07	xcel	voni is metro opensauce?
+2014-12-24 19:37:26	@voni	i think so
+2014-12-24 19:41:37	@voni	void linux sucks
+2014-12-24 19:41:39	@voni	fuck it
+2014-12-24 19:41:42	@voni	i should go back to arch
+2014-12-24 19:42:00	xwlf	:3
+2014-12-24 19:42:06	xwlf	Oh god Air hirts my eyes.
+2014-12-24 19:42:21	xwlf	I mena it's lighter and better than the stock skin, but still
+2014-12-24 19:42:31	@voni	use the numix shit
+2014-12-24 19:42:39	xwlf	mkay
+2014-12-24 19:43:23	xwlf	my main complaint is wasted space though
+2014-12-24 19:43:44	tttt	use deshou then
+2014-12-24 19:43:50	tttt	i dunno how up to date it is
+2014-12-24 19:43:58	xwlf	yeah that's the thing..
+2014-12-24 19:44:07	xwlf	air's popularity means up to date :3
+2014-12-24 19:47:02	xcel	tttt i love deshou
+2014-12-24 19:47:22	tttt	good
+2014-12-24 19:48:26	@voni	i love how i literally can't watch netflix on my laptop
+2014-12-24 19:49:44	xcel	more like jtop :^)
+2014-12-24 19:49:56	xcel	jewtop*
+2014-12-24 19:50:23	@voni	exactly
+2014-12-24 19:50:29	@voni	i would love to just
+2014-12-24 19:50:37	@voni	throw it on the ground and dance on it
+2014-12-24 19:50:38	@voni	:^)
+2014-12-24 19:54:38	xwlf	ahhh I have Metro for Steam installed now
+2014-12-24 19:54:43	xwlf	pretty close to perfect
+2014-12-24 19:59:18	@voni	i am so clone
+2014-12-24 19:59:22	@voni	close*
+2014-12-24 19:59:23	@voni	to just
+2014-12-24 19:59:25	@voni	installing arch again
+2014-12-24 20:00:16	tttt	metro for steam is pretty much the best option.
+2014-12-24 20:04:15	xcel	the best option is not using steam :p
+2014-12-24 20:06:55	xcel	voni install gentoi
+2014-12-24 20:07:59	@voni	gentoo is probably just as bad
+2014-12-24 20:08:08	@voni	arch justwerks
+2014-12-24 20:09:22	xcel	systemd just breaks (tm)
+2014-12-24 20:09:31	@voni	i actually never had systemd break
+2014-12-24 20:09:32	@voni	but w/e
+2014-12-24 20:09:38	@voni	i cant fuckign deal with void's bullshit
+2014-12-24 20:09:44	@voni	i cant even install fucking pyqt or spectrwm
+2014-12-24 20:10:42	xcel	voni what a good hipster wm?
+2014-12-24 20:11:09	@voni	lel
+2014-12-24 20:11:13	@voni	spectrwm is perfect for me
+2014-12-24 20:11:18	@voni	i dont care that few people use it
+2014-12-24 20:11:21	@voni	id like more people to use it
+2014-12-24 20:12:29	xcel	>caring about popularity 2014
+2014-12-24 20:12:34	@voni	tfw youtube actually plays videos quickly
+2014-12-24 20:12:40	@voni	netflix can go die in a hole
+2014-12-24 20:15:20	xwlf	YouTube never works for me
+2014-12-24 20:16:18	xcel	youtube works for me with html5 and mpv
+2014-12-24 20:16:35	xcel	or youtube-dl to get the url and put it into mpv
+2014-12-24 20:17:13	xwlf	Yeah I pretty much have to youtube-dl it all and put it in mpv
+2014-12-24 20:17:51	xwlf	I might actually make a program just for that on windows...
+2014-12-24 20:18:56	xcel	to get a url with youtube-dl and play it with mpv?
+2014-12-24 20:20:11	xwlf	ehh no you just download it with youtube-dl and send it to mpv
+2014-12-24 20:21:12	xcel	yes but it better to copy the url if you dont want to download a video or cant
+2014-12-24 20:21:49	@voni	pnos
+2014-12-24 20:22:11	xwlf	Huh?
+2014-12-24 20:22:11	@voni	https://www.youtube.com/watch?v=4Y3st-X48U0
+2014-12-24 20:23:39	xcel	voni did you know youtubedl works on some xxx sites?
+2014-12-24 20:23:44	@voni	:^)
+2014-12-24 20:24:22	@voni	wasn't there a tool to download all pics in a thread for halfchan
+2014-12-24 20:24:26	xwlf	yup
+2014-12-24 20:24:27	@voni	I want a webm one for 8chan :^)
+2014-12-24 20:25:35	xcel	I want a image downloader and web/mp4 that shows url
+2014-12-24 20:25:42	xcel	for 8chan
+2015-01-01 21:47:58	--	irc: disconnected from server
+2015-01-01 21:48:01	◥	notc (0c@io-E2D6DA82.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2015-01-01 21:48:01	--	Topic for #null is "/dev/null /\"
+2015-01-01 21:48:01	--	Topic set by voni on Tue, 16 Dec 2014 20:05:12
+2015-01-01 21:48:01	--	Channel #null: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-01-01 21:48:04	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2015-01-01 23:08:58	dcat	cat?
+2015-01-01 23:18:32	xwlf	cat
+2015-01-01 23:18:38	xwlf	like... meow
+2015-01-01 23:22:46	voni	:o
+2015-01-01 23:22:49	voni	dcat is here
+2015-01-01 23:22:49	voni	hi dcat
+2015-01-01 23:23:06	dcat	sup voni 
+2015-01-01 23:23:44	voni	heyo
+2015-01-01 23:27:32	dcat	what is this channel voni?
+2015-01-01 23:28:11	xwlf	botnet
+2015-01-01 23:28:50	dcat	obviously
+2015-01-01 23:29:14	dcat	wait kek
+2015-01-01 23:29:19	dcat	mkfs == spoonm?
+2015-01-01 23:35:24	voni	dcat: a bunch of #rice-ers came and made a kori free channel
+2015-01-01 23:35:29	voni	we just use it to talk about random shit
+2015-01-01 23:35:44	voni	and ya mkfs is spoonm
+2015-01-01 23:35:48	voni	bash is spoonbot
+2015-01-01 23:35:57	dcat	so you guys have a problem with kori?
+2015-01-01 23:36:18	voni	I don't like kori all that much tbh but this isn't mainly focused on being kori-free, it's just a random thing
+2015-01-01 23:36:44	dcat	okay so it's not just me
+2015-01-01 23:36:51	voni	lol
+2015-01-01 23:36:51	xwlf	>Kori free
+2015-01-01 23:36:53	xwlf	top kek
+2015-01-01 23:37:23	voni	calling him hitler is mostly accurate
+2015-01-01 23:37:29	xwlf	I didn't even go to rice when I cam to this channe
+2015-01-01 23:37:35	xwlf	voni: What does kori actually do?
+2015-01-01 23:37:46	dcat	he used to be a cool cat when he was in #nixers
+2015-01-01 23:38:00	voni	he's just a bit strict on a few things in his channel, among some other stuff
+2015-01-01 23:38:13	voni	other than that he's kinda cool i guess
+2015-01-01 23:38:14	dcat	but in #rice he's very similar to how NeoTerra was
+2015-01-01 23:38:26	voni	his rice is gr8
+2015-01-01 23:38:28	voni	love it
+2015-01-01 23:38:32	xwlf	I can never pcik up on kori's tone when on IRC.
+2015-01-01 23:38:36	voni	ikr
+2015-01-01 23:38:36	xwlf	it's weird man
+2015-01-01 23:38:46	voni	I remember he came to mumble once
+2015-01-01 23:38:48	voni	he called me a noob
+2015-01-01 23:38:52	voni	then he left
+2015-01-01 23:39:31	dcat	tbh I just came in here cause I was worried someone was making a botnet on my network
+2015-01-01 23:39:37	voni	lmao
+2015-01-01 23:40:13	dcat	you guys should join #nixers though
+2015-01-01 23:40:34	xwlf	He said I was a retarded degenerate in mumble..
+2015-01-01 23:40:51	voni	#nixers is great but I'm not neckbeard enough to be accepted
+2015-01-01 23:41:01	dcat	are you kidding lel?
+2015-01-01 23:41:11	voni	lmao
+2015-01-01 23:41:30	dcat	you're one of the few people who actually managed to use wmutils
+2015-01-01 23:41:44	voni	it wasn't hard ;_;
+2015-01-01 23:41:50	dcat	ikr
+2015-01-01 23:41:54	voni	and my setup is nooby
+2015-01-01 23:42:01	voni	kori actually did fancy things with mapw and all that
+2015-01-01 23:42:33	tttt	rizon #wheat was supposed to be that cancer wasn't it?
+2015-01-01 23:42:46	voni	#wheat is cancer
+2015-01-01 23:42:52	voni	probably
+2015-01-01 23:42:53	tttt	>being upset over the things people say
+2015-01-01 23:42:55	voni	I haven't been long
+2015-01-01 23:43:12	voni	don't listen to me I'm an irc noob
+2015-01-01 23:43:19	voni	only been on rizon for a few months ;-;
+2015-01-01 23:43:19	tttt	wheat is shit, it was just faggots complaining about kori and being children
+2015-01-01 23:43:29	dcat	did you guys see wmutils and swm got put on the "software that rocks" page on suckless?
+2015-01-01 23:43:33	voni	really?
+2015-01-01 23:43:37	dcat	yeah
+2015-01-01 23:43:39	voni	ohman that's awesome
+2015-01-01 23:43:49	dcat	http://suckless.org/rocks
+2015-01-01 23:43:53	xwlf	suckless more like... suckmore lmao
+2015-01-01 23:44:11	dcat	tbh I don't really like suckless at all, but it seems to have a lot of influence in the community
+2015-01-01 23:44:22	voni	I love the unix philosophy, I'm just way too lazy to implement it in my daily life
+2015-01-01 23:44:51	dcat	how so?
+2015-01-01 23:45:00	tttt	tfw my family called to ask if i wanted anything when they were stopping by a burger joint on the way home
+2015-01-01 23:45:09	voni	how so...am I lazy?
+2015-01-01 23:45:43	dcat	how can you not implement it in your daily life?
+2015-01-01 23:45:52	xwlf	It seems easier to go by the UNIX philisophy than to not.
+2015-01-01 23:45:54	tttt	never use anything that's multipurpose
+2015-01-01 23:46:05	dcat	xwlf++
+2015-01-01 23:46:21	tttt	never use a tool for any use other than intended
+2015-01-01 23:46:24	dcat	I use a lot of shit that's multipurpose
+2015-01-01 23:46:28	voni	dcat: (by my daily life I mean my daily "digital" life)
+2015-01-01 23:46:30	dcat	but they're physical things in my EDC
+2015-01-01 23:47:10	xwlf	dcat: pls
+2015-01-01 23:47:20	dcat	what?
+2015-01-01 23:47:25	xwlf	Oh nevermind.
+2015-01-01 23:47:42	xwlf	I thought you were making a joke of some sort.
+2015-01-01 23:48:10	dcat	about edc?
+2015-01-01 23:48:18	xwlf	no o.o
+2015-01-01 23:48:30	voni	what's edc?
+2015-01-01 23:49:02	dcat	every day carry
+2015-01-01 23:49:17	voni	o
+2015-01-01 23:49:19	voni	i see
+2015-01-02 00:03:28	xwlf	every day kitty :3
+2015-01-02 00:03:41	◣	xcel (xcelq@io-319DC677.cpe.net.cable.rogers.com) has quit (Ping timeout: 182 seconds)
+2015-01-02 00:04:54	xwlf	rip
+2015-01-02 00:06:41	◥	xcel (xcelq@io-319DC677.cpe.net.cable.rogers.com) has joined #null
+2015-01-02 00:09:00	dcat	xwlf: who are you in #rice?
+2015-01-02 00:09:08	xwlf	Pr0Wolf29
+2015-01-02 00:09:32	dcat	have we talked before?
+2015-01-02 00:09:46	xwlf	I don't know.
+2015-01-02 00:09:51	xwlf	What is your name in rice?
+2015-01-02 00:10:08	dcat	dcat.
+2015-01-02 00:10:19	xwlf	I don't know.
+2015-01-02 00:10:27	dcat	oh well
+2015-01-02 00:11:26	dcat	so,
+2015-01-02 00:11:35	dcat	obviously, /r/unixporn is shit
+2015-01-02 00:11:46	xwlf	Is it?
+2015-01-02 00:11:49	voni	it is
+2015-01-02 00:11:53	dcat	so are most other places where people share scrots
+2015-01-02 00:12:04	dcat	we need a new unixporn
+2015-01-02 00:12:19	voni	omfg
+2015-01-02 00:12:27	voni	dcat are you going to do this
+2015-01-02 00:12:32	dcat	where posting shit that sucks, gets you throw out
+2015-01-02 00:12:40	voni	>ricehalla
+2015-01-02 00:13:09	voni	ricehalla is almost like that but there's not many people who stop by
+2015-01-02 00:13:29	xwlf	I don't like how ricehalia has a voting system, and no discussion system.
+2015-01-02 00:13:34	voni	yeah
+2015-01-02 00:13:37	voni	that's a good point
+2015-01-02 00:14:07	dcat	so...
+2015-01-02 00:14:12	dcat	you guys wouldn't like a new one?
+2015-01-02 00:14:21	voni	i would ;-;
+2015-01-02 00:14:30	voni	just
+2015-01-02 00:14:41	voni	the thing that actually made r/unixporn good at one point
+2015-01-02 00:14:45	voni	was the fact that it's on reddit
+2015-01-02 00:14:47	voni	and reddit is giant
+2015-01-02 00:15:00	voni	so a new site would probably take quite a bit of time to gain popularity
+2015-01-02 00:15:38	dcat	yeah
+2015-01-02 00:16:20	xwlf	Auality over quantity. :3
+2015-01-02 00:16:47	xwlf	Also I don't actually go to rice. too fast/boring.
+2015-01-02 00:26:55	voni	I don't know what to do with my tim
+2015-01-02 00:26:55	voni	e
+2015-01-02 00:27:10	voni	I really do absolutely nothing productive ever
+2015-01-02 00:27:24	voni	today I spent all of my time eating and talking to people 
+2015-01-02 00:29:19	xwlf	Come to my place and sdo stuff for me then.
+2015-01-02 00:54:33	dcat	I don't do much productive shit either
+2015-01-02 01:00:41	tttt	cartoons all day erry day
+2015-01-02 01:11:35	voni	dcat: way more than me lel
+2015-01-02 01:11:49	voni	I'd love to get into a programming project but
+2015-01-02 01:12:09	voni	i don't even have an excuse other than i'm not inventive enough to come up with something good to create
+2015-01-02 01:26:09	dcat	then just help out someone
+2015-01-02 01:29:25	voni	don't know anyone actively working on a Go project ;-;
+2015-01-02 01:30:52	xwlf	There's areason for that, :>
+2015-01-02 01:48:59	dcat	you don't like golang?
+2015-01-02 01:51:12	xwlf	I hate it a lot.
+2015-01-02 02:16:25	dcat	why?
+2015-01-02 02:32:29	xwlf	Well it has forced formatting rules, it literally has no purpose. I mean I don't think it brings anything new that toher languages already have, and anything that it does have new coudl've just been a C++ extention.
+2015-01-03 00:02:14	--	irc: disconnected from server
+2015-01-03 00:02:15	◥	notc (0c@io-E2D6DA82.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2015-01-03 00:02:15	--	Topic for #null is "/dev/null /\"
+2015-01-03 00:02:15	--	Topic set by voni on Tue, 16 Dec 2014 20:05:12
+2015-01-03 00:02:15	--	Channel #null: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-01-03 00:02:19	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2015-01-03 00:11:52	xwlf	Welp BBC gone. Looks liek I have no choice but to torrent Dr. Who and Top Gear. :^)
+2015-01-03 23:01:41	--	irc: disconnected from server
+2015-01-03 23:01:42	◥	notc (0c@io-E2D6DA82.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2015-01-03 23:01:42	--	Topic for #null is "/dev/null /\"
+2015-01-03 23:01:42	--	Topic set by voni on Tue, 16 Dec 2014 20:05:12
+2015-01-03 23:01:42	--	Channel #null: 9 nicks (0 ops, 0 halfops, 0 voices, 9 normals)
+2015-01-03 23:01:46	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2015-01-05 00:47:13	◥	notc (0c@io-E2D6DA82.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2015-01-05 00:47:13	--	Topic for #null is "/dev/null /\"
+2015-01-05 00:47:13	--	Topic set by voni on Tue, 16 Dec 2014 20:05:12
+2015-01-05 00:47:13	--	Channel #null: 9 nicks (0 ops, 0 halfops, 0 voices, 9 normals)
+2015-01-05 00:47:15	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2015-01-05 01:08:17	◥	tttt (lyk@azu.cat) has joined #null
+2015-01-05 01:13:35	◣	tttt (lyk@azu.cat) has quit (Ping timeout: 183 seconds)
+2015-01-05 01:35:13	◥	tttt (lyk@azu.cat) has joined #null
+2015-01-05 02:00:47	◣	tttt (lyk@azu.cat) has quit (Ping timeout: 184 seconds)
+2015-01-05 02:43:33	--	irc: disconnected from server
+2015-01-12 19:11:26	◥	notc (0c@io-565C3B46.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2015-01-12 19:11:26	--	Topic for #null is "/dev/null | Please use 4 lowercase letters for your nickname."
+2015-01-12 19:11:26	--	Topic set by mkfs on Tue, 06 Jan 2015 18:46:11
+2015-01-12 19:11:26	--	Channel #null: 11 nicks (5 ops, 0 halfops, 1 voice, 5 normals)
+2015-01-12 19:11:28	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2015-01-12 19:11:40	xcel	hi notc
+2015-01-12 19:11:44	notc	hi
+2015-01-12 19:11:47	notc	I'm unded
+2015-01-12 19:11:51	@mkfs	hi notc 
+2015-01-12 19:11:54	@mkfs	igu
+2015-01-12 19:11:56	notc	igum
+2015-01-12 19:12:02	notc	I've been bizE
+2015-01-12 19:12:06	notc	wbu guys
+2015-01-12 19:12:17	@mkfs	the usual
+2015-01-12 19:12:28	@mkfs	I'm trying to add exceptions to spoonbot, at the moment
+2015-01-12 19:12:52	notc	exceptions?
+2015-01-12 19:13:05	@mkfs	gonna group commands in modules and have all of them checked with their local exceptions before running
+2015-01-12 19:13:18	@mkfs	like say, kori doesn't want .love in #rice
+2015-01-12 19:13:26	notc	oooohhh
+2015-01-12 19:13:28	notc	alright I gotcha
+2015-01-12 19:13:29	@mkfs	and .love, along with .grapes, .hate and .decide is fun
+2015-01-12 19:13:33	@mkfs	.decide is kori a shit?
+2015-01-12 19:13:34	@bash	mkfs: No
+2015-01-12 19:13:38	@mkfs	bash: fool
+2015-01-12 19:13:42	notc	.decide spoonbot a shit
+2015-01-12 19:13:43	@mkfs	.grapes bash
+2015-01-12 19:13:44	@bash	notc: No
+2015-01-12 19:13:44	@bash	mkfs: Thanks for these delicious grapes, onii-san!
+2015-01-12 19:13:49	notc	:0)
+2015-01-12 19:14:03	xcel	.decide notc love peepee?
+2015-01-12 19:14:04	@bash	xcel: Yes
+2015-01-12 19:14:11	xcel	confirmed
+2015-01-12 19:14:25	vypr	.decide Half Life 3 being released?
+2015-01-12 19:14:26	@bash	vypr: Yes
+2015-01-12 19:14:32	vypr	fantastic
+2015-01-12 19:15:26	notc	^
+2015-01-12 19:15:37	notc	anyway I wanted you to know I was unrip now I gotta do hw d:3
+2015-01-12 19:15:45	@mkfs	igu notc 
+2015-01-12 19:15:53	xcel	.love notc
+2015-01-12 19:15:54	 *	bash slowly approaches notc
+2015-01-12 19:16:18	notc	.love erry1
+2015-01-12 19:16:20	 *	bash boops erry1
+2015-01-12 19:16:27	notc	:o
+2015-01-12 19:16:34		[notc away: homework]
+2015-01-12 19:17:14	@mkfs	.hate voni
+2015-01-12 19:17:15	 *	bash throws a rock at voni
+2015-01-12 19:17:32	xcel	a rock would hurt
+2015-01-12 19:17:38	xcel	depending on how big it is
+2015-01-12 19:17:38	@mkfs	.hate voni
+2015-01-12 19:17:39	 *	bash tells voni to kill themselves
+2015-01-12 19:17:47	@mkfs	voni: don't listen to spoonbot ;-;
+2015-01-12 19:18:03	@mkfs	.love voni
+2015-01-12 19:18:04	 *	bash cooks a romantic dinner for voni
+2015-01-12 19:18:16	~voni	w-what
+2015-01-12 19:18:22	~voni	when did you people start talking
+2015-01-12 19:18:26	~voni	why am i not getting notifcations
+2015-01-12 19:18:33	@mkfs	voni: can you try saying "tfw no qt gf"?
+2015-01-12 19:18:35	xcel	install gentoo voni!
+2015-01-12 19:18:52	~voni	mkfs: wat
+2015-01-12 19:18:54	@mkfs	I don't know if regex is working
+2015-01-12 19:18:55	~voni	tfw no qt gf
+2015-01-12 19:18:56	@bash	voni: w-what about me?
+2015-01-12 19:18:57	@bash	I thought what we had was special ;-;
+2015-01-12 19:18:59	@mkfs	gud
+2015-01-12 19:18:59	 *	bash slaps voni
+2015-01-12 19:19:00	~voni	bash pls
+2015-01-12 19:19:13	~voni	kori will kill u
+2015-01-12 19:19:20	@mkfs	he disabled fun
+2015-01-12 19:19:22	@mkfs	so no .love
+2015-01-12 19:19:32	~voni	and no
+2015-01-12 19:19:34	~voni	tfw no qt gf
+2015-01-12 19:19:35	~voni	?
+2015-01-12 19:19:39	@mkfs	and spoonbot will only react that way when someone is .love'd
+2015-01-12 19:19:40	xcel	kori not fun
+2015-01-12 19:19:42	~voni	o
+2015-01-12 19:19:51	@mkfs	look
+2015-01-12 19:19:55	@mkfs	tfw no qt3.14 gf
+2015-01-12 19:19:56	@mkfs	.love mkfs
+2015-01-12 19:19:57	 *	bash calls mkfs beautiful
+2015-01-12 19:20:03	@mkfs	tfw no 2D qt gf
+2015-01-12 19:20:04	@bash	mkfs: w-what about me?
+2015-01-12 19:20:05	@bash	I thought what we had was special ;-;
+2015-01-12 19:20:08	@mkfs	s-sorry
+2015-01-12 19:20:08	 *	bash slaps mkfs
+2015-01-12 19:20:21	~voni	lmao
+2015-01-12 19:20:34	@mkfs	and once she reacts that way, that person is not .love'd anymore
+2015-01-12 19:20:47	@mkfs	also, .hate will remove .love from that person if she was .love'd beforehand
+2015-01-12 19:20:49	xcel	mkfs bash is a girl?
+2015-01-12 19:20:52	@mkfs	yeah
+2015-01-12 19:20:54	@mkfs	.desktop spoonbot
+2015-01-12 19:20:55	@bash	https://u.teknik.io/0HVT0p.jpg [spoonbot]
+2015-01-12 19:20:59	@mkfs	she's growing up ^
+2015-01-12 19:21:20	~voni	omg
+2015-01-12 19:21:29	@mkfs	isn't she the cutest bot ever? ;-;
+2015-01-12 19:21:42	xcel	why no akari? :^)
+2015-01-12 19:21:48	@mkfs	xcel: pls
+2015-01-12 19:25:15	@mkfs	ok, bbl
+2015-01-12 20:42:22	◥	tttt (lyk@azu.cat) has joined #null
+2015-01-12 20:59:09	◣	tttt (lyk@azu.cat) has quit (Quit: peace)
+2015-01-12 21:14:58	--	irc: disconnected from server
+2015-03-04 21:37:41	◥	notc (0c@io-E2D6DA82.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2015-03-04 21:37:41	--	Topic for #null is "/dev/null | Please use 4 lowercase letters for your nickname."
+2015-03-04 21:37:41	--	Topic set by mkfs on Tue, 06 Jan 2015 18:46:11
+2015-03-04 21:37:41	--	Channel #null: 5 nicks (1 op, 0 halfops, 0 voices, 4 normals)
+2015-03-04 21:37:43	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2015-03-04 21:38:04	--	irc: disconnected from server
+2015-03-04 21:38:11	◥	notc (0c@io-E2D6DA82.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2015-03-04 21:38:11	--	Topic for #null is "/dev/null | Please use 4 lowercase letters for your nickname."
+2015-03-04 21:38:11	--	Topic set by mkfs on Tue, 06 Jan 2015 18:46:11
+2015-03-04 21:38:11	--	Channel #null: 5 nicks (1 op, 0 halfops, 0 voices, 4 normals)
+2015-03-04 21:38:13	--	irc: disconnected from server
+2015-03-04 21:38:20	◥	notc (0c@io-E2D6DA82.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2015-03-04 21:38:20	--	Topic for #null is "/dev/null | Please use 4 lowercase letters for your nickname."
+2015-03-04 21:38:20	--	Topic set by mkfs on Tue, 06 Jan 2015 18:46:11
+2015-03-04 21:38:20	--	Channel #null: 5 nicks (1 op, 0 halfops, 0 voices, 4 normals)
+2015-03-04 21:38:21	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2015-03-04 22:22:18	--	irc: disconnected from server
+2015-03-05 20:12:51	◥	notc (0c@io-E2D6DA82.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2015-03-05 20:12:51	--	Topic for #null is "/dev/null | Please use 4 lowercase letters for your nickname."
+2015-03-05 20:12:51	--	Topic set by mkfs on Tue, 06 Jan 2015 18:46:11
+2015-03-05 20:12:51	--	Channel #null: 5 nicks (1 op, 0 halfops, 0 voices, 4 normals)
+2015-03-05 20:12:53	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2015-03-07 09:46:02	--	irc: disconnected from server
+2015-03-07 09:46:16	◥	notc (0c@io-E2D6DA82.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2015-03-07 09:46:16	--	Topic for #null is "/dev/null | Please use 4 lowercase letters for your nickname."
+2015-03-07 09:46:16	--	Topic set by mkfs on Tue, 06 Jan 2015 18:46:11
+2015-03-07 09:46:16	--	Channel #null: 5 nicks (1 op, 0 halfops, 0 voices, 4 normals)
+2015-03-07 09:46:20	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2015-03-07 10:46:57	◣	xkcd_ (joel@4CC15DD1.187DB87C.745442CB.IP) has quit (Ping timeout: 182 seconds)
+2015-03-08 13:48:33	--	irc: disconnected from server
+2015-03-08 13:48:45	◥	notc (0c@io-E2D6DA82.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2015-03-08 13:48:45	--	Topic for #null is "/dev/null | Please use 4 lowercase letters for your nickname."
+2015-03-08 13:48:45	--	Topic set by mkfs on Tue, 06 Jan 2015 18:46:11
+2015-03-08 13:48:45	--	Channel #null: 5 nicks (1 op, 0 halfops, 0 voices, 4 normals)
+2015-03-08 13:48:48	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2015-03-08 20:20:26	--	irc: disconnected from server
+2015-03-08 20:20:37	◥	notc (0c@io-E2D6DA82.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2015-03-08 20:20:37	--	Topic for #null is "/dev/null | Please use 4 lowercase letters for your nickname."
+2015-03-08 20:20:37	--	Topic set by mkfs on Tue, 06 Jan 2015 18:46:11
+2015-03-08 20:20:37	--	Channel #null: 5 nicks (1 op, 0 halfops, 0 voices, 4 normals)
+2015-03-08 20:20:41	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2015-03-08 20:25:15	◥	xkcd (joel@D3E8D80F.187DB87C.745442CB.IP) has joined #null
+2015-03-08 22:00:47	◣	zugg (snookibot@io-1E68050E.ml) has quit (Connection reset by peer)
+2015-03-08 23:43:19	--	irc: disconnected from server
+2015-03-11 21:28:04	◥	notc (0c@io-E2D6DA82.lightspeed.wepbfl.sbcglobal.net) has joined #null
+2015-03-11 21:28:04	--	Topic for #null is "/dev/null | Please use 4 lowercase letters for your nickname."
+2015-03-11 21:28:04	--	Topic set by mkfs on Tue, 06 Jan 2015 18:46:11
+2015-03-11 21:28:04	--	Channel #null: 5 nicks (1 op, 0 halfops, 0 voices, 4 normals)
+2015-03-11 21:28:05	--	Channel created on Wed, 03 Dec 2014 22:45:04
+2015-03-11 22:19:22	--	irc: disconnected from server
+2015-11-05 21:45:06	◥	notc (0c@Clk-A51D3503.hsd1.fl.comcast.net) has joined #null
+2015-11-05 21:45:06	--	Channel #null: 1 nick (1 op, 0 halfops, 0 voices, 0 normals)
+2015-11-05 21:45:08	--	Channel created on Thu, 05 Nov 2015 21:45:06
+2015-11-05 21:46:00	--	irc: disconnected from server
+2015-11-05 21:49:04	◥	notc (0c@Clk-A51D3503.hsd1.fl.comcast.net) has joined #null
+2015-11-05 21:49:04	--	Channel #null: 1 nick (1 op, 0 halfops, 0 voices, 0 normals)
+2015-11-05 21:49:06	--	Channel created on Thu, 05 Nov 2015 21:49:03
+2015-11-05 21:49:11	--	irc: disconnected from server

@@ -1,0 +1,1762 @@
+2014-11-26 10:11:05	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-26 10:11:05	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-26 10:11:05		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-11-26 10:11:39		irc: server irc.rizon.net created (temporary server, NOT SAVED!)
+2014-11-26 10:13:55		fifo: pipe closed
+2014-11-26 10:18:25	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-26 10:18:25	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-26 10:18:25		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-11-26 10:18:27		fifo: pipe closed
+2014-11-26 10:21:13	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-26 10:21:13	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-26 10:21:13	=!=	Warning: /home/james//.weechat/irc.conf, line 29: unknown option for section "look": item_channel_modes_hide_key = off
+2014-11-26 10:21:13	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2014-11-26 10:21:13	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2014-11-26 10:21:13	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-26 10:21:13	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2014-11-26 10:21:13	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2014-11-26 10:21:13	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2014-11-26 10:21:13	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2014-11-26 10:21:13	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2014-11-26 10:21:13	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2014-11-26 10:21:13	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2014-11-26 10:21:13	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2014-11-26 10:21:13	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2014-11-26 10:21:13	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2014-11-26 10:21:13	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-26 10:21:13	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-26 10:21:13	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2014-11-26 10:21:13	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2014-11-26 10:21:13	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2014-11-26 10:21:13	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2014-11-26 10:21:13		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-11-26 10:21:26		script: downloading list of scripts...
+2014-11-26 10:21:27		script: 279 scripts for WeeChat 1.0.1
+2014-11-26 10:21:29		perl: loading script "/home/james/.weechat/perl/buffers.pl"
+2014-11-26 10:21:29		perl: registered script "buffers", version 4.9 (Sidebar with list of buffers)
+2014-11-26 10:21:29		New key binding (context "mouse"): @bar(buffers):ctrl-wheeldown => hsignal:buffers_mouse
+2014-11-26 10:21:29		New key binding (context "mouse"): @bar(buffers):ctrl-wheelup => hsignal:buffers_mouse
+2014-11-26 10:21:36		perl: scripts unloaded
+2014-11-26 10:21:36		fifo: pipe closed
+2014-11-26 10:22:12	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-26 10:22:12	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-26 10:22:12		perl scripts loaded: buffers
+2014-11-26 10:22:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2014-11-26 10:22:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2014-11-26 10:22:12	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-26 10:22:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2014-11-26 10:22:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2014-11-26 10:22:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2014-11-26 10:22:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2014-11-26 10:22:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2014-11-26 10:22:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2014-11-26 10:22:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2014-11-26 10:22:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2014-11-26 10:22:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2014-11-26 10:22:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2014-11-26 10:22:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-26 10:22:12	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-26 10:22:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2014-11-26 10:22:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2014-11-26 10:22:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2014-11-26 10:22:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2014-11-26 10:22:12		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-11-26 11:50:04		fifo: removing old fifo pipe "/home/james/.weechat/weechat_fifo_3210"
+2014-11-26 11:50:04	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-26 11:50:04	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-26 11:50:06		perl scripts loaded: buffers
+2014-11-26 11:50:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2014-11-26 11:50:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2014-11-26 11:50:06	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-26 11:50:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2014-11-26 11:50:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2014-11-26 11:50:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2014-11-26 11:50:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2014-11-26 11:50:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2014-11-26 11:50:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2014-11-26 11:50:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2014-11-26 11:50:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2014-11-26 11:50:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2014-11-26 11:50:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2014-11-26 11:50:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-26 11:50:06	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-26 11:50:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2014-11-26 11:50:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2014-11-26 11:50:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2014-11-26 11:50:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2014-11-26 11:50:06		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-11-26 13:28:56		perl: scripts unloaded
+2014-11-26 13:28:56		fifo: pipe closed
+2014-11-26 13:28:57	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-26 13:28:57	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-26 13:28:58		perl scripts loaded: buffers
+2014-11-26 13:28:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2014-11-26 13:28:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2014-11-26 13:28:58	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-26 13:28:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2014-11-26 13:28:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2014-11-26 13:28:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2014-11-26 13:28:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2014-11-26 13:28:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2014-11-26 13:28:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2014-11-26 13:28:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2014-11-26 13:28:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2014-11-26 13:28:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2014-11-26 13:28:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2014-11-26 13:28:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-26 13:28:58	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-26 13:28:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2014-11-26 13:28:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2014-11-26 13:28:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2014-11-26 13:28:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2014-11-26 13:28:58		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-11-26 13:29:09		perl: scripts unloaded
+2014-11-26 13:29:09		fifo: pipe closed
+2014-11-26 13:36:03	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-26 13:36:03	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-26 13:36:03		perl scripts loaded: buffers
+2014-11-26 13:36:03	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2014-11-26 13:36:03	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2014-11-26 13:36:03	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-26 13:36:03	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2014-11-26 13:36:03	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2014-11-26 13:36:03	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2014-11-26 13:36:03	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2014-11-26 13:36:03	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2014-11-26 13:36:03	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2014-11-26 13:36:03	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2014-11-26 13:36:03	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2014-11-26 13:36:03	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2014-11-26 13:36:03	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2014-11-26 13:36:03	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-26 13:36:03	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-26 13:36:03	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2014-11-26 13:36:03	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2014-11-26 13:36:03	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2014-11-26 13:36:03	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2014-11-26 13:36:03		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-11-27 00:31:48		fifo: removing old fifo pipe "/home/james/.weechat/weechat_fifo_739"
+2014-11-27 00:31:48	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-27 00:31:48	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-27 00:31:48		perl scripts loaded: buffers
+2014-11-27 00:31:48	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2014-11-27 00:31:48	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2014-11-27 00:31:48	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-27 00:31:48	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2014-11-27 00:31:48	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2014-11-27 00:31:48	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2014-11-27 00:31:48	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2014-11-27 00:31:48	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2014-11-27 00:31:48	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2014-11-27 00:31:48	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2014-11-27 00:31:48	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2014-11-27 00:31:48	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2014-11-27 00:31:48	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2014-11-27 00:31:48	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-27 00:31:48	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-27 00:31:48	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2014-11-27 00:31:48	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2014-11-27 00:31:48	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2014-11-27 00:31:48	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2014-11-27 00:31:48		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-11-27 01:29:43		perl: scripts unloaded
+2014-11-27 01:29:43		fifo: pipe closed
+2014-11-27 12:29:54	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-27 12:29:54	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-27 12:29:55		perl scripts loaded: buffers
+2014-11-27 12:29:55	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2014-11-27 12:29:55	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2014-11-27 12:29:55	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-27 12:29:55	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2014-11-27 12:29:55	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2014-11-27 12:29:55	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2014-11-27 12:29:55	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2014-11-27 12:29:55	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2014-11-27 12:29:55	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2014-11-27 12:29:55	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2014-11-27 12:29:55	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2014-11-27 12:29:55	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2014-11-27 12:29:55	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2014-11-27 12:29:55	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-27 12:29:55	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-27 12:29:55	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2014-11-27 12:29:55	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2014-11-27 12:29:55	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2014-11-27 12:29:55	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2014-11-27 12:29:55		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-11-27 12:29:55		script: 279 scripts for WeeChat 1.0.1
+2014-11-27 18:29:27		perl: scripts unloaded
+2014-11-27 18:29:27		fifo: pipe closed
+2014-11-27 21:55:41	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-27 21:55:41	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-27 21:55:42		perl scripts loaded: buffers
+2014-11-27 21:55:42	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2014-11-27 21:55:42	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2014-11-27 21:55:42	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-27 21:55:42	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2014-11-27 21:55:42	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2014-11-27 21:55:42	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2014-11-27 21:55:42	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2014-11-27 21:55:42	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2014-11-27 21:55:42	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2014-11-27 21:55:42	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2014-11-27 21:55:42	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2014-11-27 21:55:42	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2014-11-27 21:55:42	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2014-11-27 21:55:42	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-27 21:55:42	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-27 21:55:42	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2014-11-27 21:55:42	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2014-11-27 21:55:42	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2014-11-27 21:55:42	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2014-11-27 21:55:42		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-11-27 22:51:09		perl: scripts unloaded
+2014-11-27 22:51:09		fifo: pipe closed
+2014-11-27 22:52:56	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-27 22:52:56	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-27 22:52:57		perl scripts loaded: buffers
+2014-11-27 22:52:57	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2014-11-27 22:52:57	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2014-11-27 22:52:57	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-27 22:52:57	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2014-11-27 22:52:57	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2014-11-27 22:52:57	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2014-11-27 22:52:57	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2014-11-27 22:52:57	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2014-11-27 22:52:57	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2014-11-27 22:52:57	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2014-11-27 22:52:57	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2014-11-27 22:52:57	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2014-11-27 22:52:57	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2014-11-27 22:52:57	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-27 22:52:57	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-27 22:52:57	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2014-11-27 22:52:57	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2014-11-27 22:52:57	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2014-11-27 22:52:57	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2014-11-27 22:52:57		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-11-28 01:13:30		perl: scripts unloaded
+2014-11-28 01:13:30		fifo: pipe closed
+2014-11-28 09:58:19	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-28 09:58:19	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-28 09:58:20		perl scripts loaded: buffers
+2014-11-28 09:58:20	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2014-11-28 09:58:20	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2014-11-28 09:58:20	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-28 09:58:20	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2014-11-28 09:58:20	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2014-11-28 09:58:20	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2014-11-28 09:58:20	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2014-11-28 09:58:20	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2014-11-28 09:58:20	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2014-11-28 09:58:20	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2014-11-28 09:58:20	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2014-11-28 09:58:20	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2014-11-28 09:58:20	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2014-11-28 09:58:20	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-28 09:58:20	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-28 09:58:20	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2014-11-28 09:58:20	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2014-11-28 09:58:20	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2014-11-28 09:58:20	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2014-11-28 09:58:20		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-11-28 10:33:07		python: loading script "/home/james/.weechat/python/notify.py"
+2014-11-28 10:33:07		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2014-11-28 10:33:07		python: stdout/stderr: You must have notify2 installed.
+2014-11-28 10:33:07		python: stdout/stderr: Traceback (most recent call last):
+2014-11-28 10:33:07		python: stdout/stderr:   File "/home/james/.weechat/python/notify.py", line 74, in <module>
+2014-11-28 10:33:07		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2014-11-28 10:33:07		python: stdout/stderr: NameError: name 'notify2' is not defined
+2014-11-28 10:33:07	=!=	python: unable to parse file "/home/james/.weechat/python/notify.py"
+2014-11-28 10:33:14		python: loading script "/home/james/.weechat/python/notifo_notify.py"
+2014-11-28 10:33:15		python: registered script "notifo_notify", version 1.0 (notifo_notify: Push notification to iPod touch/iPhone with notifo)
+2014-11-28 10:33:15	=!=	notifo_notify: Please set option: username
+2014-11-28 10:33:15		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2014-11-28 10:33:15	=!=	notifo_notify: Please set option: api_secret
+2014-11-28 10:33:15		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2014-11-28 10:33:30		python: loading script "/home/james/.weechat/python/notification_center.py"
+2014-11-28 10:33:30		python: stdout/stderr: Traceback (most recent call last):
+2014-11-28 10:33:30		python: stdout/stderr:   File "/home/james/.weechat/python/notification_center.py", line 7, in <module>
+2014-11-28 10:33:30		python: stdout/stderr:     from pync import Notifier
+2014-11-28 10:33:30		python: stdout/stderr: ImportError: No module named pync
+2014-11-28 10:33:30	=!=	python: unable to parse file "/home/james/.weechat/python/notification_center.py"
+2014-11-28 10:35:59		python: loading script "/home/james/.weechat/python/inotify.py"
+2014-11-28 10:36:00		python: registered script "inotify", version 0.1.4 (Notifications for WeeChat.)
+2014-11-28 10:36:00	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-11-28 10:38:07		script: script "notify.py" is already installed and up-to-date
+2014-11-28 10:39:51	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-11-28 10:42:33		perl: loading script "/home/james/.weechat/perl/notify_send.pl"
+2014-11-28 10:42:33		perl: registered script "notify_send", version 1.4 (execute a user-defined system command upon highlight or private message (with smart delays to avoid spam))
+2014-11-28 10:45:56		perl: scripts unloaded
+2014-11-28 10:45:56		fifo: pipe closed
+2014-11-28 10:45:56		python: scripts unloaded
+2014-11-28 10:45:58		python: stdout/stderr: Traceback (most recent call last):
+2014-11-28 10:45:58		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2014-11-28 10:45:58		python: stdout/stderr:     from pync import Notifier
+2014-11-28 10:45:58		python: stdout/stderr: ImportError: No module named pync
+2014-11-28 10:45:58	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2014-11-28 10:45:58	=!=	notifo_notify: Please set option: username
+2014-11-28 10:45:58		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2014-11-28 10:45:58	=!=	notifo_notify: Please set option: api_secret
+2014-11-28 10:45:58		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2014-11-28 10:45:58		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2014-11-28 10:45:58		python: stdout/stderr: You must have notify2 installed.
+2014-11-28 10:45:58		python: stdout/stderr: Traceback (most recent call last):
+2014-11-28 10:45:58		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2014-11-28 10:45:58		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2014-11-28 10:45:58		python: stdout/stderr: NameError: name 'notify2' is not defined
+2014-11-28 10:45:58	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2014-11-28 10:45:58	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-11-28 10:45:58		python scripts loaded: inotify, notifo_notify
+2014-11-28 10:45:58	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-28 10:45:58	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-28 10:45:58		perl scripts loaded: buffers, notify_send
+2014-11-28 10:45:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2014-11-28 10:45:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2014-11-28 10:45:58	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-28 10:45:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2014-11-28 10:45:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2014-11-28 10:45:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2014-11-28 10:45:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2014-11-28 10:45:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2014-11-28 10:45:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2014-11-28 10:45:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2014-11-28 10:45:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2014-11-28 10:45:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2014-11-28 10:45:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2014-11-28 10:45:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-28 10:45:58	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-28 10:45:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2014-11-28 10:45:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2014-11-28 10:45:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2014-11-28 10:45:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2014-11-28 10:45:58		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-11-28 11:54:12		perl: scripts unloaded
+2014-11-28 11:54:12		fifo: pipe closed
+2014-11-28 11:54:12		python: scripts unloaded
+2014-11-28 14:50:14		python: stdout/stderr: Traceback (most recent call last):
+2014-11-28 14:50:14		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2014-11-28 14:50:14		python: stdout/stderr:     from pync import Notifier
+2014-11-28 14:50:14		python: stdout/stderr: ImportError: No module named pync
+2014-11-28 14:50:14	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2014-11-28 14:50:14	=!=	notifo_notify: Please set option: username
+2014-11-28 14:50:14		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2014-11-28 14:50:14	=!=	notifo_notify: Please set option: api_secret
+2014-11-28 14:50:14		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2014-11-28 14:50:15		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2014-11-28 14:50:15		python: stdout/stderr: You must have notify2 installed.
+2014-11-28 14:50:15		python: stdout/stderr: Traceback (most recent call last):
+2014-11-28 14:50:15		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2014-11-28 14:50:15		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2014-11-28 14:50:15		python: stdout/stderr: NameError: name 'notify2' is not defined
+2014-11-28 14:50:15	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2014-11-28 14:50:15	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-11-28 14:50:15		python scripts loaded: inotify, notifo_notify
+2014-11-28 14:50:15	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-28 14:50:15	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-28 14:50:15		perl scripts loaded: buffers, notify_send
+2014-11-28 14:50:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2014-11-28 14:50:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2014-11-28 14:50:15	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-28 14:50:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2014-11-28 14:50:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2014-11-28 14:50:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2014-11-28 14:50:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2014-11-28 14:50:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2014-11-28 14:50:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2014-11-28 14:50:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2014-11-28 14:50:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2014-11-28 14:50:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2014-11-28 14:50:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2014-11-28 14:50:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-28 14:50:15	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-28 14:50:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2014-11-28 14:50:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2014-11-28 14:50:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2014-11-28 14:50:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2014-11-28 14:50:15		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-11-28 14:50:15		script: 279 scripts for WeeChat 1.0.1
+2014-11-28 14:53:26	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-11-28 15:00:52	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-11-28 17:04:17	=!=	[inotify] Suppressing future error messages...
+2014-11-28 17:31:57		perl: scripts unloaded
+2014-11-28 17:31:57		fifo: pipe closed
+2014-11-28 17:31:57		python: scripts unloaded
+2014-11-28 19:01:24		python: stdout/stderr: Traceback (most recent call last):
+2014-11-28 19:01:24		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2014-11-28 19:01:24		python: stdout/stderr:     from pync import Notifier
+2014-11-28 19:01:24		python: stdout/stderr: ImportError: No module named pync
+2014-11-28 19:01:24	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2014-11-28 19:01:24	=!=	notifo_notify: Please set option: username
+2014-11-28 19:01:24		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2014-11-28 19:01:24	=!=	notifo_notify: Please set option: api_secret
+2014-11-28 19:01:24		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2014-11-28 19:01:24		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2014-11-28 19:01:24		python: stdout/stderr: You must have notify2 installed.
+2014-11-28 19:01:24		python: stdout/stderr: Traceback (most recent call last):
+2014-11-28 19:01:24		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2014-11-28 19:01:24		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2014-11-28 19:01:24		python: stdout/stderr: NameError: name 'notify2' is not defined
+2014-11-28 19:01:24	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2014-11-28 19:01:24	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-11-28 19:01:24		python scripts loaded: inotify, notifo_notify
+2014-11-28 19:01:24	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-28 19:01:24	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-28 19:01:24		perl scripts loaded: buffers, notify_send
+2014-11-28 19:01:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2014-11-28 19:01:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2014-11-28 19:01:24	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-28 19:01:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2014-11-28 19:01:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2014-11-28 19:01:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2014-11-28 19:01:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2014-11-28 19:01:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2014-11-28 19:01:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2014-11-28 19:01:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2014-11-28 19:01:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2014-11-28 19:01:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2014-11-28 19:01:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2014-11-28 19:01:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-28 19:01:24	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-28 19:01:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2014-11-28 19:01:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2014-11-28 19:01:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2014-11-28 19:01:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2014-11-28 19:01:24		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-11-28 19:24:12		perl: scripts unloaded
+2014-11-28 19:24:12		fifo: pipe closed
+2014-11-28 19:24:12		python: scripts unloaded
+2014-11-28 19:26:17		python: stdout/stderr: Traceback (most recent call last):
+2014-11-28 19:26:17		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2014-11-28 19:26:17		python: stdout/stderr:     from pync import Notifier
+2014-11-28 19:26:17		python: stdout/stderr: ImportError: No module named pync
+2014-11-28 19:26:17	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2014-11-28 19:26:17	=!=	notifo_notify: Please set option: username
+2014-11-28 19:26:17		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2014-11-28 19:26:17	=!=	notifo_notify: Please set option: api_secret
+2014-11-28 19:26:17		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2014-11-28 19:26:17		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2014-11-28 19:26:17		python: stdout/stderr: You must have notify2 installed.
+2014-11-28 19:26:17		python: stdout/stderr: Traceback (most recent call last):
+2014-11-28 19:26:17		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2014-11-28 19:26:17		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2014-11-28 19:26:17		python: stdout/stderr: NameError: name 'notify2' is not defined
+2014-11-28 19:26:17	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2014-11-28 19:26:17	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-11-28 19:26:17		python scripts loaded: inotify, notifo_notify
+2014-11-28 19:26:17	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-28 19:26:17	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-28 19:26:17		perl scripts loaded: buffers, notify_send
+2014-11-28 19:26:17	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2014-11-28 19:26:17	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2014-11-28 19:26:17	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-28 19:26:17	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2014-11-28 19:26:17	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2014-11-28 19:26:17	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2014-11-28 19:26:17	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2014-11-28 19:26:17	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2014-11-28 19:26:17	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2014-11-28 19:26:17	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2014-11-28 19:26:17	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2014-11-28 19:26:17	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2014-11-28 19:26:17	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2014-11-28 19:26:17	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-11-28 19:26:17	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-11-28 19:26:17	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2014-11-28 19:26:17	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2014-11-28 19:26:17	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2014-11-28 19:26:17	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2014-11-28 19:26:17		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-11-28 19:29:18	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-11-28 19:51:04	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-11-28 20:03:18	=!=	[inotify] Suppressing future error messages...
+2014-11-28 20:24:35		perl: scripts unloaded
+2014-11-28 20:24:35		fifo: pipe closed
+2014-11-28 20:24:35		python: scripts unloaded
+2014-12-02 19:52:00		python: stdout/stderr: Traceback (most recent call last):
+2014-12-02 19:52:00		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2014-12-02 19:52:00		python: stdout/stderr:     from pync import Notifier
+2014-12-02 19:52:00		python: stdout/stderr: ImportError: No module named pync
+2014-12-02 19:52:00	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2014-12-02 19:52:00	=!=	notifo_notify: Please set option: username
+2014-12-02 19:52:00		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2014-12-02 19:52:00	=!=	notifo_notify: Please set option: api_secret
+2014-12-02 19:52:00		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2014-12-02 19:52:01		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2014-12-02 19:52:01		python: stdout/stderr: You must have notify2 installed.
+2014-12-02 19:52:01		python: stdout/stderr: Traceback (most recent call last):
+2014-12-02 19:52:01		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2014-12-02 19:52:01		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2014-12-02 19:52:01		python: stdout/stderr: NameError: name 'notify2' is not defined
+2014-12-02 19:52:01	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2014-12-02 19:52:01	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-02 19:52:01		python scripts loaded: inotify, notifo_notify
+2014-12-02 19:52:01	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-12-02 19:52:01	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-02 19:52:01		perl scripts loaded: buffers, notify_send
+2014-12-02 19:52:01	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2014-12-02 19:52:01	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2014-12-02 19:52:01	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-02 19:52:01	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2014-12-02 19:52:01	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2014-12-02 19:52:01	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2014-12-02 19:52:01	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2014-12-02 19:52:01	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2014-12-02 19:52:01	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2014-12-02 19:52:01	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2014-12-02 19:52:01	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2014-12-02 19:52:01	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2014-12-02 19:52:01	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2014-12-02 19:52:01	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-12-02 19:52:01	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-02 19:52:01	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2014-12-02 19:52:01	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2014-12-02 19:52:01	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2014-12-02 19:52:01	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2014-12-02 19:52:01		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-12-02 19:52:01		script: 279 scripts for WeeChat 1.0.1
+2014-12-02 19:52:51	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-02 20:02:23	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-02 20:03:08	=!=	[inotify] Suppressing future error messages...
+2014-12-03 20:27:47		irc: server http: created (temporary server, NOT SAVED!)
+2014-12-03 20:28:16		irc: server irc.iotek.org created (temporary server, NOT SAVED!)
+2014-12-03 20:31:14		Option changed: irc.server.irc.iotek.org.autoconnect = on  (default: (undefined))
+2014-12-03 20:31:39		Option changed: irc.server.irc.iotek.org.autojoin = "#rice"  (default: (undefined))
+2014-12-03 21:01:18		Option changed: irc.server.irc.iotek.org.nicks = "notc"  (default: (undefined))
+2014-12-03 23:03:35		Option changed: irc.server.irc.iotek.org.autojoin = "#rice,#null"  (default: (undefined))
+2014-12-04 00:45:54		perl: scripts unloaded
+2014-12-04 00:45:54		fifo: pipe closed
+2014-12-04 00:45:54		python: scripts unloaded
+2014-12-04 22:31:35		python: stdout/stderr: Traceback (most recent call last):
+2014-12-04 22:31:35		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2014-12-04 22:31:35		python: stdout/stderr:     from pync import Notifier
+2014-12-04 22:31:35		python: stdout/stderr: ImportError: No module named pync
+2014-12-04 22:31:35	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2014-12-04 22:31:36	=!=	notifo_notify: Please set option: username
+2014-12-04 22:31:36		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2014-12-04 22:31:36	=!=	notifo_notify: Please set option: api_secret
+2014-12-04 22:31:36		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2014-12-04 22:31:36		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2014-12-04 22:31:36		python: stdout/stderr: You must have notify2 installed.
+2014-12-04 22:31:36		python: stdout/stderr: Traceback (most recent call last):
+2014-12-04 22:31:36		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2014-12-04 22:31:36		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2014-12-04 22:31:36		python: stdout/stderr: NameError: name 'notify2' is not defined
+2014-12-04 22:31:36	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2014-12-04 22:31:36	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-04 22:31:36		python scripts loaded: inotify, notifo_notify
+2014-12-04 22:31:36	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-12-04 22:31:36	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-04 22:31:36		perl scripts loaded: buffers, notify_send
+2014-12-04 22:31:36	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2014-12-04 22:31:36	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2014-12-04 22:31:36	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-04 22:31:36	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2014-12-04 22:31:36	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2014-12-04 22:31:36	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2014-12-04 22:31:36	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2014-12-04 22:31:36	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2014-12-04 22:31:36	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2014-12-04 22:31:36	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2014-12-04 22:31:36	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2014-12-04 22:31:36	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2014-12-04 22:31:36	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2014-12-04 22:31:36	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-12-04 22:31:36	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-04 22:31:36	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2014-12-04 22:31:36	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2014-12-04 22:31:36	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2014-12-04 22:31:36	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2014-12-04 22:31:36		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-12-04 22:31:36		script: 279 scripts for WeeChat 1.0.1
+2014-12-04 22:34:10	=!=	Error with command "/server add irc.iotek.org/6667" (help on command: /help server)
+2014-12-04 22:34:26	=!=	Error with command "/server add irc.iotek.org" (help on command: /help server)
+2014-12-04 22:34:51		irc: server iotek created
+2014-12-04 22:35:26		Option changed: irc.server.iotek.nicks = "notc,james"  (default: (undefined))
+2014-12-04 22:36:01		Option changed: irc.server.iotek.username = "0c"  (default: (undefined))
+2014-12-04 22:36:10		Option changed: irc.server.iotek.realname = "jams"  (default: (undefined))
+2014-12-04 22:36:28		Option changed: irc.server.iotek.autoconnect = on  (default: (undefined))
+2014-12-04 22:36:47		Option changed: irc.server.iotek.autojoin = "#null,#rice"  (default: (undefined))
+2014-12-04 22:37:04		perl: scripts unloaded
+2014-12-04 22:37:04		fifo: pipe closed
+2014-12-04 22:37:04		python: scripts unloaded
+2014-12-04 22:37:06		python: stdout/stderr: Traceback (most recent call last):
+2014-12-04 22:37:06		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2014-12-04 22:37:06		python: stdout/stderr:     from pync import Notifier
+2014-12-04 22:37:06		python: stdout/stderr: ImportError: No module named pync
+2014-12-04 22:37:06	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2014-12-04 22:37:06	=!=	notifo_notify: Please set option: username
+2014-12-04 22:37:06		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2014-12-04 22:37:06	=!=	notifo_notify: Please set option: api_secret
+2014-12-04 22:37:06		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2014-12-04 22:37:06		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2014-12-04 22:37:06		python: stdout/stderr: You must have notify2 installed.
+2014-12-04 22:37:06		python: stdout/stderr: Traceback (most recent call last):
+2014-12-04 22:37:06		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2014-12-04 22:37:06		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2014-12-04 22:37:07		python: stdout/stderr: NameError: name 'notify2' is not defined
+2014-12-04 22:37:07	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2014-12-04 22:37:07	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-04 22:37:07		python scripts loaded: inotify, notifo_notify
+2014-12-04 22:37:07	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-12-04 22:37:07	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-04 22:37:07		perl scripts loaded: buffers, notify_send
+2014-12-04 22:37:07	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2014-12-04 22:37:07	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2014-12-04 22:37:07	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-04 22:37:07	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2014-12-04 22:37:07	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2014-12-04 22:37:07	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2014-12-04 22:37:07	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2014-12-04 22:37:07	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2014-12-04 22:37:07	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2014-12-04 22:37:07	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2014-12-04 22:37:07	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2014-12-04 22:37:07	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2014-12-04 22:37:07	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2014-12-04 22:37:07	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-12-04 22:37:07	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-04 22:37:07	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2014-12-04 22:37:07	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2014-12-04 22:37:07	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2014-12-04 22:37:07	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2014-12-04 22:37:07		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-12-04 22:50:37	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-04 23:30:09	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-04 23:30:16		perl: scripts unloaded
+2014-12-04 23:30:16		fifo: pipe closed
+2014-12-04 23:30:16		python: scripts unloaded
+2014-12-05 14:51:31		python: stdout/stderr: Traceback (most recent call last):
+2014-12-05 14:51:31		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2014-12-05 14:51:31		python: stdout/stderr:     from pync import Notifier
+2014-12-05 14:51:31		python: stdout/stderr: ImportError: No module named pync
+2014-12-05 14:51:31	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2014-12-05 14:51:31	=!=	notifo_notify: Please set option: username
+2014-12-05 14:51:31		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2014-12-05 14:51:31	=!=	notifo_notify: Please set option: api_secret
+2014-12-05 14:51:31		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2014-12-05 14:51:31		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2014-12-05 14:51:31		python: stdout/stderr: You must have notify2 installed.
+2014-12-05 14:51:31		python: stdout/stderr: Traceback (most recent call last):
+2014-12-05 14:51:31		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2014-12-05 14:51:31		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2014-12-05 14:51:31		python: stdout/stderr: NameError: name 'notify2' is not defined
+2014-12-05 14:51:31	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2014-12-05 14:51:31	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-05 14:51:31		python scripts loaded: inotify, notifo_notify
+2014-12-05 14:51:31	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-12-05 14:51:31	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-05 14:51:31		perl scripts loaded: buffers, notify_send
+2014-12-05 14:51:31	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2014-12-05 14:51:31	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2014-12-05 14:51:31	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-05 14:51:31	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2014-12-05 14:51:31	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2014-12-05 14:51:31	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2014-12-05 14:51:31	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2014-12-05 14:51:31	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2014-12-05 14:51:31	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2014-12-05 14:51:31	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2014-12-05 14:51:31	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2014-12-05 14:51:31	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2014-12-05 14:51:31	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2014-12-05 14:51:31	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-12-05 14:51:31	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-05 14:51:31	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2014-12-05 14:51:31	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2014-12-05 14:51:31	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2014-12-05 14:51:31	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2014-12-05 14:51:31		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-12-05 14:51:41	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-05 14:52:24	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-05 14:53:22	=!=	[inotify] Suppressing future error messages...
+2014-12-06 15:55:17		perl: scripts unloaded
+2014-12-06 15:55:17		fifo: pipe closed
+2014-12-06 15:55:17		python: scripts unloaded
+2014-12-06 22:19:24		python: stdout/stderr: Traceback (most recent call last):
+2014-12-06 22:19:24		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2014-12-06 22:19:24		python: stdout/stderr:     from pync import Notifier
+2014-12-06 22:19:24		python: stdout/stderr: ImportError: No module named pync
+2014-12-06 22:19:24	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2014-12-06 22:19:24	=!=	notifo_notify: Please set option: username
+2014-12-06 22:19:24		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2014-12-06 22:19:24	=!=	notifo_notify: Please set option: api_secret
+2014-12-06 22:19:24		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2014-12-06 22:19:24		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2014-12-06 22:19:24		python: stdout/stderr: You must have notify2 installed.
+2014-12-06 22:19:24		python: stdout/stderr: Traceback (most recent call last):
+2014-12-06 22:19:24		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2014-12-06 22:19:24		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2014-12-06 22:19:24		python: stdout/stderr: NameError: name 'notify2' is not defined
+2014-12-06 22:19:24	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2014-12-06 22:19:24	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-06 22:19:24		python scripts loaded: inotify, notifo_notify
+2014-12-06 22:19:24	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-12-06 22:19:24	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-06 22:19:24		perl scripts loaded: buffers, notify_send
+2014-12-06 22:19:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2014-12-06 22:19:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2014-12-06 22:19:24	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-06 22:19:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2014-12-06 22:19:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2014-12-06 22:19:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2014-12-06 22:19:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2014-12-06 22:19:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2014-12-06 22:19:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2014-12-06 22:19:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2014-12-06 22:19:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2014-12-06 22:19:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2014-12-06 22:19:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2014-12-06 22:19:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-12-06 22:19:24	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-06 22:19:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2014-12-06 22:19:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2014-12-06 22:19:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2014-12-06 22:19:24	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2014-12-06 22:19:24		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-12-06 22:19:25		script: 279 scripts for WeeChat 1.0.1
+2014-12-06 22:19:30	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-07 16:42:05	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-07 16:44:51	=!=	[inotify] Suppressing future error messages...
+2014-12-08 18:33:44		perl: scripts unloaded
+2014-12-08 18:33:44		fifo: pipe closed
+2014-12-08 18:33:44		python: scripts unloaded
+2014-12-09 19:59:14		python: stdout/stderr: Traceback (most recent call last):
+2014-12-09 19:59:14		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2014-12-09 19:59:14		python: stdout/stderr:     from pync import Notifier
+2014-12-09 19:59:14		python: stdout/stderr: ImportError: No module named pync
+2014-12-09 19:59:14	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2014-12-09 19:59:14	=!=	notifo_notify: Please set option: username
+2014-12-09 19:59:14		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2014-12-09 19:59:14	=!=	notifo_notify: Please set option: api_secret
+2014-12-09 19:59:14		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2014-12-09 19:59:14		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2014-12-09 19:59:14		python: stdout/stderr: You must have notify2 installed.
+2014-12-09 19:59:14		python: stdout/stderr: Traceback (most recent call last):
+2014-12-09 19:59:14		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2014-12-09 19:59:14		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2014-12-09 19:59:14		python: stdout/stderr: NameError: name 'notify2' is not defined
+2014-12-09 19:59:14	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2014-12-09 19:59:14	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-09 19:59:14		python scripts loaded: inotify, notifo_notify
+2014-12-09 19:59:14	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-12-09 19:59:14	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-09 19:59:14		perl scripts loaded: buffers, notify_send
+2014-12-09 19:59:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2014-12-09 19:59:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2014-12-09 19:59:14	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-09 19:59:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2014-12-09 19:59:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2014-12-09 19:59:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2014-12-09 19:59:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2014-12-09 19:59:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2014-12-09 19:59:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2014-12-09 19:59:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2014-12-09 19:59:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2014-12-09 19:59:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2014-12-09 19:59:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2014-12-09 19:59:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-12-09 19:59:14	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-09 19:59:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2014-12-09 19:59:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2014-12-09 19:59:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2014-12-09 19:59:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2014-12-09 19:59:14		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-12-09 19:59:15		script: 279 scripts for WeeChat 1.0.1
+2014-12-09 19:59:19	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-09 20:00:53	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-09 20:01:02	=!=	[inotify] Suppressing future error messages...
+2014-12-09 23:52:31		perl: scripts unloaded
+2014-12-09 23:52:31		fifo: pipe closed
+2014-12-09 23:52:31		python: scripts unloaded
+2014-12-14 21:05:07		python: stdout/stderr: Traceback (most recent call last):
+2014-12-14 21:05:07		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2014-12-14 21:05:07		python: stdout/stderr:     from pync import Notifier
+2014-12-14 21:05:07		python: stdout/stderr: ImportError: No module named pync
+2014-12-14 21:05:07	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2014-12-14 21:05:07	=!=	notifo_notify: Please set option: username
+2014-12-14 21:05:07		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2014-12-14 21:05:07	=!=	notifo_notify: Please set option: api_secret
+2014-12-14 21:05:07		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2014-12-14 21:05:07		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2014-12-14 21:05:07		python: stdout/stderr: You must have notify2 installed.
+2014-12-14 21:05:07		python: stdout/stderr: Traceback (most recent call last):
+2014-12-14 21:05:07		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2014-12-14 21:05:07		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2014-12-14 21:05:07		python: stdout/stderr: NameError: name 'notify2' is not defined
+2014-12-14 21:05:07	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2014-12-14 21:05:08	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-14 21:05:08		python scripts loaded: inotify, notifo_notify
+2014-12-14 21:05:08	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-12-14 21:05:08	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-14 21:05:08		perl scripts loaded: buffers, notify_send
+2014-12-14 21:05:08	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2014-12-14 21:05:08	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2014-12-14 21:05:08	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-14 21:05:08	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2014-12-14 21:05:08	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2014-12-14 21:05:08	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2014-12-14 21:05:08	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2014-12-14 21:05:08	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2014-12-14 21:05:08	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2014-12-14 21:05:08	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2014-12-14 21:05:08	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2014-12-14 21:05:08	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2014-12-14 21:05:08	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2014-12-14 21:05:08	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-12-14 21:05:08	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-14 21:05:08	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2014-12-14 21:05:08	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2014-12-14 21:05:08	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2014-12-14 21:05:08	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2014-12-14 21:05:08		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-12-14 21:05:08	=!=	script: list of scripts is empty (repository file is broken, or download has failed)
+2014-12-14 21:05:13	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-14 21:45:31	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-14 21:47:33	=!=	[inotify] Suppressing future error messages...
+2014-12-14 21:56:45		perl: scripts unloaded
+2014-12-14 21:56:45		fifo: pipe closed
+2014-12-14 21:56:45		python: scripts unloaded
+2014-12-15 19:30:12		python: stdout/stderr: Traceback (most recent call last):
+2014-12-15 19:30:12		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2014-12-15 19:30:12		python: stdout/stderr:     from pync import Notifier
+2014-12-15 19:30:12		python: stdout/stderr: ImportError: No module named pync
+2014-12-15 19:30:12	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2014-12-15 19:30:13	=!=	notifo_notify: Please set option: username
+2014-12-15 19:30:13		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2014-12-15 19:30:13	=!=	notifo_notify: Please set option: api_secret
+2014-12-15 19:30:13		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2014-12-15 19:30:13		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2014-12-15 19:30:13		python: stdout/stderr: You must have notify2 installed.
+2014-12-15 19:30:13		python: stdout/stderr: Traceback (most recent call last):
+2014-12-15 19:30:13		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2014-12-15 19:30:13		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2014-12-15 19:30:13		python: stdout/stderr: NameError: name 'notify2' is not defined
+2014-12-15 19:30:13	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2014-12-15 19:30:14	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-15 19:30:14		python scripts loaded: inotify, notifo_notify
+2014-12-15 19:30:14	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-12-15 19:30:14	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-15 19:30:15		perl scripts loaded: buffers, notify_send
+2014-12-15 19:30:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2014-12-15 19:30:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2014-12-15 19:30:15	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-15 19:30:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2014-12-15 19:30:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2014-12-15 19:30:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2014-12-15 19:30:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2014-12-15 19:30:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2014-12-15 19:30:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2014-12-15 19:30:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2014-12-15 19:30:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2014-12-15 19:30:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2014-12-15 19:30:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2014-12-15 19:30:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-12-15 19:30:15	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-15 19:30:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2014-12-15 19:30:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2014-12-15 19:30:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2014-12-15 19:30:15	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2014-12-15 19:30:15		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-12-15 19:30:15		script: 279 scripts for WeeChat 1.0.1
+2014-12-15 19:40:24	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-16 18:15:32	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-16 18:30:53		python: loading script "/home/james/.weechat/python/shell.py"
+2014-12-16 18:30:53		python: registered script "shell", version 0.8 (Run shell commands in WeeChat)
+2014-12-16 18:52:16	=!=	[inotify] Suppressing future error messages...
+2014-12-16 19:27:37		perl: scripts unloaded
+2014-12-16 19:27:37		fifo: pipe closed
+2014-12-16 19:27:37		python: scripts unloaded
+2014-12-16 22:02:16		python: stdout/stderr: Traceback (most recent call last):
+2014-12-16 22:02:16		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2014-12-16 22:02:16		python: stdout/stderr:     from pync import Notifier
+2014-12-16 22:02:16		python: stdout/stderr: ImportError: No module named pync
+2014-12-16 22:02:16	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2014-12-16 22:02:16	=!=	notifo_notify: Please set option: username
+2014-12-16 22:02:16		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2014-12-16 22:02:16	=!=	notifo_notify: Please set option: api_secret
+2014-12-16 22:02:16		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2014-12-16 22:02:16		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2014-12-16 22:02:16		python: stdout/stderr: You must have notify2 installed.
+2014-12-16 22:02:16		python: stdout/stderr: Traceback (most recent call last):
+2014-12-16 22:02:16		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2014-12-16 22:02:16		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2014-12-16 22:02:16		python: stdout/stderr: NameError: name 'notify2' is not defined
+2014-12-16 22:02:16	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2014-12-16 22:02:16	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-16 22:02:16		python scripts loaded: inotify, notifo_notify, shell
+2014-12-16 22:02:16	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-12-16 22:02:16	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-16 22:02:16		perl scripts loaded: buffers, notify_send
+2014-12-16 22:02:16	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2014-12-16 22:02:16	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2014-12-16 22:02:16	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-16 22:02:16	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2014-12-16 22:02:16	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2014-12-16 22:02:16	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2014-12-16 22:02:16	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2014-12-16 22:02:16	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2014-12-16 22:02:16	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2014-12-16 22:02:16	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2014-12-16 22:02:16	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2014-12-16 22:02:16	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2014-12-16 22:02:16	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2014-12-16 22:02:16	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-12-16 22:02:16	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-16 22:02:16	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2014-12-16 22:02:16	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2014-12-16 22:02:16	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2014-12-16 22:02:16	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2014-12-16 22:02:16		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-12-16 22:02:16		script: 279 scripts for WeeChat 1.0.1
+2014-12-16 22:02:21	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-16 22:08:16	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-18 20:28:17	=!=	[inotify] Suppressing future error messages...
+2014-12-18 23:58:17		perl: scripts unloaded
+2014-12-18 23:58:17		fifo: pipe closed
+2014-12-18 23:58:17		python: scripts unloaded
+2014-12-24 11:30:12		python: stdout/stderr: Traceback (most recent call last):
+2014-12-24 11:30:12		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2014-12-24 11:30:12		python: stdout/stderr:     from pync import Notifier
+2014-12-24 11:30:12		python: stdout/stderr: ImportError: No module named pync
+2014-12-24 11:30:12	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2014-12-24 11:30:13	=!=	notifo_notify: Please set option: username
+2014-12-24 11:30:13		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2014-12-24 11:30:13	=!=	notifo_notify: Please set option: api_secret
+2014-12-24 11:30:13		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2014-12-24 11:30:13		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2014-12-24 11:30:13		python: stdout/stderr: You must have notify2 installed.
+2014-12-24 11:30:13		python: stdout/stderr: Traceback (most recent call last):
+2014-12-24 11:30:13		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2014-12-24 11:30:13		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2014-12-24 11:30:13		python: stdout/stderr: NameError: name 'notify2' is not defined
+2014-12-24 11:30:13	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2014-12-24 11:30:13	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-24 11:30:13		python scripts loaded: inotify, notifo_notify, shell
+2014-12-24 11:30:13	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-12-24 11:30:13	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-24 11:30:14		perl scripts loaded: buffers, notify_send
+2014-12-24 11:30:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2014-12-24 11:30:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2014-12-24 11:30:14	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-24 11:30:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2014-12-24 11:30:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2014-12-24 11:30:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2014-12-24 11:30:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2014-12-24 11:30:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2014-12-24 11:30:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2014-12-24 11:30:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2014-12-24 11:30:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2014-12-24 11:30:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2014-12-24 11:30:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2014-12-24 11:30:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2014-12-24 11:30:14	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2014-12-24 11:30:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2014-12-24 11:30:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2014-12-24 11:30:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2014-12-24 11:30:14	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2014-12-24 11:30:14		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2014-12-24 11:30:14		script: 279 scripts for WeeChat 1.0.1
+2014-12-24 11:43:29	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-24 11:45:03	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2014-12-24 12:11:54	=!=	[inotify] Suppressing future error messages...
+2015-01-05 00:47:10		python: stdout/stderr: Traceback (most recent call last):
+2015-01-05 00:47:10		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2015-01-05 00:47:10		python: stdout/stderr:     from pync import Notifier
+2015-01-05 00:47:10		python: stdout/stderr: ImportError: No module named pync
+2015-01-05 00:47:10	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2015-01-05 00:47:11	=!=	notifo_notify: Please set option: username
+2015-01-05 00:47:11		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2015-01-05 00:47:11	=!=	notifo_notify: Please set option: api_secret
+2015-01-05 00:47:11		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2015-01-05 00:47:11		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2015-01-05 00:47:11		python: stdout/stderr: You must have notify2 installed.
+2015-01-05 00:47:11		python: stdout/stderr: Traceback (most recent call last):
+2015-01-05 00:47:11		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2015-01-05 00:47:11		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2015-01-05 00:47:11		python: stdout/stderr: NameError: name 'notify2' is not defined
+2015-01-05 00:47:11	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2015-01-05 00:47:11	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-01-05 00:47:11		python scripts loaded: inotify, notifo_notify, shell
+2015-01-05 00:47:11		fifo: removing old fifo pipe "/home/james/.weechat/weechat_fifo_1151"
+2015-01-05 00:47:11	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2015-01-05 00:47:11	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-01-05 00:47:12		perl scripts loaded: buffers, notify_send
+2015-01-05 00:47:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2015-01-05 00:47:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2015-01-05 00:47:12	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-01-05 00:47:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2015-01-05 00:47:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2015-01-05 00:47:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2015-01-05 00:47:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2015-01-05 00:47:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2015-01-05 00:47:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2015-01-05 00:47:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2015-01-05 00:47:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2015-01-05 00:47:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2015-01-05 00:47:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2015-01-05 00:47:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2015-01-05 00:47:12	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-01-05 00:47:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2015-01-05 00:47:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2015-01-05 00:47:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2015-01-05 00:47:12	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2015-01-05 00:47:12		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2015-01-05 00:47:12		script: 279 scripts for WeeChat 1.0.1
+2015-01-05 00:47:16	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-01-05 00:59:51	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-01-05 01:11:18	=!=	[inotify] Suppressing future error messages...
+2015-01-05 02:43:33		perl: scripts unloaded
+2015-01-05 02:43:33		fifo: pipe closed
+2015-01-05 02:43:33		python: scripts unloaded
+2015-01-12 19:10:04		python: stdout/stderr: Traceback (most recent call last):
+2015-01-12 19:10:04		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2015-01-12 19:10:04		python: stdout/stderr:     from pync import Notifier
+2015-01-12 19:10:04		python: stdout/stderr: ImportError: No module named pync
+2015-01-12 19:10:04	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2015-01-12 19:10:04	=!=	notifo_notify: Please set option: username
+2015-01-12 19:10:04		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2015-01-12 19:10:04	=!=	notifo_notify: Please set option: api_secret
+2015-01-12 19:10:04		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2015-01-12 19:10:04		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2015-01-12 19:10:04		python: stdout/stderr: You must have notify2 installed.
+2015-01-12 19:10:04		python: stdout/stderr: Traceback (most recent call last):
+2015-01-12 19:10:04		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2015-01-12 19:10:04		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2015-01-12 19:10:04		python: stdout/stderr: NameError: name 'notify2' is not defined
+2015-01-12 19:10:04	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2015-01-12 19:10:05	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-01-12 19:10:05		python scripts loaded: inotify, notifo_notify, shell
+2015-01-12 19:10:05	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2015-01-12 19:10:05	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-01-12 19:10:06		perl scripts loaded: buffers, notify_send
+2015-01-12 19:10:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2015-01-12 19:10:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2015-01-12 19:10:06	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-01-12 19:10:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2015-01-12 19:10:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2015-01-12 19:10:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2015-01-12 19:10:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2015-01-12 19:10:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2015-01-12 19:10:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2015-01-12 19:10:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2015-01-12 19:10:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2015-01-12 19:10:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2015-01-12 19:10:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2015-01-12 19:10:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2015-01-12 19:10:06	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-01-12 19:10:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2015-01-12 19:10:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2015-01-12 19:10:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2015-01-12 19:10:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2015-01-12 19:10:06		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2015-01-12 19:10:06	=!=	script: list of scripts is empty (repository file is broken, or download has failed)
+2015-01-12 19:11:23		perl: scripts unloaded
+2015-01-12 19:11:23		fifo: pipe closed
+2015-01-12 19:11:23		python: scripts unloaded
+2015-01-12 19:11:24		python: stdout/stderr: Traceback (most recent call last):
+2015-01-12 19:11:24		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2015-01-12 19:11:24		python: stdout/stderr:     from pync import Notifier
+2015-01-12 19:11:24		python: stdout/stderr: ImportError: No module named pync
+2015-01-12 19:11:24	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2015-01-12 19:11:25	=!=	notifo_notify: Please set option: username
+2015-01-12 19:11:25		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2015-01-12 19:11:25	=!=	notifo_notify: Please set option: api_secret
+2015-01-12 19:11:25		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2015-01-12 19:11:25		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2015-01-12 19:11:25		python: stdout/stderr: You must have notify2 installed.
+2015-01-12 19:11:25		python: stdout/stderr: Traceback (most recent call last):
+2015-01-12 19:11:25		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2015-01-12 19:11:25		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2015-01-12 19:11:25		python: stdout/stderr: NameError: name 'notify2' is not defined
+2015-01-12 19:11:25	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2015-01-12 19:11:25	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-01-12 19:11:25		python scripts loaded: inotify, notifo_notify, shell
+2015-01-12 19:11:25	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2015-01-12 19:11:25	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-01-12 19:11:25		perl scripts loaded: buffers, notify_send
+2015-01-12 19:11:25	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2015-01-12 19:11:25	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2015-01-12 19:11:25	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-01-12 19:11:25	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2015-01-12 19:11:25	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2015-01-12 19:11:25	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2015-01-12 19:11:25	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2015-01-12 19:11:25	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2015-01-12 19:11:25	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2015-01-12 19:11:25	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2015-01-12 19:11:25	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2015-01-12 19:11:25	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2015-01-12 19:11:25	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2015-01-12 19:11:25	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2015-01-12 19:11:25	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-01-12 19:11:25	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2015-01-12 19:11:25	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2015-01-12 19:11:25	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2015-01-12 19:11:25	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2015-01-12 19:11:25		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2015-01-12 19:11:25		script: 279 scripts for WeeChat 1.0.1
+2015-01-12 19:11:30	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-01-12 19:11:43	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-01-12 19:11:55	=!=	[inotify] Suppressing future error messages...
+2015-01-12 21:14:58		perl: scripts unloaded
+2015-01-12 21:14:58		fifo: pipe closed
+2015-01-12 21:14:58		python: scripts unloaded
+2015-03-04 21:37:37		python: stdout/stderr: Traceback (most recent call last):
+2015-03-04 21:37:37		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2015-03-04 21:37:37		python: stdout/stderr:     from pync import Notifier
+2015-03-04 21:37:37		python: stdout/stderr: ImportError: No module named pync
+2015-03-04 21:37:37	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2015-03-04 21:37:38	=!=	notifo_notify: Please set option: username
+2015-03-04 21:37:38		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2015-03-04 21:37:38	=!=	notifo_notify: Please set option: api_secret
+2015-03-04 21:37:38		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2015-03-04 21:37:38		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2015-03-04 21:37:38		python: stdout/stderr: You must have notify2 installed.
+2015-03-04 21:37:38		python: stdout/stderr: Traceback (most recent call last):
+2015-03-04 21:37:38		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2015-03-04 21:37:38		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2015-03-04 21:37:38		python: stdout/stderr: NameError: name 'notify2' is not defined
+2015-03-04 21:37:38	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2015-03-04 21:37:38	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-03-04 21:37:38		python scripts loaded: inotify, notifo_notify, shell
+2015-03-04 21:37:38	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2015-03-04 21:37:38	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-03-04 21:37:38		perl scripts loaded: buffers, notify_send
+2015-03-04 21:37:38	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2015-03-04 21:37:38	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2015-03-04 21:37:38	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-03-04 21:37:38	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2015-03-04 21:37:38	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2015-03-04 21:37:38	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2015-03-04 21:37:38	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2015-03-04 21:37:38	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2015-03-04 21:37:38	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2015-03-04 21:37:38	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2015-03-04 21:37:38	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2015-03-04 21:37:38	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2015-03-04 21:37:38	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2015-03-04 21:37:38	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2015-03-04 21:37:38	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-03-04 21:37:38	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2015-03-04 21:37:38	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2015-03-04 21:37:38	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2015-03-04 21:37:38	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2015-03-04 21:37:38		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2015-03-04 21:37:39		script: 279 scripts for WeeChat 1.1.1
+2015-03-04 21:37:42	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-03-04 21:38:04		perl: scripts unloaded
+2015-03-04 21:38:04		fifo: pipe closed
+2015-03-04 21:38:04		python: scripts unloaded
+2015-03-04 21:38:10		python: stdout/stderr: Traceback (most recent call last):
+2015-03-04 21:38:10		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2015-03-04 21:38:10		python: stdout/stderr:     from pync import Notifier
+2015-03-04 21:38:10		python: stdout/stderr: ImportError: No module named pync
+2015-03-04 21:38:10	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2015-03-04 21:38:10	=!=	notifo_notify: Please set option: username
+2015-03-04 21:38:10		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2015-03-04 21:38:10	=!=	notifo_notify: Please set option: api_secret
+2015-03-04 21:38:10		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2015-03-04 21:38:10		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2015-03-04 21:38:10		python: stdout/stderr: You must have notify2 installed.
+2015-03-04 21:38:10		python: stdout/stderr: Traceback (most recent call last):
+2015-03-04 21:38:10		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2015-03-04 21:38:10		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2015-03-04 21:38:10		python: stdout/stderr: NameError: name 'notify2' is not defined
+2015-03-04 21:38:10	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2015-03-04 21:38:10	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-03-04 21:38:10		python scripts loaded: inotify, notifo_notify, shell
+2015-03-04 21:38:10	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2015-03-04 21:38:10	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-03-04 21:38:10		perl scripts loaded: buffers, notify_send
+2015-03-04 21:38:10	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2015-03-04 21:38:10	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2015-03-04 21:38:10	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-03-04 21:38:10	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2015-03-04 21:38:10	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2015-03-04 21:38:10	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2015-03-04 21:38:10	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2015-03-04 21:38:10	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2015-03-04 21:38:10	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2015-03-04 21:38:10	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2015-03-04 21:38:10	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2015-03-04 21:38:10	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2015-03-04 21:38:10	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2015-03-04 21:38:10	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2015-03-04 21:38:10	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-03-04 21:38:10	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2015-03-04 21:38:10	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2015-03-04 21:38:10	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2015-03-04 21:38:10	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2015-03-04 21:38:10		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2015-03-04 21:38:13		perl: scripts unloaded
+2015-03-04 21:38:13		fifo: pipe closed
+2015-03-04 21:38:13		python: scripts unloaded
+2015-03-04 21:38:18		python: stdout/stderr: Traceback (most recent call last):
+2015-03-04 21:38:18		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2015-03-04 21:38:18		python: stdout/stderr:     from pync import Notifier
+2015-03-04 21:38:18		python: stdout/stderr: ImportError: No module named pync
+2015-03-04 21:38:18	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2015-03-04 21:38:18	=!=	notifo_notify: Please set option: username
+2015-03-04 21:38:18		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2015-03-04 21:38:18	=!=	notifo_notify: Please set option: api_secret
+2015-03-04 21:38:18		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2015-03-04 21:38:18		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2015-03-04 21:38:18		python: stdout/stderr: You must have notify2 installed.
+2015-03-04 21:38:18		python: stdout/stderr: Traceback (most recent call last):
+2015-03-04 21:38:18		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2015-03-04 21:38:18		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2015-03-04 21:38:18		python: stdout/stderr: NameError: name 'notify2' is not defined
+2015-03-04 21:38:18	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2015-03-04 21:38:18	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-03-04 21:38:18		python scripts loaded: inotify, notifo_notify, shell
+2015-03-04 21:38:18	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2015-03-04 21:38:18	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-03-04 21:38:18		perl scripts loaded: buffers, notify_send
+2015-03-04 21:38:18	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2015-03-04 21:38:18	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2015-03-04 21:38:18	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-03-04 21:38:18	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2015-03-04 21:38:18	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2015-03-04 21:38:18	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2015-03-04 21:38:18	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2015-03-04 21:38:18	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2015-03-04 21:38:18	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2015-03-04 21:38:18	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2015-03-04 21:38:18	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2015-03-04 21:38:18	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2015-03-04 21:38:18	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2015-03-04 21:38:18	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2015-03-04 21:38:18	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-03-04 21:38:18	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2015-03-04 21:38:18	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2015-03-04 21:38:18	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2015-03-04 21:38:18	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2015-03-04 21:38:18		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2015-03-04 21:38:22	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-03-04 22:22:18		perl: scripts unloaded
+2015-03-04 22:22:18		fifo: pipe closed
+2015-03-04 22:22:18		python: scripts unloaded
+2015-03-05 20:12:49		python: stdout/stderr: Traceback (most recent call last):
+2015-03-05 20:12:49		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2015-03-05 20:12:49		python: stdout/stderr:     from pync import Notifier
+2015-03-05 20:12:49		python: stdout/stderr: ImportError: No module named pync
+2015-03-05 20:12:49	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2015-03-05 20:12:49	=!=	notifo_notify: Please set option: username
+2015-03-05 20:12:49		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2015-03-05 20:12:49	=!=	notifo_notify: Please set option: api_secret
+2015-03-05 20:12:49		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2015-03-05 20:12:49		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2015-03-05 20:12:49		python: stdout/stderr: You must have notify2 installed.
+2015-03-05 20:12:49		python: stdout/stderr: Traceback (most recent call last):
+2015-03-05 20:12:49		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2015-03-05 20:12:49		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2015-03-05 20:12:49		python: stdout/stderr: NameError: name 'notify2' is not defined
+2015-03-05 20:12:49	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2015-03-05 20:12:49	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-03-05 20:12:49		python scripts loaded: inotify, notifo_notify, shell
+2015-03-05 20:12:49	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2015-03-05 20:12:49	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-03-05 20:12:49		perl scripts loaded: buffers, notify_send
+2015-03-05 20:12:49	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2015-03-05 20:12:49	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2015-03-05 20:12:49	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-03-05 20:12:49	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2015-03-05 20:12:49	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2015-03-05 20:12:49	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2015-03-05 20:12:49	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2015-03-05 20:12:49	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2015-03-05 20:12:49	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2015-03-05 20:12:49	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2015-03-05 20:12:49	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2015-03-05 20:12:49	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2015-03-05 20:12:49	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2015-03-05 20:12:49	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2015-03-05 20:12:49	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-03-05 20:12:49	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2015-03-05 20:12:49	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2015-03-05 20:12:49	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2015-03-05 20:12:49	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2015-03-05 20:12:49		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2015-03-05 20:12:53	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-03-07 09:45:30	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-03-07 11:08:30	=!=	[inotify] Suppressing future error messages...
+2015-03-08 23:43:18		perl: scripts unloaded
+2015-03-08 23:43:19		fifo: pipe closed
+2015-03-08 23:43:19		python: scripts unloaded
+2015-03-11 21:28:02		python: stdout/stderr: Traceback (most recent call last):
+2015-03-11 21:28:02		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2015-03-11 21:28:02		python: stdout/stderr:     from pync import Notifier
+2015-03-11 21:28:02		python: stdout/stderr: ImportError: No module named pync
+2015-03-11 21:28:02	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2015-03-11 21:28:02	=!=	notifo_notify: Please set option: username
+2015-03-11 21:28:02		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2015-03-11 21:28:02	=!=	notifo_notify: Please set option: api_secret
+2015-03-11 21:28:02		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2015-03-11 21:28:02		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2015-03-11 21:28:02		python: stdout/stderr: You must have notify2 installed.
+2015-03-11 21:28:02		python: stdout/stderr: Traceback (most recent call last):
+2015-03-11 21:28:02		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2015-03-11 21:28:02		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2015-03-11 21:28:02		python: stdout/stderr: NameError: name 'notify2' is not defined
+2015-03-11 21:28:02	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2015-03-11 21:28:02	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-03-11 21:28:02		python scripts loaded: inotify, notifo_notify, shell
+2015-03-11 21:28:02	=!=	Error: unable to load plugin "/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2015-03-11 21:28:02	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-03-11 21:28:02		perl scripts loaded: buffers, notify_send
+2015-03-11 21:28:02	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/lua.so": a plugin with same name already exists
+2015-03-11 21:28:02	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/aspell.so": libaspell.so.15: cannot open shared object file: No such file or directory
+2015-03-11 21:28:02	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-03-11 21:28:02	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/charset.so": a plugin with same name already exists
+2015-03-11 21:28:02	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/script.so": a plugin with same name already exists
+2015-03-11 21:28:02	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/guile.so": a plugin with same name already exists
+2015-03-11 21:28:02	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": a plugin with same name already exists
+2015-03-11 21:28:02	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/alias.so": a plugin with same name already exists
+2015-03-11 21:28:02	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/logger.so": a plugin with same name already exists
+2015-03-11 21:28:02	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/relay.so": a plugin with same name already exists
+2015-03-11 21:28:02	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/python.so": a plugin with same name already exists
+2015-03-11 21:28:02	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/exec.so": a plugin with same name already exists
+2015-03-11 21:28:02	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/fifo.so": a plugin with same name already exists
+2015-03-11 21:28:02	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2015-03-11 21:28:02	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-03-11 21:28:02	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/irc.so": a plugin with same name already exists
+2015-03-11 21:28:02	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/xfer.so": a plugin with same name already exists
+2015-03-11 21:28:02	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/perl.so": a plugin with same name already exists
+2015-03-11 21:28:02	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/trigger.so": a plugin with same name already exists
+2015-03-11 21:28:02		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2015-03-11 21:28:03		script: 279 scripts for WeeChat 1.1.1
+2015-03-11 21:28:06	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-03-11 22:19:22		perl: scripts unloaded
+2015-03-11 22:19:22		fifo: pipe closed
+2015-03-11 22:19:22		python: scripts unloaded
+2015-11-05 21:45:03		python: stdout/stderr: Traceback (most recent call last):
+2015-11-05 21:45:03		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2015-11-05 21:45:03		python: stdout/stderr:     from pync import Notifier
+2015-11-05 21:45:03		python: stdout/stderr: ImportError: No module named pync
+2015-11-05 21:45:03	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2015-11-05 21:45:03	=!=	notifo_notify: Please set option: username
+2015-11-05 21:45:03		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2015-11-05 21:45:03	=!=	notifo_notify: Please set option: api_secret
+2015-11-05 21:45:03		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2015-11-05 21:45:03		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2015-11-05 21:45:03		python: stdout/stderr: You must have notify2 installed.
+2015-11-05 21:45:03		python: stdout/stderr: Traceback (most recent call last):
+2015-11-05 21:45:03		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2015-11-05 21:45:03		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2015-11-05 21:45:03		python: stdout/stderr: NameError: name 'notify2' is not defined
+2015-11-05 21:45:03	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2015-11-05 21:45:03	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-11-05 21:45:04		python scripts loaded: inotify, notifo_notify, shell
+2015-11-05 21:45:04		perl scripts loaded: buffers, notify_send
+2015-11-05 21:45:04	=!=	Warning: /home/james//.weechat/script.conf, line 46: unknown option for section "scripts": dir = "%h/script"
+2015-11-05 21:45:04		script: downloading list of scripts...
+2015-11-05 21:45:04		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2015-11-05 21:45:05		script: 299 scripts for WeeChat 1.3
+2015-11-05 21:45:09	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-11-05 21:45:47	=!=	irc: command "motd" must be executed on irc buffer (server or channel)
+2015-11-05 21:46:00		fifo: pipe closed
+2015-11-05 21:46:00		perl: scripts unloaded
+2015-11-05 21:46:00		python: scripts unloaded
+2015-11-05 21:49:02		python: stdout/stderr: Traceback (most recent call last):
+2015-11-05 21:49:02		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2015-11-05 21:49:02		python: stdout/stderr:     from pync import Notifier
+2015-11-05 21:49:02		python: stdout/stderr: ImportError: No module named pync
+2015-11-05 21:49:02	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2015-11-05 21:49:02	=!=	notifo_notify: Please set option: username
+2015-11-05 21:49:02		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2015-11-05 21:49:02	=!=	notifo_notify: Please set option: api_secret
+2015-11-05 21:49:02		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2015-11-05 21:49:02		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2015-11-05 21:49:02		python: stdout/stderr: You must have notify2 installed.
+2015-11-05 21:49:02		python: stdout/stderr: Traceback (most recent call last):
+2015-11-05 21:49:02		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2015-11-05 21:49:02		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2015-11-05 21:49:02		python: stdout/stderr: NameError: name 'notify2' is not defined
+2015-11-05 21:49:02	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2015-11-05 21:49:02	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-11-05 21:49:02		python scripts loaded: inotify, notifo_notify, shell
+2015-11-05 21:49:03		perl scripts loaded: buffers, notify_send
+2015-11-05 21:49:03		script: 299 scripts for WeeChat 1.3
+2015-11-05 21:49:03		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2015-11-05 21:49:07	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-11-05 21:49:10		fifo: pipe closed
+2015-11-05 21:49:11		perl: scripts unloaded
+2015-11-05 21:49:11		python: scripts unloaded
+2015-11-05 21:54:42		python: stdout/stderr: Traceback (most recent call last):
+2015-11-05 21:54:42		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2015-11-05 21:54:42		python: stdout/stderr:     from pync import Notifier
+2015-11-05 21:54:42		python: stdout/stderr: ImportError: No module named pync
+2015-11-05 21:54:42	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2015-11-05 21:54:42	=!=	notifo_notify: Please set option: username
+2015-11-05 21:54:42		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2015-11-05 21:54:42	=!=	notifo_notify: Please set option: api_secret
+2015-11-05 21:54:42		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2015-11-05 21:54:42		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2015-11-05 21:54:42		python: stdout/stderr: You must have notify2 installed.
+2015-11-05 21:54:42		python: stdout/stderr: Traceback (most recent call last):
+2015-11-05 21:54:42		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2015-11-05 21:54:42		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2015-11-05 21:54:42		python: stdout/stderr: NameError: name 'notify2' is not defined
+2015-11-05 21:54:42	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2015-11-05 21:54:43	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-11-05 21:54:43		python scripts loaded: inotify, notifo_notify, shell
+2015-11-05 21:54:43		perl scripts loaded: buffers, notify_send
+2015-11-05 21:54:43		script: 299 scripts for WeeChat 1.3
+2015-11-05 21:54:43		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2015-11-05 21:54:44		Options reloaded from sec.conf
+2015-11-05 21:54:44		Options reloaded from weechat.conf
+2015-11-05 21:54:44	=!=	[inotify] An error occurred, but I'm not sure what could it be...
+2015-11-05 21:54:44	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-11-05 21:54:44		Options reloaded from plugins.conf
+2015-11-05 21:54:44		Options reloaded from charset.conf
+2015-11-05 21:54:44		Options reloaded from logger.conf
+2015-11-05 21:54:44		Options reloaded from exec.conf
+2015-11-05 21:54:44		Options reloaded from trigger.conf
+2015-11-05 21:54:44		Options reloaded from aspell.conf
+2015-11-05 21:54:44		Options reloaded from alias.conf
+2015-11-05 21:54:44		Options reloaded from xfer.conf
+2015-11-05 21:54:44		Options reloaded from irc.conf
+2015-11-05 21:54:44		Options reloaded from relay.conf
+2015-11-05 21:54:44		Options reloaded from buffers.conf
+2015-11-05 21:54:44		Options reloaded from script.conf
+2015-11-05 21:54:48	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-11-05 21:54:51		fifo: pipe closed
+2015-11-05 21:54:52		perl: scripts unloaded
+2015-11-05 21:54:52		python: scripts unloaded
+2015-11-05 21:54:56		python: stdout/stderr: Traceback (most recent call last):
+2015-11-05 21:54:56		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2015-11-05 21:54:56		python: stdout/stderr:     from pync import Notifier
+2015-11-05 21:54:56		python: stdout/stderr: ImportError: No module named pync
+2015-11-05 21:54:56	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2015-11-05 21:54:56	=!=	notifo_notify: Please set option: username
+2015-11-05 21:54:56		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2015-11-05 21:54:56	=!=	notifo_notify: Please set option: api_secret
+2015-11-05 21:54:56		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2015-11-05 21:54:56		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2015-11-05 21:54:56		python: stdout/stderr: You must have notify2 installed.
+2015-11-05 21:54:56		python: stdout/stderr: Traceback (most recent call last):
+2015-11-05 21:54:56		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2015-11-05 21:54:56		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2015-11-05 21:54:56		python: stdout/stderr: NameError: name 'notify2' is not defined
+2015-11-05 21:54:56	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2015-11-05 21:54:56	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-11-05 21:54:56		python scripts loaded: inotify, notifo_notify, shell
+2015-11-05 21:54:56		perl scripts loaded: buffers, notify_send
+2015-11-05 21:54:56		script: 299 scripts for WeeChat 1.3
+2015-11-05 21:54:56		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2015-11-05 21:55:02	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-11-05 21:56:22	=!=	irc: command "msg" must be executed on irc buffer (server or channel)
+2015-11-05 21:58:48		Options saved to sec.conf
+2015-11-05 21:58:48		Options saved to weechat.conf
+2015-11-05 21:58:48		Options saved to plugins.conf
+2015-11-05 21:58:48		Options saved to charset.conf
+2015-11-05 21:58:48		Options saved to logger.conf
+2015-11-05 21:58:48		Options saved to exec.conf
+2015-11-05 21:58:48		Options saved to trigger.conf
+2015-11-05 21:58:48		Options saved to aspell.conf
+2015-11-05 21:58:48		Options saved to alias.conf
+2015-11-05 21:58:48		Options saved to xfer.conf
+2015-11-05 21:58:48		Options saved to irc.conf
+2015-11-05 21:58:48		Options saved to relay.conf
+2015-11-05 21:58:48		Options saved to buffers.conf
+2015-11-05 21:58:48		Options saved to script.conf
+2015-11-05 21:58:52		fifo: pipe closed
+2015-11-05 21:58:52		perl: scripts unloaded
+2015-11-05 21:58:52		python: scripts unloaded
+2015-11-05 21:58:57		python: stdout/stderr: Traceback (most recent call last):
+2015-11-05 21:58:57		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2015-11-05 21:58:57		python: stdout/stderr:     from pync import Notifier
+2015-11-05 21:58:57		python: stdout/stderr: ImportError: No module named pync
+2015-11-05 21:58:57	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2015-11-05 21:58:57	=!=	notifo_notify: Please set option: username
+2015-11-05 21:58:57		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2015-11-05 21:58:57	=!=	notifo_notify: Please set option: api_secret
+2015-11-05 21:58:57		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2015-11-05 21:58:57		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2015-11-05 21:58:57		python: stdout/stderr: You must have notify2 installed.
+2015-11-05 21:58:57		python: stdout/stderr: Traceback (most recent call last):
+2015-11-05 21:58:57		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2015-11-05 21:58:57		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2015-11-05 21:58:57		python: stdout/stderr: NameError: name 'notify2' is not defined
+2015-11-05 21:58:57	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2015-11-05 21:58:58	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-11-05 21:58:58		python scripts loaded: inotify, notifo_notify, shell
+2015-11-05 21:58:58		perl scripts loaded: buffers, notify_send
+2015-11-05 21:58:58		script: 299 scripts for WeeChat 1.3
+2015-11-05 21:58:58		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2015-11-05 21:59:03	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-11-05 22:00:03	=!=	Error: unknown command "/nicks" (type /help for help)
+2015-11-05 22:00:08	=!=	Error: unknown command "/user" (type /help for help)
+2015-11-05 22:00:11	=!=	Error: unknown command "/userlist" (type /help for help)
+2015-11-05 22:00:15		[core]
+2015-11-05 22:00:15		  away     command  filter   key      plugin   reload   set      version
+2015-11-05 22:00:15		  bar      cursor   help     layout   print    repeat   unset    wait   
+2015-11-05 22:00:15		  buffer   debug    history  mouse    proxy    save     upgrade  window 
+2015-11-05 22:00:15		  color    eval     input    mute     quit     secure   uptime 
+2015-11-05 22:00:15		[guile]
+2015-11-05 22:00:15		  guile
+2015-11-05 22:00:15		[aspell]
+2015-11-05 22:00:15		  aspell
+2015-11-05 22:00:15		[relay]
+2015-11-05 22:00:15		  relay
+2015-11-05 22:00:15		[exec]
+2015-11-05 22:00:15		  exec
+2015-11-05 22:00:15		[lua]
+2015-11-05 22:00:15		  lua
+2015-11-05 22:00:15		[ruby]
+2015-11-05 22:00:15		  ruby
+2015-11-05 22:00:15		[logger]
+2015-11-05 22:00:15		  logger
+2015-11-05 22:00:15		[trigger]
+2015-11-05 22:00:15		  trigger
+2015-11-05 22:00:15		[python]
+2015-11-05 22:00:15		  inotify  python  shell
+2015-11-05 22:00:15		[perl]
+2015-11-05 22:00:15		  buffers_detach  buffers_whitelist  perl
+2015-11-05 22:00:15		[irc]
+2015-11-05 22:00:15		  admin       devoice     kill        notice      rehash      squery      version   
+2015-11-05 22:00:15		  allchan     die         links       notify      remove      squit       voice     
+2015-11-05 22:00:15		  allpv       disconnect  list        op          restart     stats       wallchops 
+2015-11-05 22:00:15		  allserv     halfop      lusers      oper        sajoin      summon      wallops   
+2015-11-05 22:00:15		  ban         ignore      map         part        samode      time        who       
+2015-11-05 22:00:15		  connect     info        me          ping        sanick      topic       whois     
+2015-11-05 22:00:15		  ctcp        invite      mode        pong        sapart      trace       whowas    
+2015-11-05 22:00:15		  cycle       ison        motd        query       saquit      unban     
+2015-11-05 22:00:15		  dcc         join        msg         quiet       server      unquiet   
+2015-11-05 22:00:15		  dehalfop    kick        names       quote       service     userhost  
+2015-11-05 22:00:15		  deop        kickban     nick        reconnect   servlist    users     
+2015-11-05 22:00:15		[alias]
+2015-11-05 22:00:15		  AAWAY    ANICK    CHAT     IG       LEAVE    N        SIGNOFF  V        WII    
+2015-11-05 22:00:15		  alias    BEEP     CL       J        M        Q        T        W        WW     
+2015-11-05 22:00:15		  AME      BYE      CLOSE    K        MSGBUF   REDRAW   UB       WC     
+2015-11-05 22:00:15		  AMSG     C        EXIT     KB       MUB      SAY      UMODE    WI     
+2015-11-05 22:00:15		[charset]
+2015-11-05 22:00:15		  charset
+2015-11-05 22:00:15		[xfer]
+2015-11-05 22:00:15		  me  xfer
+2015-11-05 22:00:15		[script]
+2015-11-05 22:00:15		  script
+2015-11-05 22:00:23	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-11-05 22:03:10		[core]
+2015-11-05 22:03:10		  away     command  filter   key      plugin   reload   set      version
+2015-11-05 22:03:10		  bar      cursor   help     layout   print    repeat   unset    wait   
+2015-11-05 22:03:10		  buffer   debug    history  mouse    proxy    save     upgrade  window 
+2015-11-05 22:03:10		  color    eval     input    mute     quit     secure   uptime 
+2015-11-05 22:03:10		[guile]
+2015-11-05 22:03:10		  guile
+2015-11-05 22:03:10		[aspell]
+2015-11-05 22:03:10		  aspell
+2015-11-05 22:03:10		[relay]
+2015-11-05 22:03:10		  relay
+2015-11-05 22:03:10		[exec]
+2015-11-05 22:03:10		  exec
+2015-11-05 22:03:10		[lua]
+2015-11-05 22:03:10		  lua
+2015-11-05 22:03:10		[ruby]
+2015-11-05 22:03:10		  ruby
+2015-11-05 22:03:10		[logger]
+2015-11-05 22:03:10		  logger
+2015-11-05 22:03:10		[trigger]
+2015-11-05 22:03:10		  trigger
+2015-11-05 22:03:10		[python]
+2015-11-05 22:03:10		  inotify  python  shell
+2015-11-05 22:03:10		[perl]
+2015-11-05 22:03:10		  buffers_detach  buffers_whitelist  perl
+2015-11-05 22:03:10		[irc]
+2015-11-05 22:03:10		  admin       devoice     kill        notice      rehash      squery      version   
+2015-11-05 22:03:10		  allchan     die         links       notify      remove      squit       voice     
+2015-11-05 22:03:10		  allpv       disconnect  list        op          restart     stats       wallchops 
+2015-11-05 22:03:10		  allserv     halfop      lusers      oper        sajoin      summon      wallops   
+2015-11-05 22:03:10		  ban         ignore      map         part        samode      time        who       
+2015-11-05 22:03:10		  connect     info        me          ping        sanick      topic       whois     
+2015-11-05 22:03:10		  ctcp        invite      mode        pong        sapart      trace       whowas    
+2015-11-05 22:03:10		  cycle       ison        motd        query       saquit      unban     
+2015-11-05 22:03:10		  dcc         join        msg         quiet       server      unquiet   
+2015-11-05 22:03:10		  dehalfop    kick        names       quote       service     userhost  
+2015-11-05 22:03:10		  deop        kickban     nick        reconnect   servlist    users     
+2015-11-05 22:03:10		[alias]
+2015-11-05 22:03:10		  AAWAY    ANICK    CHAT     IG       LEAVE    N        SIGNOFF  V        WII    
+2015-11-05 22:03:10		  alias    BEEP     CL       J        M        Q        T        W        WW     
+2015-11-05 22:03:10		  AME      BYE      CLOSE    K        MSGBUF   REDRAW   UB       WC     
+2015-11-05 22:03:10		  AMSG     C        EXIT     KB       MUB      SAY      UMODE    WI     
+2015-11-05 22:03:10		[charset]
+2015-11-05 22:03:10		  charset
+2015-11-05 22:03:10		[xfer]
+2015-11-05 22:03:10		  me  xfer
+2015-11-05 22:03:10		[script]
+2015-11-05 22:03:10		  script
+2015-11-05 22:16:30	=!=	[inotify] Suppressing future error messages...
+2015-11-05 22:46:52		fifo: pipe closed
+2015-11-05 22:46:52		perl: scripts unloaded
+2015-11-05 22:46:52		python: scripts unloaded
+2015-11-05 22:49:00		python: stdout/stderr: Traceback (most recent call last):
+2015-11-05 22:49:00		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2015-11-05 22:49:00		python: stdout/stderr:     from pync import Notifier
+2015-11-05 22:49:00		python: stdout/stderr: ImportError: No module named pync
+2015-11-05 22:49:00	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2015-11-05 22:49:00	=!=	notifo_notify: Please set option: username
+2015-11-05 22:49:00		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2015-11-05 22:49:00	=!=	notifo_notify: Please set option: api_secret
+2015-11-05 22:49:00		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2015-11-05 22:49:00		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2015-11-05 22:49:00		python: stdout/stderr: You must have notify2 installed.
+2015-11-05 22:49:00		python: stdout/stderr: Traceback (most recent call last):
+2015-11-05 22:49:00		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2015-11-05 22:49:00		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2015-11-05 22:49:00		python: stdout/stderr: NameError: name 'notify2' is not defined
+2015-11-05 22:49:00	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2015-11-05 22:49:00	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-11-05 22:49:00		python scripts loaded: inotify, notifo_notify, shell
+2015-11-05 22:49:01		perl scripts loaded: buffers, notify_send
+2015-11-05 22:49:01		script: 299 scripts for WeeChat 1.3
+2015-11-05 22:49:01		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2015-11-05 22:49:06	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-11-05 23:15:55	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-11-05 23:17:01	=!=	[inotify] Suppressing future error messages...
+2015-11-06 00:02:08		fifo: pipe closed
+2015-11-06 00:02:09		perl: scripts unloaded
+2015-11-06 00:02:09		python: scripts unloaded
+2015-11-06 19:11:09		python: stdout/stderr: Traceback (most recent call last):
+2015-11-06 19:11:09		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2015-11-06 19:11:09		python: stdout/stderr:     from pync import Notifier
+2015-11-06 19:11:09		python: stdout/stderr: ImportError: No module named pync
+2015-11-06 19:11:09	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2015-11-06 19:11:09	=!=	notifo_notify: Please set option: username
+2015-11-06 19:11:09		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2015-11-06 19:11:09	=!=	notifo_notify: Please set option: api_secret
+2015-11-06 19:11:09		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2015-11-06 19:11:09		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2015-11-06 19:11:09		python: stdout/stderr: You must have notify2 installed.
+2015-11-06 19:11:09		python: stdout/stderr: Traceback (most recent call last):
+2015-11-06 19:11:09		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2015-11-06 19:11:09		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2015-11-06 19:11:09		python: stdout/stderr: NameError: name 'notify2' is not defined
+2015-11-06 19:11:09	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2015-11-06 19:11:09	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-11-06 19:11:09		python scripts loaded: inotify, notifo_notify, shell
+2015-11-06 19:11:10		perl scripts loaded: buffers, notify_send
+2015-11-06 19:11:10		script: 299 scripts for WeeChat 1.3
+2015-11-06 19:11:10		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2015-11-06 19:11:15	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-11-06 19:11:23	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-11-06 19:23:42	=!=	[inotify] Suppressing future error messages...
+2015-11-06 21:58:54		fifo: pipe closed
+2015-11-06 21:58:54		perl: scripts unloaded
+2015-11-06 21:58:54		python: scripts unloaded
+2015-11-08 18:32:53		python: stdout/stderr: Traceback (most recent call last):
+2015-11-08 18:32:53		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2015-11-08 18:32:53		python: stdout/stderr:     from pync import Notifier
+2015-11-08 18:32:53		python: stdout/stderr: ImportError: No module named pync
+2015-11-08 18:32:53	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2015-11-08 18:32:55	=!=	notifo_notify: Please set option: username
+2015-11-08 18:32:55		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2015-11-08 18:32:55	=!=	notifo_notify: Please set option: api_secret
+2015-11-08 18:32:55		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2015-11-08 18:32:55		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2015-11-08 18:32:55		python: stdout/stderr: You must have notify2 installed.
+2015-11-08 18:32:55		python: stdout/stderr: Traceback (most recent call last):
+2015-11-08 18:32:55		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2015-11-08 18:32:55		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2015-11-08 18:32:55		python: stdout/stderr: NameError: name 'notify2' is not defined
+2015-11-08 18:32:55	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2015-11-08 18:32:57	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-11-08 18:32:57		python scripts loaded: inotify, notifo_notify, shell
+2015-11-08 18:32:58		perl scripts loaded: buffers, notify_send
+2015-11-08 18:32:58		script: downloading list of scripts...
+2015-11-08 18:32:58		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2015-11-08 18:33:00		script: 299 scripts for WeeChat 1.3
+2015-11-08 18:33:06	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-11-08 19:07:52	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2015-11-08 20:09:39	=!=	[inotify] Suppressing future error messages...
+2015-11-08 22:16:48		fifo: pipe closed
+2015-11-08 22:16:48		perl: scripts unloaded
+2015-11-08 22:16:49		python: scripts unloaded
+2009-12-31 19:35:25		python: stdout/stderr: Traceback (most recent call last):
+2009-12-31 19:35:25		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2009-12-31 19:35:25		python: stdout/stderr:     from pync import Notifier
+2009-12-31 19:35:25		python: stdout/stderr: ImportError: No module named pync
+2009-12-31 19:35:25	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2009-12-31 19:35:26	=!=	notifo_notify: Please set option: username
+2009-12-31 19:35:26		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2009-12-31 19:35:26	=!=	notifo_notify: Please set option: api_secret
+2009-12-31 19:35:26		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2009-12-31 19:35:26		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2009-12-31 19:35:26		python: stdout/stderr: You must have notify2 installed.
+2009-12-31 19:35:26		python: stdout/stderr: Traceback (most recent call last):
+2009-12-31 19:35:26		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2009-12-31 19:35:26		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2009-12-31 19:35:26		python: stdout/stderr: NameError: name 'notify2' is not defined
+2009-12-31 19:35:26	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2009-12-31 19:35:26	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2009-12-31 19:35:26		python scripts loaded: inotify, notifo_notify, shell
+2009-12-31 19:35:26		perl scripts loaded: buffers, notify_send
+2009-12-31 19:35:26		script: 299 scripts for WeeChat 1.3
+2009-12-31 19:35:26		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2009-12-31 19:35:32	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2009-12-31 19:39:30		fifo: pipe closed
+2009-12-31 19:39:30		perl: scripts unloaded
+2009-12-31 19:39:30		python: scripts unloaded
+2009-12-31 19:39:32		python: stdout/stderr: Traceback (most recent call last):
+2009-12-31 19:39:32		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notification_center.py", line 7, in <module>
+2009-12-31 19:39:32		python: stdout/stderr:     from pync import Notifier
+2009-12-31 19:39:32		python: stdout/stderr: ImportError: No module named pync
+2009-12-31 19:39:32	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notification_center.py"
+2009-12-31 19:39:32	=!=	notifo_notify: Please set option: username
+2009-12-31 19:39:32		notifo_notify: /set plugins.var.python.notifo_notify.username STRING
+2009-12-31 19:39:32	=!=	notifo_notify: Please set option: api_secret
+2009-12-31 19:39:32		notifo_notify: /set plugins.var.python.notifo_notify.api_secret STRING
+2009-12-31 19:39:33		python: stdout/stderr: Missing package(s) for notify: No module named notify2
+2009-12-31 19:39:33		python: stdout/stderr: You must have notify2 installed.
+2009-12-31 19:39:33		python: stdout/stderr: Traceback (most recent call last):
+2009-12-31 19:39:33		python: stdout/stderr:   File "/home/james/.weechat/python/autoload/notify.py", line 74, in <module>
+2009-12-31 19:39:33		python: stdout/stderr:     "low"      : notify2.URGENCY_LOW,
+2009-12-31 19:39:33		python: stdout/stderr: NameError: name 'notify2' is not defined
+2009-12-31 19:39:33	=!=	python: unable to parse file "/home/james/.weechat/python/autoload/notify.py"
+2009-12-31 19:39:33	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2009-12-31 19:39:33		python scripts loaded: inotify, notifo_notify, shell
+2009-12-31 19:39:33		perl scripts loaded: buffers, notify_send
+2009-12-31 19:39:33		script: 299 scripts for WeeChat 1.3
+2009-12-31 19:39:33		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2009-12-31 19:39:38	=!=	[inotify] Failed to connect to our notification daemon, check if the address 'http://localhost:7766' is correct and if it's running.
+2009-12-31 19:39:39		fifo: pipe closed
+2009-12-31 19:39:40		perl: scripts unloaded
+2009-12-31 19:39:40		python: scripts unloaded
+2016-09-27 15:39:36	=!=	Warning: /home/james/.weechat/irc.conf, line 30: unknown option for section "look": item_away_message = on
+2016-09-27 15:39:36	=!=	Warning: /home/james/.weechat/irc.conf, line 39: unknown option for section "look": nick_color_force = ""
+2016-09-27 15:39:36	=!=	Warning: /home/james/.weechat/irc.conf, line 40: unknown option for section "look": nick_color_hash = sum
+2016-09-27 15:39:36	=!=	Warning: /home/james/.weechat/irc.conf, line 41: unknown option for section "look": nick_color_stop_chars = "_|["
+2016-09-27 15:39:36	=!=	Warning: /home/james/.weechat/irc.conf, line 68: unknown option for section "color": item_away = yellow
+2016-09-27 15:39:36	=!=	Warning: /home/james/.weechat/irc.conf, line 84: unknown option for section "network": alternate_nick = on
+2016-09-27 15:39:36		script: downloading list of scripts...
+2016-09-27 15:39:36		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, perl, python, relay, script, trigger, xfer
+2016-09-27 15:39:38		script: 310 scripts for WeeChat 1.5
+2016-09-27 15:39:46		perl: script removed: /home/james/.weechat/perl/buffers.pl
+2016-09-27 15:39:46		perl: loading script "/home/james/.weechat/perl/buffers.pl"
+2016-09-27 15:39:46		perl: registered script "buffers", version 5.4 (Sidebar with list of buffers)
+2016-09-27 15:42:04		perl scripts loaded: buffers
+2016-09-27 15:42:04		script: 310 scripts for WeeChat 1.5
+2016-09-27 15:42:04		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, perl, python, relay, script, trigger, xfer
+2016-09-27 15:52:56		perl scripts loaded: buffers
+2016-09-27 15:52:56		script: 310 scripts for WeeChat 1.5
+2016-09-27 15:52:56		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, perl, python, relay, script, trigger, xfer
+2016-09-28 10:54:47		perl scripts loaded: buffers
+2016-09-28 10:54:47		script: 310 scripts for WeeChat 1.5
+2016-09-28 10:54:47		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, perl, python, relay, script, trigger, xfer
+2016-09-28 10:55:30		perl scripts loaded: buffers
+2016-09-28 10:55:30		script: 310 scripts for WeeChat 1.5
+2016-09-28 10:55:30		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, perl, python, relay, script, trigger, xfer
+2016-09-28 10:59:45		perl scripts loaded: buffers
+2016-09-28 10:59:45		script: 310 scripts for WeeChat 1.5
+2016-09-28 10:59:45		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, perl, python, relay, script, trigger, xfer
+2016-09-28 16:55:20		perl scripts loaded: buffers
+2016-09-28 16:55:20		script: downloading list of scripts...
+2016-09-28 16:55:20		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, perl, python, relay, script, trigger, xfer
+2016-09-28 16:55:22		script: 310 scripts for WeeChat 1.5
+2016-09-28 23:46:54		perl scripts loaded: buffers
+2016-09-28 23:46:54		script: 310 scripts for WeeChat 1.5
+2016-09-28 23:46:54		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, perl, python, relay, script, trigger, xfer
+2016-09-29 23:18:03		perl scripts loaded: buffers
+2016-09-29 23:18:03		script: downloading list of scripts...
+2016-09-29 23:18:03		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, perl, python, relay, script, trigger, xfer
+2016-09-29 23:18:04		script: 310 scripts for WeeChat 1.5
