@@ -23289,3 +23289,645 @@
 2016-09-27 15:47:10	◥	sumpwa (~sumpwa@Rizon-7775BBF5.tu.ok.cox.net) has joined #/g/technology
 2016-09-27 15:47:12	◣	IdentifiedEDOC (~Identifie@iam.cod.ed) has quit (Quit: My computer has gone to sleep!!! ZZZZZZZZzzzzZZZzzzz)
 2016-09-27 15:47:33	◥	kbw (~textual@fuck.balt.ausnz) has joined #/g/technology
+2016-10-03 04:19:20	◥	naughtsee (~james@DB1C268B:C3A13FF1:727DB645:IP) has joined #/g/technology
+2016-10-03 04:19:20	--	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Channel Rules: .rules /!\ What do you want to improve in the channel? Tell a mod! /!\ Auto-Voice for active members /!\ Teknikast Ep11: https://podcast.teknik.io/11 /!\ Teknikast at 8pm PDT, 11pm EDT on Saturday, August 13th - Mumble: mumble.teknik.io:64738"
+2016-10-03 04:19:20	--	Topic set by Kunorei (~Kunoichi@98BAAC7C.59D568C6.7C47A8B3.IP) on Sat, 24 Sep 2016 23:23:45
+2016-10-03 04:19:20	--	Channel #/g/technology: 247 nicks (7 ops, 4 halfops, 1 voice, 235 normals)
+2016-10-03 04:19:30	--	Channel created on Tue, 27 Mar 2012 18:32:05
+2016-10-03 11:47:17	◥	naughtsee (~james@4A8A5AD0:2C682B37:727DB645:IP) has joined #/g/technology
+2016-10-03 11:47:17	--	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Channel Rules: .rules /!\ What do you want to improve in the channel? Tell a mod! /!\ Auto-Voice for active members /!\ Teknikast Ep11: https://podcast.teknik.io/11 /!\ Teknikast at 8pm PDT, 11pm EDT on Saturday, August 13th - Mumble: mumble.teknik.io:64738"
+2016-10-03 11:47:17	--	Topic set by Kunorei (~Kunoichi@98BAAC7C.59D568C6.7C47A8B3.IP) on Sat, 24 Sep 2016 23:23:45
+2016-10-03 11:47:17	--	Channel #/g/technology: 263 nicks (7 ops, 5 halfops, 1 voice, 250 normals)
+2016-10-03 11:47:26	--	Channel created on Tue, 27 Mar 2012 18:32:05
+2016-10-03 11:49:14	postcert	The manga guides are great
+2016-10-03 11:53:46	◥	underdoge (~echapa@my.dude) has joined #/g/technology
+2016-10-03 11:58:27	◣	IdentifiedEDOC (~Identifie@iam.cod.ed) has quit (Quit: I'm not gay guys!)
+2016-10-03 12:01:01	◥	IdentifiedEDOC (~Identifie@iam.cod.ed) has joined #/g/technology
+2016-10-03 12:01:05	◣	IdentifiedEDOC (~Identifie@iam.cod.ed) has quit
+2016-10-03 12:07:09	◣	underdoge (~echapa@my.dude) has quit (Quit: WeeChat 1.5)
+2016-10-03 12:08:22	◥	spacepirate (~trafalgar@505C538A.AA9A380D.B04ABBF9.IP) has joined #/g/technology
+2016-10-03 12:09:55	◥	urodna (~urodna@dank.memer) has joined #/g/technology
+2016-10-03 12:11:08	◥	bilbo991 (~bilbo991@Rizon-26F18F6E.nat.nd.edu) has joined #/g/technology
+2016-10-03 12:13:31	◣	urodna (~urodna@dank.memer) has quit
+2016-10-03 12:23:02	--	czarny is now known as lm_mentolowy
+2016-10-03 12:23:21	--	lm_mentolowy is now known as czarny
+2016-10-03 12:24:56	◣	donut_ (~donut@9EC9FEE3.CD924905.4F9A6874.IP) has quit
+2016-10-03 12:25:07	◥	donut (~donut@pastry.shop) has joined #/g/technology
+2016-10-03 12:25:13	◣	bilbo991 (~bilbo991@Rizon-26F18F6E.nat.nd.edu) has quit (Ping timeout: 240 seconds)
+2016-10-03 12:28:29	◥	unit1 (~unit1@Rizon-4621B4DA.cable.virginm.net) has joined #/g/technology
+2016-10-03 12:31:38	◥	Nem-47 (~Nem-47@facility.star) has joined #/g/technology
+2016-10-03 12:37:41	◣	bnvap4 (~jhwjave@7C1CF23B.9BA2921E.BE399854.IP) has quit (Ping timeout: 240 seconds)
+2016-10-03 12:39:26	◥	yeetmaster (~yeetmaste@88776CCA.E2D32E82.DCBF6AB0.IP) has joined #/g/technology
+2016-10-03 12:42:59	◣	wariw (~wariw@Rizon-839428DA.dynamic.chello.pl) has quit (Quit: WeeChat 1.5)
+2016-10-03 12:45:09	◥	wariw (~wariw@Rizon-839428DA.dynamic.chello.pl) has joined #/g/technology
+2016-10-03 12:45:28	◣	BurnZeZ (none@Rizon-ACB3F446.systems) has quit (Remote host closed the connection)
+2016-10-03 12:47:13	◥	BurnZeZ (~BurnZeZ@Rizon-ACB3F446.systems) has joined #/g/technology
+2016-10-03 12:49:29	◣	wariw (~wariw@Rizon-839428DA.dynamic.chello.pl) has quit (Ping timeout: 240 seconds)
+2016-10-03 12:58:06	◣	yeetmaster (~yeetmaste@88776CCA.E2D32E82.DCBF6AB0.IP) has quit (Ping timeout: 240 seconds)
+2016-10-03 12:59:59	◥	Zephyrin (~opp@Rizon-65DE1085.nku.edu) has joined #/g/technology
+2016-10-03 13:01:02	◥	themadman (uid98824@all.the.children.are.insane) has joined #/g/technology
+2016-10-03 13:01:35	◣	Sapphirus (~Sapphirus@Rizon-82237E2D.azorium.net) has quit (Quit: = "")
+2016-10-03 13:01:58	◥	wariw (~wariw@Rizon-839428DA.dynamic.chello.pl) has joined #/g/technology
+2016-10-03 13:02:01	◣	themadman (uid98824@all.the.children.are.insane) has quit
+2016-10-03 13:02:36	◥	Sapphirus (~Sapphirus@Rizon-82237E2D.azorium.net) has joined #/g/technology
+2016-10-03 13:03:02	◣	polysyndenton (~a@893EDB53.405F2BB3.7607196A.IP) has quit (Quit: Leaving)
+2016-10-03 13:03:11	◥	polysyndenton (~a@893EDB53.405F2BB3.7607196A.IP) has joined #/g/technology
+2016-10-03 13:03:35	◣	polysyndenton (~a@893EDB53.405F2BB3.7607196A.IP) has quit (Read error: Connection reset by peer)
+2016-10-03 13:07:13	◣	Zephyrin (~opp@i.kinshi) has quit (Ping timeout: 240 seconds)
+2016-10-03 13:07:18	◥	Zephyrin (~opp@i.kinshi) has joined #/g/technology
+2016-10-03 13:09:07	◣	Akaibu (uid118096@Rizon-5318D3EE.richmond.irccloud.com) has quit (Ping timeout: 240 seconds)
+2016-10-03 13:09:30	◥	Akaibu (uid118096@Rizon-5318D3EE.richmond.irccloud.com) has joined #/g/technology
+2016-10-03 13:11:39	◥	polysyndenton (~a@Rizon-A120B805.nwrknj.fios.verizon.net) has joined #/g/technology
+2016-10-03 13:14:08	◣	polysyndenton (~a@Rizon-A120B805.nwrknj.fios.verizon.net) has quit (Read error: Connection reset by peer)
+2016-10-03 13:14:34	◥	bilbo991 (~bilbo991@Rizon-26F18F6E.nat.nd.edu) has joined #/g/technology
+2016-10-03 13:15:39	◥	polysyndenton (~a@893EDB53.405F2BB3.7607196A.IP) has joined #/g/technology
+2016-10-03 13:16:10	◥	Player74 (~Player@version.xml) has joined #/g/technology
+2016-10-03 13:16:54	◥	Hospitaler (~durr@D8BEE5BA.8B05E224.B140508D.IP) has joined #/g/technology
+2016-10-03 13:18:51	◣	wariw (~wariw@Rizon-839428DA.dynamic.chello.pl) has quit (Ping timeout: 240 seconds)
+2016-10-03 13:19:32	◥	hexafluoride (~hexafluor@evolutionary.failure) has joined #/g/technology
+2016-10-03 13:22:31	◥	[RMS]gentoo (~RMS]gento@legit.authentic.internet.user) has joined #/g/technology
+2016-10-03 13:25:14	◥	gottlieb (~hgottlieb@C341EF18.15347BE6.35D0F29A.IP) has joined #/g/technology
+2016-10-03 14:33:57	◥	naughtsee (~james@F06C8B3A:A30867A9:727DB645:IP) has joined #/g/technology
+2016-10-03 14:33:57	--	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Channel Rules: .rules /!\ What do you want to improve in the channel? Tell a mod! /!\ Auto-Voice for active members /!\ Teknikast Ep11: https://podcast.teknik.io/11 /!\ Teknikast at 8pm PDT, 11pm EDT on Saturday, August 13th - Mumble: mumble.teknik.io:64738"
+2016-10-03 14:33:57	--	Topic set by Kunorei (~Kunoichi@98BAAC7C.59D568C6.7C47A8B3.IP) on Sat, 24 Sep 2016 23:23:45
+2016-10-03 14:33:57	--	Channel #/g/technology: 274 nicks (7 ops, 5 halfops, 1 voice, 261 normals)
+2016-10-03 14:34:07	--	Channel created on Tue, 27 Mar 2012 18:32:05
+2016-10-03 14:37:15	◣	[RMS]gentoo (~RMS]gento@legit.authentic.internet.user) has quit (Quit: Downloading memetic memes in dream sleep)
+2016-10-03 14:37:21	◣	synthroid (~synthroid@274325BD.C05626EF.E334D6F.IP) has quit (Remote host closed the connection)
+2016-10-03 14:37:36	◣	bvc35 (~bvc35@meme.magic.factory) has quit
+2016-10-03 14:38:07	◥	synthroid (~synthroid@274325BD.C05626EF.E334D6F.IP) has joined #/g/technology
+2016-10-03 14:38:51	◥	King_Hual` (~failed@78BF008A.3A0E52B9.A7E272B7.IP) has joined #/g/technology
+2016-10-03 14:39:23	◥	bvc35 (~bvc35@meme.magic.factory) has joined #/g/technology
+2016-10-03 14:39:47	◥	[RMS]gentoo (~RMS]gento@legit.authentic.internet.user) has joined #/g/technology
+2016-10-03 14:41:39	◣	King_Hual (~failed@li.fe) has quit (Ping timeout: 240 seconds)
+2016-10-03 14:44:22	◣	Odenhald (~User1@Rizon-63B09631.hsd1.md.comcast.net) has quit (Ping timeout: 240 seconds)
+2016-10-03 14:46:07	◥	slagman (~slagman@Rizon-55738DE5.vc.shawcable.net) has joined #/g/technology
+2016-10-03 14:53:35	◣	slagman (~slagman@Rizon-55738DE5.vc.shawcable.net) has quit
+2016-10-03 14:57:04	◥	xnil (~AndChat42@Rizon-8A7334AE.dynamic.ip.windstream.net) has joined #/g/technology
+2016-10-03 14:58:02	[RMS]gentoo	is /g/ finished?
+2016-10-03 14:58:17	◣	xnull (~AndChat42@Rizon-D4A2AFE0.dynamic.ip.windstream.net) has quit (Ping timeout: 240 seconds)
+2016-10-03 14:58:21	pith	why would it be
+2016-10-03 14:58:21	b4x	hopefully
+2016-10-03 14:59:10	◥	alusion (~alu@tektr0n1k.uguu) has joined #/g/technology
+2016-10-03 14:59:10	--	Mode #/g/technology [+o alusion] by ChanServ
+2016-10-03 15:01:02	◣	bvc35 (~bvc35@meme.magic.factory) has quit (Quit: Lost terminal)
+2016-10-03 15:01:25	◥	xnull (~AndChat42@CFF591F2:B5C86FCE:A8365E1F:IP) has joined #/g/technology
+2016-10-03 15:02:07	◥	xnool (~AndChat42@Rizon-D4A2AFE0.dynamic.ip.windstream.net) has joined #/g/technology
+2016-10-03 15:03:11	◣	xnil (~AndChat42@Rizon-8A7334AE.dynamic.ip.windstream.net) has quit (Ping timeout: 240 seconds)
+2016-10-03 15:04:19	◥	UTC (~rake_boss@EAEB9FC5.DE3B4C66.CBAD3590.IP) has joined #/g/technology
+2016-10-03 15:05:31	◣	xnull (~AndChat42@CFF591F2:B5C86FCE:A8365E1F:IP) has quit (Ping timeout: 240 seconds)
+2016-10-03 15:30:50	--	irc: disconnected from server
+2016-10-03 15:31:10	◥	naughtsee (~james@F06C8B3A:A30867A9:727DB645:IP) has joined #/g/technology
+2016-10-03 15:31:10	--	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Channel Rules: .rules /!\ What do you want to improve in the channel? Tell a mod! /!\ Auto-Voice for active members /!\ Teknikast Ep11: https://podcast.teknik.io/11 /!\ Teknikast at 8pm PDT, 11pm EDT on Saturday, August 13th - Mumble: mumble.teknik.io:64738"
+2016-10-03 15:31:10	--	Topic set by Kunorei (~Kunoichi@98BAAC7C.59D568C6.7C47A8B3.IP) on Sat, 24 Sep 2016 23:23:44
+2016-10-03 15:31:10	--	Channel #/g/technology: 275 nicks (8 ops, 5 halfops, 1 voice, 261 normals)
+2016-10-03 15:31:20	--	Channel created on Tue, 27 Mar 2012 18:32:05
+2016-10-03 15:33:34	◥	IdentifiedEDOC (~Identifie@iam.cod.ed) has joined #/g/technology
+2016-10-03 15:35:10	◣	peon (~peon@Rizon-F4A6E339.neoplus.adsl.tpnet.pl) has quit (Quit: Leaving)
+2016-10-03 15:35:23	◣	Frano (~Frano@Rizon-1AE5D784.adsl.inetia.pl) has quit (Ping timeout: 240 seconds)
+2016-10-03 15:37:31	◥	bilbo991 (~bilbo991@Rizon-AA8989B7.nat.nd.edu) has joined #/g/technology
+2016-10-03 15:37:58	◥	Kys (~Keis@Rizon-A5FAF221.dynamic.kabel-deutschland.de) has joined #/g/technology
+2016-10-03 15:50:57	◣	[RMS]gentoo (~RMS]gento@legit.authentic.internet.user) has quit (Quit: Downloading memetic memes in dream sleep)
+2016-10-03 15:54:57	◣	synthroid (~synthroid@274325BD.C05626EF.E334D6F.IP) has quit (Remote host closed the connection)
+2016-10-03 15:58:42	◥	synthroid (~synthroid@6F940FDC.65E4BF4C.5266FBB4.IP) has joined #/g/technology
+2016-10-03 16:01:56	◥	yeetmaster (~yeetmaste@88776CCA.E2D32E82.DCBF6AB0.IP) has joined #/g/technology
+2016-10-03 16:07:42	◥	[RMS]gentoo (~RMS]gento@legit.authentic.internet.user) has joined #/g/technology
+2016-10-03 16:07:58	◣	Cosmonaut (~Cosmonaut@chillin.in.space) has quit (Ping timeout: 240 seconds)
+2016-10-03 16:08:02	◣	alusion (~alu@tektr0n1k.uguu) has quit (Ping timeout: 240 seconds)
+2016-10-03 16:12:49	◣	IdentifiedEDOC (~Identifie@iam.cod.ed) has quit (Quit: I'm not gay guys!)
+2016-10-03 16:13:55	◣	unit1 (~unit1@Rizon-4621B4DA.cable.virginm.net) has quit (Remote host closed the connection)
+2016-10-03 16:13:59	◥	oem (~moedeloos@jihadist.loli) has joined #/g/technology
+2016-10-03 16:14:46	◥	UTC (~rake_boss@EAEB9FC5.DE3B4C66.CBAD3590.IP) has joined #/g/technology
+2016-10-03 16:16:42	◣	Phallus (~Phallus@4EE0A175.94ED9E7F.A0D03E18.IP) has quit (Quit: RIP)
+2016-10-03 16:19:27	◥	prtget (~0@Rizon-719D1759.bstnma.fios.verizon.net) has joined #/g/technology
+2016-10-03 16:19:57	prtget	 
+2016-10-03 16:20:11	◥	Phallus (~Phallus@4EE0A175.94ED9E7F.A0D03E18.IP) has joined #/g/technology
+2016-10-03 16:22:07	prtget	whats up?
+2016-10-03 16:22:34	◣	Phallus (~Phallus@4EE0A175.94ED9E7F.A0D03E18.IP) has quit
+2016-10-03 16:23:04	◣	prtget (~0@Rizon-719D1759.bstnma.fios.verizon.net) has quit
+2016-10-03 16:23:31	◣	nreisvu (~chatzilla@Rizon-9CA0120A.pools.vodafone-ip.de) has quit (Ping timeout: 240 seconds)
+2016-10-03 16:25:46	◥	bnvap4 (~jhwjave@Rizon-3EE23310.dyn.nltelcom.net) has joined #/g/technology
+2016-10-03 16:26:54	◥	test_ (~textual@4EE0A175.94ED9E7F.A0D03E18.IP) has joined #/g/technology
+2016-10-03 16:28:33	◥	Zephyrin (~opp@i.kinshi) has joined #/g/technology
+2016-10-03 16:29:33	◥	alusion (~alu@Rizon-58322A77.socal.res.rr.com) has joined #/g/technology
+2016-10-03 16:30:09	◥	instg2 (~0@Rizon-719D1759.bstnma.fios.verizon.net) has joined #/g/technology
+2016-10-03 16:31:38	◥	Azazel (~Azazel@46BA4A4:158A6F6C:81B25690:IP) has joined #/g/technology
+2016-10-03 16:34:05	◣	test_ (~textual@4EE0A175.94ED9E7F.A0D03E18.IP) has quit (Quit: Textual IRC Client: www.textualapp.com)
+2016-10-03 16:36:46	◣	MrCarrot (~MrCarrot@i.love.carrots) has quit (Quit: MrCarrot)
+2016-10-03 16:37:52	◣	instg2 (~0@Rizon-719D1759.bstnma.fios.verizon.net) has quit
+2016-10-03 16:40:46	◣	ed (~im@dont.drink.and.sudo) has quit (Quit: ZNC - http://znc.in)
+2016-10-03 16:40:56	◥	ed (~IMMOR@Rizon-B2B5B820.rev.poneytelecom.eu) has joined #/g/technology
+2016-10-03 16:42:45	◥	polysyndenton (~a@893EDB53.405F2BB3.7607196A.IP) has joined #/g/technology
+2016-10-03 16:43:54	◥	appleslush (~appleslus@uniqlo.tier.fuccboi) has joined #/g/technology
+2016-10-03 16:44:28	◥	Phallus (~Phallus@4EE0A175.94ED9E7F.A0D03E18.IP) has joined #/g/technology
+2016-10-03 16:44:59	[RMS]gentoo	https://news.ycombinator.com/item?id=11427467
+2016-10-03 16:45:01	&Combot	[URL] Being a “dumb” girl in Computer Science | Hacker News (news.ycombinator.com)
+2016-10-03 16:45:36	◥	Remoboth (~Remobothe@mirthful.moorish.monk) has joined #/g/technology
+2016-10-03 16:46:27	◣	Remoboth (~Remobothe@mirthful.moorish.monk) has quit (Read error: Connection reset by peer)
+2016-10-03 16:46:50	[RMS]gentoo	nite
+2016-10-03 16:46:54	◣	[RMS]gentoo (~RMS]gento@legit.authentic.internet.user) has quit (Quit: Get scammed for free on kickstarter.com - help pay off credit card bills of strangers! Free! Here u go, enjoy)
+2016-10-03 16:47:06	◥	bvc35 (~bvc35@meme.magic.factory) has joined #/g/technology
+2016-10-03 16:47:19	◣	JayJay| (~JayJay|@Rizon-544C1AE2.ip.adam.com.au) has quit (Ping timeout: 240 seconds)
+2016-10-03 16:47:39	◣	bvc35 (~bvc35@meme.magic.factory) has quit
+2016-10-03 16:48:15	◥	bvc35 (~bvc35@meme.magic.factory) has joined #/g/technology
+2016-10-03 16:48:30	bvc35	what OS should I put on my raspberry pi? I wanna use it as a seedbox
+2016-10-03 16:48:43	bvc35	My options: Ubuntu server, Raspbian, Arch, and Gentoo
+2016-10-03 16:48:59	bvc35	Raspbian is kinda derpy with recognizing my external hdd, so I'd rather not
+2016-10-03 16:49:04	◣	Zephyrin (~opp@i.kinshi) has quit (Quit: Lost terminal)
+2016-10-03 16:51:04	~Uncled1023	why not Windows 10?  :^)
+2016-10-03 16:51:24	@HarHar	Arch
+2016-10-03 16:51:37	◣	synthroid (~synthroid@6F940FDC.65E4BF4C.5266FBB4.IP) has quit (Quit: Leaving...)
+2016-10-03 16:55:47	◥	Remoboth (~Remobothe@mirthful.moorish.monk) has joined #/g/technology
+2016-10-03 16:59:12	◥	mudtose (~muddy@dot.dot.dot.dash) has joined #/g/technology
+2016-10-03 17:00:12	◣	UTC (~rake_boss@EAEB9FC5.DE3B4C66.CBAD3590.IP) has quit (Read error: Connection reset by peer)
+2016-10-03 17:03:54	◣	King_Hual` (~failed@78BF008A.3A0E52B9.A7E272B7.IP) has quit (Read error: Connection reset by peer)
+2016-10-03 17:04:52	◣	ninjabuffet (~ninjabuff@ono.sendai) has quit (Quit: Laters)
+2016-10-03 17:06:25	◣	Phallus (~Phallus@4EE0A175.94ED9E7F.A0D03E18.IP) has quit (Quit: Quit)
+2016-10-03 17:08:15	bvc35	HarHar: why?
+2016-10-03 17:08:28	@HarHar	because
+2016-10-03 17:09:27	◥	Phallus (~Phallus@4EE0A175.94ED9E7F.A0D03E18.IP) has joined #/g/technology
+2016-10-03 17:09:29	◣	kurobeats (~fire@Rizon-3C445D7C.lnse1.pie.bigpond.net.au) has quit (Ping timeout: 240 seconds)
+2016-10-03 17:18:03	Azazel	raspbian works fine with my external HDD's
+2016-10-03 17:20:11	@HarHar	raspbian should be the most compatible, right?
+2016-10-03 17:20:23	bvc35	right
+2016-10-03 17:20:27	@HarHar	but I would go with arch, it's a great distro
+2016-10-03 17:20:33	bvc35	maybe I should reinstall the newest version and try it again
+2016-10-03 17:21:02	@HarHar	yeah do that
+2016-10-03 17:21:27	@HarHar	and check the usual stuff, dmesg, journalctl for error messages
+2016-10-03 17:23:05	bvc35	kk
+2016-10-03 17:29:13	◣	bvc35 (~bvc35@meme.magic.factory) has quit (Ping timeout: 240 seconds)
+2016-10-03 17:29:37	◥	bvc35 (~bvc35@meme.magic.factory) has joined #/g/technology
+2016-10-03 17:29:56	bvc35	what is journalctl for?
+2016-10-03 17:30:03	◣	thenewdesu (~thenewdes@series.of.tubes) has quit (Ping timeout: 240 seconds)
+2016-10-03 17:31:09	◣	shamoanjac (~D0kt0rM3m@Rizon-F172FF63.dyn.user.ono.com) has quit (Quit: Leaving)
+2016-10-03 17:32:50	◥	Frano (~Frano@Rizon-80F2C094.ssp.dialog.net.pl) has joined #/g/technology
+2016-10-03 17:38:55	◣	thefunkydealer (~thefunkyd@Rizon-E062F9E7.dsl.telepac.pt) has quit
+2016-10-03 17:45:45	◣	Kys (~Keis@Rizon-A5FAF221.dynamic.kabel-deutschland.de) has quit (Quit: Verlassend)
+2016-10-03 17:46:36	◣	bilbo991 (~bilbo991@Rizon-AA8989B7.nat.nd.edu) has quit (Ping timeout: 240 seconds)
+2016-10-03 17:47:17	◥	bilbo991 (~bilbo991@Rizon-AA8989B7.nat.nd.edu) has joined #/g/technology
+2016-10-03 17:48:00	◥	kbw (~textual@fuck.balt.ausnz) has joined #/g/technology
+2016-10-03 17:50:22	◣	Superzak (~Superzak@a.comfy.cabin) has quit (Ping timeout: 240 seconds)
+2016-10-03 17:52:34	◣	chkrr00k (chkrr00k@c.plus.plus) has quit (Quit: bye)
+2016-10-03 17:52:41	◣	Phallus (~Phallus@4EE0A175.94ED9E7F.A0D03E18.IP) has quit (Quit: Goodbye)
+2016-10-03 17:53:51	◥	urodna (~urodna@dank.memer) has joined #/g/technology
+2016-10-03 17:54:03	◣	ihon (~we@1F1FFB2D.866986FC.E768FC03.IP) has quit (Read error: Connection reset by peer)
+2016-10-03 17:59:06	◣	Xylitol (~temari@user32.dll) has quit (Ping timeout: 240 seconds)
+2016-10-03 18:03:44	◣	Frano (~Frano@Rizon-80F2C094.ssp.dialog.net.pl) has quit (Ping timeout: 240 seconds)
+2016-10-03 18:04:31	◥	Frano (~Frano@Rizon-CAAC90AB.adsl.inetia.pl) has joined #/g/technology
+2016-10-03 18:05:52	◣	anon9234 (~anon9234@anon.vh.org) has quit (Quit: Coyote finally caught me)
+2016-10-03 18:06:02	◥	anon9234 (~anon9234@Rizon-4A34F3B0.dynamic.reverse-mundo-r.com) has joined #/g/technology
+2016-10-03 18:06:36	◣	anon9234 (~anon9234@anon.vh.org) has quit (Read error: Connection reset by peer)
+2016-10-03 18:07:35	◥	anon9234 (~anon9234@Rizon-4A34F3B0.dynamic.reverse-mundo-r.com) has joined #/g/technology
+2016-10-03 18:12:18	◥	sebbu2 (~hexchat@Rizon-8D7AA927.w90-39.abo.wanadoo.fr) has joined #/g/technology
+2016-10-03 18:15:01	◣	sebbu (~hexchat@Rizon-8D7AA927.w90-39.abo.wanadoo.fr) has quit (Ping timeout: 240 seconds)
+2016-10-03 18:17:32	◣	Nem-47 (~Nem-47@facility.star) has quit (Read error: Connection reset by peer)
+2016-10-03 18:21:14	◣	bvc35 (~bvc35@meme.magic.factory) has quit (Quit: leaving)
+2016-10-03 18:27:21	◣	Remoboth (~Remobothe@mirthful.moorish.monk) has quit (Ping timeout: 240 seconds)
+2016-10-03 18:28:01	◣	Frano (~Frano@Rizon-CAAC90AB.adsl.inetia.pl) has quit (Quit: Leaving)
+2016-10-03 18:28:50	◥	Airskadt (~airskadt@Think.Bule.Count.One.Tow) has joined #/g/technology
+2016-10-03 18:30:44	◥	Cosmonaut (~Cosmonaut@Rizon-BBE61589.tamulink.tamu.edu) has joined #/g/technology
+2016-10-03 18:35:20	◥	Xylitol (~temari@user32.dll) has joined #/g/technology
+2016-10-03 18:39:12	◥	Odenhald (~User1@Rizon-63B09631.hsd1.md.comcast.net) has joined #/g/technology
+2016-10-03 18:39:21	◥	IdentifiedEDOC (~Identifie@iam.cod.ed) has joined #/g/technology
+2016-10-03 18:44:27	◥	thenewdesu (~thenewdes@series.of.tubes) has joined #/g/technology
+2016-10-03 18:45:44	◥	EdenCoder (~EdenCoder@Rizon-3B57B37.lnk.telstra.net) has joined #/g/technology
+2016-10-03 18:52:56	◣	IdentifiedEDOC (~Identifie@iam.cod.ed) has quit (Quit: My computer has gone to sleep!!! ZZZZZZZZzzzzZZZzzzz)
+2016-10-03 18:57:57	◥	justthisguyyouknow (~romeo@75498EED.2A1BE8F5.422EDB15.IP) has joined #/g/technology
+2016-10-03 18:59:26	◥	topshell (~wew@Rizon-EBECDBD2.s.dedikuoti.lt) has joined #/g/technology
+2016-10-03 19:08:29	◥	Zephyrin (~opp@i.kinshi) has joined #/g/technology
+2016-10-03 19:12:09	◥	IdentifiedEDOC (~Identifie@iam.cod.ed) has joined #/g/technology
+2016-10-03 19:16:14	◥	nu11 (~0@Rizon-719D1759.bstnma.fios.verizon.net) has joined #/g/technology
+2016-10-03 19:20:22	◣	IdentifiedEDOC (~Identifie@iam.cod.ed) has quit (Ping timeout: 240 seconds)
+2016-10-03 19:24:08	◣	Xylitol (~temari@user32.dll) has quit (Quit: Sharpen your sickle at sunset)
+2016-10-03 19:27:54	nu11	.help
+2016-10-03 19:27:57	nu11	.rules
+2016-10-03 19:29:40	◣	nu11 (~0@Rizon-719D1759.bstnma.fios.verizon.net) has quit (Quit: leaving)
+2016-10-03 19:32:26	~Uncled1023	.ruler
+2016-10-03 19:32:52	◥	deaddrop (~deaddrop@Rizon-1A4DF78A.dyn.optonline.net) has joined #/g/technology
+2016-10-03 19:33:28	deaddrop	.help
+2016-10-03 19:33:50	◣	deaddrop (~deaddrop@Rizon-1A4DF78A.dyn.optonline.net) has left #/g/technology
+2016-10-03 19:38:12	~Uncled1023	lol
+2016-10-03 19:38:47	Tetrazene	http://www.usplastic.com/catalog/item.aspx?itemid=25151&catid=625 These any good?
+2016-10-03 19:38:50	&Combot	[URL] LEWISBins  Hang& Stack Bins | U.S. Plastic Corp. (www.usplastic.com)
+2016-10-03 19:39:20	◣	SmartyPants (~momf@blah.the.blah.doctor.man) has quit (Ping timeout: 240 seconds)
+2016-10-03 19:39:23	◥	IdentifiedEDOC (~Identifie@iam.cod.ed) has joined #/g/technology
+2016-10-03 19:49:13	◣	IdentifiedEDOC (~Identifie@iam.cod.ed) has quit
+2016-10-03 19:51:22	◥	nu11 (~0@Rizon-719D1759.bstnma.fios.verizon.net) has joined #/g/technology
+2016-10-03 19:52:30	◥	slagman (~slagman@Rizon-55738DE5.vc.shawcable.net) has joined #/g/technology
+2016-10-03 19:53:18	◣	bilbo991 (~bilbo991@Rizon-AA8989B7.nat.nd.edu) has quit (Ping timeout: 240 seconds)
+2016-10-03 19:55:12	◣	l_Digi_Dude_l (~l_Digi_Du@Rizon-A2DCAF7D.lightspeed.okcbok.sbcglobal.net) has quit (Ping timeout: 240 seconds)
+2016-10-03 19:57:48	◣	nu11 (~0@Rizon-719D1759.bstnma.fios.verizon.net) has quit
+2016-10-03 20:05:08	◥	deaddrop (~deaddrop@Rizon-1A4DF78A.dyn.optonline.net) has joined #/g/technology
+2016-10-03 20:17:50	◣	alusion (~alu@Rizon-58322A77.socal.res.rr.com) has quit (Ping timeout: 240 seconds)
+2016-10-03 20:21:43	◥	IdentifiedEDOC (~Identifie@iam.cod.ed) has joined #/g/technology
+2016-10-03 20:22:44	◣	lna (~luna@Rizon-1EE4BD99.loopiavps.com) has quit (Ping timeout: 240 seconds)
+2016-10-03 20:22:57	◥	SmartyPants (~momf@Rizon-392E86DC.hsd1.ga.comcast.net) has joined #/g/technology
+2016-10-03 20:23:44	◥	lna (~luna@Rizon-1EE4BD99.loopiavps.com) has joined #/g/technology
+2016-10-03 20:24:47	◣	urodna (~urodna@dank.memer) has quit (Quit: urodna)
+2016-10-03 20:25:13	◥	urodna (~urodna@dank.memer) has joined #/g/technology
+2016-10-03 20:26:54	◣	IdentifiedEDOC (~Identifie@iam.cod.ed) has quit
+2016-10-03 20:27:26	◥	IdentifiedEDOC (~Identifie@iam.cod.ed) has joined #/g/technology
+2016-10-03 20:31:21	◣	deaddrop (~deaddrop@Rizon-1A4DF78A.dyn.optonline.net) has quit (Read error: Connection reset by peer)
+2016-10-03 20:32:33	◥	Kinky_Kitty (~Art@Rizon-5B4E6EB4.dhcp.dlth.mn.charter.com) has joined #/g/technology
+2016-10-03 20:36:08	◥	alu1 (~alu@Rizon-58322A77.socal.res.rr.com) has joined #/g/technology
+2016-10-03 20:36:12	--	alu1 is now known as aluu
+2016-10-03 20:38:09	◣	vitimiti (~Celtor@Rizon-1C08866F.red-88-27-60.staticip.rima-tde.net) has quit (Remote host closed the connection)
+2016-10-03 20:38:32	◥	golevka (~golevka@Rizon-8279850F.cmdnnj.fios.verizon.net) has joined #/g/technology
+2016-10-03 20:46:16	◣	kbw (~textual@fuck.balt.ausnz) has quit (Quit: My MacBook Air has gone to sleep. ZZZzzz…)
+2016-10-03 20:48:57	◥	Kittens (~Kittens@get.rekt.meow) has joined #/g/technology
+2016-10-03 20:49:11	◣	Airskadt (~airskadt@Think.Bule.Count.One.Tow) has quit (Ping timeout: 240 seconds)
+2016-10-03 20:57:47	◥	kbw (~textual@fuck.balt.ausnz) has joined #/g/technology
+2016-10-03 20:58:24	◥	Faafy (~ooooo@4DD0CD1C.644E051D.68910402.IP) has joined #/g/technology
+2016-10-03 20:59:06	◣	Ho (~ooooo@4DD0CD1C.644E051D.68910402.IP) has quit (Ping timeout: 240 seconds)
+2016-10-03 21:00:01	◥	luis (~luis@Free.as.in.Freedom) has joined #/g/technology
+2016-10-03 21:00:08	◣	Faafy (~ooooo@4DD0CD1C.644E051D.68910402.IP) has quit
+2016-10-03 21:00:45	◣	kbw (~textual@fuck.balt.ausnz) has quit
+2016-10-03 21:02:28	--	ilk is now known as ilken
+2016-10-03 21:08:50	◥	YPG (~None@vhost.vhost.vhost.vhost.vhost) has joined #/g/technology
+2016-10-03 21:11:18	◣	xnool (~AndChat42@Rizon-D4A2AFE0.dynamic.ip.windstream.net) has quit (Ping timeout: 240 seconds)
+2016-10-03 21:11:21	◣	Kittens (~Kittens@get.rekt.meow) has quit (Quit: sleep)
+2016-10-03 21:11:40	◥	kbw (~textual@fuck.balt.ausnz) has joined #/g/technology
+2016-10-03 21:16:32	◣	slagman (~slagman@Rizon-55738DE5.vc.shawcable.net) has quit (Read error: Connection reset by peer)
+2016-10-03 21:17:52	◣	Odenhald (~User1@Rizon-63B09631.hsd1.md.comcast.net) has quit (Ping timeout: 240 seconds)
+2016-10-03 21:21:47	◥	Odenhald (~User1@Rizon-63B09631.hsd1.md.comcast.net) has joined #/g/technology
+2016-10-03 21:22:08	◣	Odenhald (~User1@Rizon-63B09631.hsd1.md.comcast.net) has left #/g/technology
+2016-10-03 21:26:32	◣	Kinky_Kitty (~Art@Rizon-5B4E6EB4.dhcp.dlth.mn.charter.com) has quit (Ping timeout: 240 seconds)
+2016-10-03 21:31:17	◣	justthisguyyouknow (~romeo@75498EED.2A1BE8F5.422EDB15.IP) has quit (Ping timeout: 240 seconds)
+2016-10-03 21:34:32	◣	P6hjakonn (~Tinker@Rizon-B3D7B0CA.dyn.estpak.ee) has quit (Quit: Leaving)
+2016-10-03 21:38:40	◥	justthisguyyouknow (~romeo@D4EE1FC2:2CD6D2DD:E7F7D5BE:IP) has joined #/g/technology
+2016-10-03 21:38:45	◣	justthisguyyouknow (~romeo@D4EE1FC2:2CD6D2DD:E7F7D5BE:IP) has quit (Remote host closed the connection)
+2016-10-03 21:42:37	◥	Nux (~nux@opiated.bliss) has joined #/g/technology
+2016-10-03 21:45:35	◣	golevka (~golevka@Rizon-8279850F.cmdnnj.fios.verizon.net) has quit (Quit: Leaving)
+2016-10-03 21:45:37	◥	xnil (~AndChat42@Rizon-D4A2AFE0.dynamic.ip.windstream.net) has joined #/g/technology
+2016-10-03 21:48:08	◥	Kinky_Kitty (~Art@5E1EB010.1CA9426D.9E4DDCFB.IP) has joined #/g/technology
+2016-10-03 21:57:37	◥	[RMS]gentoo (~RMS]gento@legit.authentic.internet.user) has joined #/g/technology
+2016-10-03 21:58:07	◣	Hospitaler (~durr@D8BEE5BA.8B05E224.B140508D.IP) has quit (Ping timeout: 240 seconds)
+2016-10-03 22:09:21	◣	qws-user-1229 (~quassel@Rizon-83851AC0.columbus.res.rr.com) has quit (Read error: Connection reset by peer)
+2016-10-03 22:09:24	◥	qws-user-1228 (~quassel@880568CD:8D2667D6:F25E1C22:IP) has joined #/g/technology
+2016-10-03 22:14:20	◣	Zanthas (~Zanthas@Misaki.Mei-chan) has quit (Quit: WeeChat 1.4)
+2016-10-03 22:15:31	◣	IdentifiedEDOC (~Identifie@iam.cod.ed) has quit (Quit: My computer has gone to sleep!!! ZZZZZZZZzzzzZZZzzzz)
+2016-10-03 22:15:44	◥	IdentifiedEDOC (~Identifie@iam.cod.ed) has joined #/g/technology
+2016-10-03 22:18:22	◣	IdentifiedEDOC (~Identifie@iam.cod.ed) has quit
+2016-10-03 22:21:32	◥	IdentifiedEDOC (~Identifie@iam.cod.ed) has joined #/g/technology
+2016-10-03 22:21:36	◣	tkout (~Martian@frigging-table.circus.of.monsters) has quit (Read error: Connection reset by peer)
+2016-10-03 22:24:49	◥	kurobeats (~fire@Rizon-FAE5FC4E.wpl9.pie.bigpond.net.au) has joined #/g/technology
+2016-10-03 22:30:22	◥	bilbo991 (~bilbo991@Rizon-CDC0469D.nat.nd.edu) has joined #/g/technology
+2016-10-03 22:31:59	◥	Zanthas (~Zanthas@Misaki.Mei-chan) has joined #/g/technology
+2016-10-03 22:31:59	--	Mode #/g/technology [+qo Zanthas Zanthas] by ChanServ
+2016-10-03 23:36:02	--	irc: disconnected from server
+2016-10-03 23:36:21	◥	naughtsee (~james@F06C8B3A:A30867A9:727DB645:IP) has joined #/g/technology
+2016-10-03 23:36:21	--	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Channel Rules: .rules /!\ What do you want to improve in the channel? Tell a mod! /!\ Auto-Voice for active members /!\ Teknikast Ep11: https://podcast.teknik.io/11 /!\ Teknikast at 8pm PDT, 11pm EDT on Saturday, August 13th - Mumble: mumble.teknik.io:64738"
+2016-10-03 23:36:21	--	Topic set by Kunorei (~Kunoichi@98BAAC7C.59D568C6.7C47A8B3.IP) on Sat, 24 Sep 2016 23:23:45
+2016-10-03 23:36:21	--	Channel #/g/technology: 270 nicks (7 ops, 5 halfops, 1 voice, 257 normals)
+2016-10-03 23:36:31	--	Channel created on Tue, 27 Mar 2012 18:32:05
+2016-10-03 23:40:48	◥	joedoe (~joe@Rizon-CC0894A4.hsd1.fl.comcast.net) has joined #/g/technology
+2016-10-03 23:41:31	◣	Player74 (~Player@version.xml) has quit (Read error: Connection reset by peer)
+2016-10-03 23:45:38	◥	IdentifiedEDOC (~Identifie@iam.cod.ed) has joined #/g/technology
+2016-10-03 23:47:25	◥	MrSavage (~MrSavage@6FE1120C.A010730.5016E659.IP) has joined #/g/technology
+2016-10-03 23:50:23	◣	kbw (~textual@fuck.balt.ausnz) has quit (Quit: My MacBook Air has gone to sleep. ZZZzzz…)
+2016-10-03 23:51:17	◥	tweak (~tweak@tweak.twk) has joined #/g/technology
+2016-10-03 23:51:29	◥	wwwwwwww (~wwwwwwww@12CD69DC.BD3656CF.5A0B8893.IP) has joined #/g/technology
+2016-10-03 23:52:00	◣	mudtose (~muddy@dot.dot.dot.dash) has quit (Ping timeout: 240 seconds)
+2016-10-03 23:53:32	◣	Kinky_Kitty (~Art@5E1EB010.1CA9426D.9E4DDCFB.IP) has quit (Ping timeout: 240 seconds)
+2016-10-03 23:54:38	◥	mudtose (~muddy@dot.dot.dot.dash) has joined #/g/technology
+2016-10-04 00:08:27	◣	gottlieb (~hgottlieb@C341EF18.15347BE6.35D0F29A.IP) has quit (Read error: Connection reset by peer)
+2016-10-04 00:08:54	◣	underdoge (~echapa@my.dude) has quit (Quit: WeeChat 1.5)
+2016-10-04 00:09:59	tweak	.pingme
+2016-10-04 00:10:03	&Combot	tweak, your ping is 3 Seconds, 518 Milliseconds
+2016-10-04 00:10:41	GreyMan	.pingme
+2016-10-04 00:10:44	&Combot	GreyMan, your ping is 2 Seconds, 536 Milliseconds
+2016-10-04 00:18:54	◣	IdentifiedEDOC (~Identifie@iam.cod.ed) has quit (Quit: My computer has gone to sleep!!! ZZZZZZZZzzzzZZZzzzz)
+2016-10-04 00:20:06	◥	Kinky_Kitty (~Art@53C0451A.9DEA6482.9E4DDCFB.IP) has joined #/g/technology
+2016-10-04 00:20:51	◣	Kinky_Kitty (~Art@53C0451A.9DEA6482.9E4DDCFB.IP) has quit
+2016-10-04 00:21:47	◥	Kinky_Kitty (~Art@53C0451A.9DEA6482.9E4DDCFB.IP) has joined #/g/technology
+2016-10-04 00:23:03	◣	DesertFremen (~FearIs@the.mind.killer) has quit (Quit: /quit command)
+2016-10-04 00:25:06	◣	wwwwwwww (~wwwwwwww@12CD69DC.BD3656CF.5A0B8893.IP) has quit (Quit: Leaving)
+2016-10-04 00:25:49	luis	!bots
+2016-10-04 00:25:49	Technology	Reporting in! [Python]
+2016-10-04 00:25:49	yossarian-bot	Reporting in! [Ruby] See !help.
+2016-10-04 00:25:50	RuriGokou	Reporting in! [Perl]
+2016-10-04 00:26:35	~Uncled1023	fyi: .bots is IBIP 
+2016-10-04 00:27:43	◥	slagman (~slagman@Rizon-55738DE5.vc.shawcable.net) has joined #/g/technology
+2016-10-04 00:27:48	luis	.bots
+2016-10-04 00:27:48	Technology	Reporting in! [Python]
+2016-10-04 00:27:48	yossarian-bot	Reporting in! [Ruby] See !help.
+2016-10-04 00:27:48	RuriGokou	Reporting in! [Perl]
+2016-10-04 00:27:48	hexafluoride	Reporting in! [whatever humans are programmed in] I want to die
+2016-10-04 00:27:49	&Combot	Reporting in! [C#]
+2016-10-04 00:28:01	luis	yes 3 bots seemed too little
+2016-10-04 00:28:07	luis	.u ibip
+2016-10-04 00:28:11	luis	o
+2016-10-04 00:28:31	◥	para (~para@Rizon-FA6A38F7.range81-153.btcentralplus.com) has joined #/g/technology
+2016-10-04 00:30:43	◣	urodna (~urodna@dank.memer) has quit (Quit: urodna)
+2016-10-04 00:41:17	◥	wwwwwwww (~wwwwwwww@12CD69DC.BD3656CF.5A0B8893.IP) has joined #/g/technology
+2016-10-04 00:44:20	◥	kbw (~textual@fuck.balt.ausnz) has joined #/g/technology
+2016-10-04 00:44:59	◣	donut (~donut@pastry.shop) has quit
+2016-10-04 00:51:57	◣	Seraphex (~Seraphex@Rizon-BE8D6A0C.dhcp.mntv.al.charter.com) has quit (Read error: Connection reset by peer)
+2016-10-04 00:54:26	◣	cflag (cflag@AY.B0SS.GIB.DE.PUSI) has quit (Quit: Bye!)
+2016-10-04 14:54:59	--	irc: disconnected from server
+2016-10-04 14:55:21	◥	naughtsee (~james@F06C8B3A:A30867A9:727DB645:IP) has joined #/g/technology
+2016-10-04 14:55:21	--	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Channel Rules: .rules /!\ What do you want to improve in the channel? Tell a mod! /!\ Auto-Voice for active members /!\ Teknikast Ep11: https://podcast.teknik.io/11 /!\ Teknikast at 8pm PDT, 11pm EDT on Saturday, August 13th - Mumble: mumble.teknik.io:64738"
+2016-10-04 14:55:21	--	Topic set by Kunorei (~Kunoichi@98BAAC7C.59D568C6.7C47A8B3.IP) on Sat, 24 Sep 2016 23:23:45
+2016-10-04 14:55:21	--	Channel #/g/technology: 269 nicks (7 ops, 5 halfops, 1 voice, 256 normals)
+2016-10-04 14:55:30	--	Channel created on Tue, 27 Mar 2012 18:32:05
+2016-10-05 00:44:31	--	irc: disconnected from server
+2016-10-05 00:44:51	◥	naughtsee (~james@F06C8B3A:A30867A9:727DB645:IP) has joined #/g/technology
+2016-10-05 00:44:51	--	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Channel Rules: .rules /!\ What do you want to improve in the channel? Tell a mod! /!\ Auto-Voice for active members /!\ Teknikast Ep11: https://podcast.teknik.io/11 /!\ Teknikast at 8pm PDT, 11pm EDT on Saturday, August 13th - Mumble: mumble.teknik.io:64738"
+2016-10-05 00:44:51	--	Topic set by Kunorei (~Kunoichi@98BAAC7C.59D568C6.7C47A8B3.IP) on Sat, 24 Sep 2016 23:23:45
+2016-10-05 00:44:51	--	Channel #/g/technology: 249 nicks (7 ops, 4 halfops, 1 voice, 237 normals)
+2016-10-05 00:45:01	--	Channel created on Tue, 27 Mar 2012 18:32:05
+2016-10-05 00:47:07	◥	i44 (~i44@i144.i144.i144.i144.i144.i144) has joined #/g/technology
+2016-10-05 21:43:03	--	irc: disconnected from server
+2016-10-05 21:43:23	◥	naughtsee (~james@F06C8B3A:A30867A9:727DB645:IP) has joined #/g/technology
+2016-10-05 21:43:23	--	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Channel Rules: .rules /!\ What do you want to improve in the channel? Tell a mod! /!\ Auto-Voice for active members /!\ Teknikast Ep11: https://podcast.teknik.io/11 /!\ Teknikast at 8pm PDT, 11pm EDT on Saturday, August 13th - Mumble: mumble.teknik.io:64738"
+2016-10-05 21:43:23	--	Topic set by Kunorei (~Kunoichi@98BAAC7C.59D568C6.7C47A8B3.IP) on Sat, 24 Sep 2016 23:23:45
+2016-10-05 21:43:23	--	Channel #/g/technology: 267 nicks (7 ops, 4 halfops, 1 voice, 255 normals)
+2016-10-05 21:43:33	--	Channel created on Tue, 27 Mar 2012 18:32:05
+2016-10-05 21:46:03	◥	nabob (~nabob@Rizon-9CD42AF2.compute-1.amazonaws.com) has joined #/g/technology
+2016-10-05 21:46:04	◣	nabob (~nabob@Rizon-9CD42AF2.compute-1.amazonaws.com) has quit (Connection closed)
+2016-10-05 21:47:40	◥	JayJay|| (~JayJay|@Rizon-544C1AE2.ip.adam.com.au) has joined #/g/technology
+2016-10-05 21:50:13	◣	JayJay| (~JayJay|@Rizon-544C1AE2.ip.adam.com.au) has quit (Ping timeout: 240 seconds)
+2016-10-05 21:56:15	◥	tweak (~tweak@tweak.twk) has joined #/g/technology
+2016-10-05 22:01:23	◣	kbw (~textual@fuck.balt.ausnz) has quit (Quit: My MacBook Air has gone to sleep. ZZZzzz…)
+2016-10-05 22:01:46	◥	kbw (~textual@fuck.balt.ausnz) has joined #/g/technology
+2016-10-05 22:02:59	◣	nu11 (~nu11@dev.null) has left #/g/technology (WeeChat 1.5)
+2016-10-05 22:03:10	◥	nu11 (~nu11@dev.null) has joined #/g/technology
+2016-10-05 22:03:34	◣	Hospitaler (~durr@D8BEE5BA.8B05E224.B140508D.IP) has quit (Quit: Leaving.)
+2016-10-05 22:04:15	◣	nu11 (~nu11@dev.null) has quit (Quit: WeeChat 1.5)
+2016-10-05 22:04:35	◥	nu11 (~nu11@dev.null) has joined #/g/technology
+2016-10-05 22:08:40	◣	yeetmaster (~yeetmaste@88776CCA.E2D32E82.DCBF6AB0.IP) has quit (Ping timeout: 240 seconds)
+2016-10-05 22:10:15	◣	ironlord (~ironlord@Rizon-1238BC7E.cmdnnj.fios.verizon.net) has quit (Quit: My MacBook has gone to sleep. ZZZzzz…)
+2016-10-05 22:11:25	◣	Tetrazene (~joseph@C1ABBBB4:B228D789:EA685D44:IP) has quit (Ping timeout: 240 seconds)
+2016-10-05 22:16:15	◣	mayushii (~moonchild@moonchild.mayushii) has quit (Quit: Restarting)
+2016-10-05 22:17:32	◥	yeetmaster (~yeetmaste@88776CCA.E2D32E82.DCBF6AB0.IP) has joined #/g/technology
+2016-10-05 22:17:38	◣	thenewdesu (~thenewdes@series.of.tubes) has quit (Ping timeout: 240 seconds)
+2016-10-05 22:20:28	◣	fizz_ (~fizz@Rizon-8AE0FBB0.midco.net) has quit (Quit: Leaving)
+2016-10-06 15:58:54	--	irc: disconnected from server
+2016-10-06 16:00:15	◥	naughtsee (~james@F06C8B3A:A30867A9:727DB645:IP) has joined #/g/technology
+2016-10-06 16:00:15	--	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Channel Rules: .rules /!\ What do you want to improve in the channel? Tell a mod! /!\ Auto-Voice for active members /!\ Teknikast Ep11: https://podcast.teknik.io/11 /!\ Teknikast at 8pm PDT, 11pm EDT on Saturday, August 13th - Mumble: mumble.teknik.io:64738"
+2016-10-06 16:00:15	--	Topic set by Kunorei (~Kunoichi@98BAAC7C.59D568C6.7C47A8B3.IP) on Sat, 24 Sep 2016 23:23:44
+2016-10-06 16:00:15	--	Channel #/g/technology: 277 nicks (8 ops, 4 halfops, 1 voice, 264 normals)
+2016-10-06 16:00:25	--	Channel created on Tue, 27 Mar 2012 18:32:05
+2016-10-06 16:04:48	◣	Syntack (~syntack@F01D9960:64F915E8:46BE83AB:IP) has quit (Connection closed)
+2016-10-06 16:08:26	◥	synthroid (~synthroid@12B92D9.C1A9BFF5.5266FBB4.IP) has joined #/g/technology
+2016-10-06 16:11:01	◥	xnull (~AndChat42@7ECD893D:85FBCF20:3C46F915:IP) has joined #/g/technology
+2016-10-06 16:13:28	◣	xnil (~AndChat42@Rizon-D4A2AFE0.dynamic.ip.windstream.net) has quit (Ping timeout: 240 seconds)
+2016-10-06 16:16:35	◥	ninjabuf1 (~ninjabuff@Rizon-8DA956FA.hsd1.mi.comcast.net) has joined #/g/technology
+2016-10-06 16:16:52	◣	ninjabuffet (~ninjabuff@ono.sendai) has quit (Ping timeout: 240 seconds)
+2016-10-06 16:32:33	◥	xnil (~AndChat42@Rizon-87FC9669.static.ip.windstream.net) has joined #/g/technology
+2016-10-06 16:33:35	◥	darkengine (~darkengin@Rizon-24C052BF.piston.pw) has joined #/g/technology
+2016-10-06 16:35:46	◥	Syntack (~syntack@F01D9960:64F915E8:46BE83AB:IP) has joined #/g/technology
+2016-10-06 16:36:26	◣	xnull (~AndChat42@7ECD893D:85FBCF20:3C46F915:IP) has quit (Ping timeout: 240 seconds)
+2016-10-06 16:36:58	◥	xnull (~AndChat42@E19D3B64:ACEA5B9E:DFBB7EF2:IP) has joined #/g/technology
+2016-10-06 16:38:12	◣	alusion (~alu@tektr0n1k.uguu) has quit (Ping timeout: 240 seconds)
+2016-10-06 16:38:15	◥	xnool (~AndChat42@Rizon-D4A2AFE0.dynamic.ip.windstream.net) has joined #/g/technology
+2016-10-06 16:38:42	◣	xnil (~AndChat42@Rizon-87FC9669.static.ip.windstream.net) has quit (Ping timeout: 240 seconds)
+2016-10-06 16:39:50	◥	alu1 (~alu@Rizon-58322A77.socal.res.rr.com) has joined #/g/technology
+2016-10-06 16:41:01	◣	xnull (~AndChat42@E19D3B64:ACEA5B9E:DFBB7EF2:IP) has quit (Ping timeout: 240 seconds)
+2016-10-06 16:45:03	◣	kurufu (~kurufu@no.reeeeeeee.pepe.eggplant) has quit (Ping timeout: 240 seconds)
+2016-10-06 16:46:39	◣	JayJay| (~JayJay|@Rizon-544C1AE2.ip.adam.com.au) has quit (Ping timeout: 240 seconds)
+2016-10-06 16:46:42	◥	kurufu (~kurufu@no.reeeeeeee.pepe.eggplant) has joined #/g/technology
+2016-10-06 16:49:45	◥	Xylitol (~temari@user32.dll) has joined #/g/technology
+2016-10-06 16:50:55	◣	jenkins (~jenkins@erudite.memes.adept) has quit (Quit: WeeChat 1.5)
+2016-10-06 16:52:30	◣	synthroid (~synthroid@12B92D9.C1A9BFF5.5266FBB4.IP) has quit (Quit: Leaving...)
+2016-10-06 16:52:54	◥	alu2 (~alu@Rizon-58322A77.socal.res.rr.com) has joined #/g/technology
+2016-10-06 16:55:49	◣	alu1 (~alu@Rizon-58322A77.socal.res.rr.com) has quit (Quit: WeeChat 0.4.2)
+2016-10-06 16:55:56	--	alu2 is now known as alusion
+2016-10-06 16:56:15	--	Mode #/g/technology [+o alusion] by ChanServ
+2016-10-08 23:00:59	◥	naughtsee (~james@572981D9:1226C0D6:727DB645:IP) has joined #/g/technology
+2016-10-08 23:00:59	--	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Channel Rules: .rules /!\ What do you want to improve in the channel? Tell a mod! /!\ Auto-Voice for active members /!\ Teknikast Ep11: https://podcast.teknik.io/11 /!\ Teknikast at 8pm PDT, 11pm EDT on Saturday, August 13th - Mumble: mumble.teknik.io:64738"
+2016-10-08 23:00:59	--	Topic set by Kunorei (~Kunoichi@98BAAC7C.59D568C6.7C47A8B3.IP) on Sat, 24 Sep 2016 23:23:45
+2016-10-08 23:00:59	--	Channel #/g/technology: 259 nicks (7 ops, 5 halfops, 1 voice, 246 normals)
+2016-10-08 23:01:03	ddd	that isn't gaming worthy
+2016-10-08 23:01:08	nu11	Who the fucks games on laptop?
+2016-10-08 23:01:11	--	Channel created on Tue, 27 Mar 2012 18:32:05
+2016-10-08 23:01:13	ddd	by todays standards at least 
+2016-10-08 23:01:17	RemoveMoe	the x220 can almost run gentoo
+2016-10-08 23:01:31	aUsernameIsFineToo	to be honest i don't even play demanding games on my laptop
+2016-10-08 23:01:32	nu11	x220 can run gentoo
+2016-10-08 23:01:38	RemoveMoe	But the cooling isn't actually good enough
+2016-10-08 23:01:43	aUsernameIsFineToo	i just wanted a dGPU for the rare occasions i do
+2016-10-08 23:01:57	GreyMan	>gayming
+2016-10-08 23:02:13	nu11	You can still compile gentoo
+2016-10-08 23:02:25	ddd	i've tried to install gentoo
+2016-10-08 23:02:31	RemoveMoe	It's not really efficient
+2016-10-08 23:02:36	nu11	Tried?
+2016-10-08 23:02:42	nu11	what happended?
+2016-10-08 23:02:44	ddd	one thing after another kept breaking, albeit because of me
+2016-10-08 23:02:58	nu11	Wow
+2016-10-08 23:03:06	ddd	tfw too intelligent to install gentoo
+2016-10-08 23:03:06	nu11	Learn how to install it
+2016-10-08 23:03:17	RemoveMoe	I've ran gentoo on a x220 and it was pretty painful at times
+2016-10-08 23:03:18	ddd	oh, installing wasn't an issue
+2016-10-08 23:03:28	ddd	post install is what got to me
+2016-10-08 23:03:28	nu11	Learn how to maintain it
+2016-10-08 23:03:35	nu11	Gentoo is easy
+2016-10-08 23:03:39	ddd	oh maintaining it isnt an issuee
+2016-10-08 23:03:48	RemoveMoe	ADHD?
+2016-10-08 23:03:51	nu11	Then what was the issue?
+2016-10-08 23:03:59	GreyMan	i tried freebsd on my t420 but shit, fan was noisy as fuck and it overheat
+2016-10-08 23:04:10	ddd	compilation times
+2016-10-08 23:04:13	RemoveMoe	it worked decently on my x200
+2016-10-08 23:04:15	RemoveMoe	x220*
+2016-10-08 23:04:18	nu11	GreyMan, just put your laptop in the fridge
+2016-10-08 23:04:24	ddd	GreyMan, how did you get iwlwifi on *BSD
+2016-10-08 23:04:25	GreyMan	gno
+2016-10-08 23:04:26	RemoveMoe	aside from the reverse engineered wifi driver
+2016-10-08 23:04:33	RemoveMoe	that was slow as shit
+2016-10-08 23:04:51	GreyMan	???? 
+2016-10-08 23:04:55	ddd	Centrino wifi drivers barely work in Linux, let alone BSD
+2016-10-08 23:04:55	GreyMan	err bsd just connected
+2016-10-08 23:04:56	nu11	ddd, If you do updates every day, the compiles time are not bad
+2016-10-08 23:05:36	ddd	null, installing Libreoffice and firefox, and xorg made me want to commit sudoku
+2016-10-08 23:05:38	GreyMan	i mean
+2016-10-08 23:05:51	RemoveMoe	freeBSD have a reverse-engineered iwlwifi driver
+2016-10-08 23:05:53	GreyMan	there's wpa_supplicant, just connect with that, nothing more required 
+2016-10-08 23:05:55	nu11	Just use distcc
+2016-10-08 23:05:56	GreyMan	it just werks
+2016-10-08 23:05:58	RemoveMoe	don't expect miracles tho
+2016-10-08 23:05:59	GreyMan	(tm)
+2016-10-08 23:06:14	nu11	Do updates overnight
+2016-10-08 23:06:24	ddd	null, i suppose
+2016-10-08 23:06:29	RemoveMoe	you don't put your laptop to sleep while you sleep?
+2016-10-08 23:06:35	nu11	No
+2016-10-08 23:06:38	aUsernameIsFineToo	i just turn mine off
+2016-10-08 23:06:43	nu11	Why Would I do that?
+2016-10-08 23:06:46	aUsernameIsFineToo	boots in 6 seconds with ssd
+2016-10-08 23:06:47	ddd	RemoveMoe, of coursh. I tuck it in before i go to bed :)
+2016-10-08 23:06:54	GreyMan	>turning your laptop off
+2016-10-08 23:07:05	GreyMan	uptime  
+2016-10-08 23:07:06	GreyMan	 21:06:55 up 2 days
+2016-10-08 23:07:12	ddd	.uptime
+2016-10-08 23:07:12	&Combot	I have been connected to this server for 3 days, 13 hours, 44 minutes, 59 seconds.
+2016-10-08 23:07:22	nu11	.pingme
+2016-10-08 23:07:23	GreyMan	??
+2016-10-08 23:07:24	GreyMan	.uptime
+2016-10-08 23:07:24	&Combot	nu11, your ping is 1 Second, 490 Milliseconds
+2016-10-08 23:07:25	&Combot	I have been connected to this server for 3 days, 13 hours, 45 minutes, 11 seconds.
+2016-10-08 23:07:29	ddd	.ping
+2016-10-08 23:07:32	RemoveMoe	Gentoo is a good desktop OS, it's just not that great on laptops
+2016-10-08 23:07:33	ddd	.pingme
+2016-10-08 23:07:34	&Combot	ddd, your ping is 919 Milliseconds
+2016-10-08 23:07:41	GreyMan	same with freebsd.
+2016-10-08 23:07:46	nu11	My ping fucking sucks
+2016-10-08 23:07:56	GreyMan	CHECK EM
+2016-10-08 23:07:57	aUsernameIsFineToo	20:07:17 up 12 days,  7:10,  1 user,  load average: 9.34, 7.34, 6.67
+2016-10-08 23:07:57	GreyMan	.pingme
+2016-10-08 23:07:58	&Combot	GreyMan, your ping is 580 Milliseconds
+2016-10-08 23:07:58	RemoveMoe	if you have a nvidia gpu
+2016-10-08 23:07:59	aUsernameIsFineToo	get on my level
+2016-10-08 23:08:02	RemoveMoe	an*
+2016-10-08 23:08:03	nu11	CHECK EM 
+2016-10-08 23:08:04	nu11	.pingme
+2016-10-08 23:08:06	&Combot	nu11, your ping is 1 Second, 952 Milliseconds
+2016-10-08 23:08:10	nu11	dam it
+2016-10-08 23:08:12	nu11	.pong
+2016-10-08 23:08:15	nu11	.ping
+2016-10-08 23:08:28	GreyMan	welp, my chinkpd battery is kill, i didn't see the cable was barely connected
+2016-10-08 23:08:28	RemoveMoe	05:07:05 up 7 days,  7:46,  2 users,  load average: 0.26, 0.13, 0.11
+2016-10-08 23:08:32	nu11	.owner
+2016-10-08 23:08:33	GreyMan	>go for something to eat
+2016-10-08 23:08:35	RemoveMoe	my laptop
+2016-10-08 23:08:38	GreyMan	>computer is kill
+2016-10-08 23:08:38	RemoveMoe	running void
+2016-10-08 23:08:45	nu11	Gentoo is better
+2016-10-08 23:08:47	RemoveMoe	I think I'll install fedora on it though
+2016-10-08 23:08:56	 *	GreyMan tips fedora
+2016-10-08 23:09:02	aUsernameIsFineToo	my server usually gets 30~35 days of uptime until i reboot to install updates
+2016-10-08 23:09:08	GreyMan	tbh fedora is the distro i most like
+2016-10-08 23:09:20	RemoveMoe	aUsernameIsFineToo: >reboot to install updates
+2016-10-08 23:09:22	RemoveMoe	eh
+2016-10-08 23:09:27	GreyMan	^
+2016-10-08 23:09:41	RemoveMoe	My homeserver gets 2~3 months of uptime
+2016-10-08 23:09:49	aUsernameIsFineToo	2008 r2 here
+2016-10-08 23:09:59	RemoveMoe	Until I change something in the bios or change a part
+2016-10-08 23:10:18	nu11	>using windoze
+2016-10-08 23:10:26	RemoveMoe	Linux funtoo 4.7.3-gentoo #1 SMP PREEMPT Mon Sep 12 19:23:55 CEST 2016 x86_64 AMD FX(tm)-8350 Eight-Core Processor AuthenticAMD GNU/Linux
+2016-10-08 23:10:33	RemoveMoe	COARZ
+2016-10-08 23:10:41	nu11	>4.7.3-gentoo
+2016-10-08 23:10:44	nu11	not 4.8
+2016-10-08 23:10:46	nu11	lol
+2016-10-08 23:11:04	RemoveMoe	Who cares
+2016-10-08 23:11:19	aUsernameIsFineToo	>tfw cygwin
+2016-10-08 23:11:20	nu11	Hows the FX for a server
+2016-10-08 23:11:21	nu11	?
+2016-10-08 23:11:31	RemoveMoe	pretty dank if you use virt
+2016-10-08 23:11:36	RemoveMoe	or encode video
+2016-10-08 23:11:46	◥	slagman (~slagman@Rizon-55738DE5.vc.shawcable.net) has joined #/g/technology
+2016-10-08 23:11:53	ddd	Linux HAL 4.4.0-38-generic #57-Ubuntu SMP Tue Sep 6 15:42:33 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
+2016-10-08 23:11:55	nu11	What do use your server for?
+2016-10-08 23:12:03	nu11	>4.4.0-38
+2016-10-08 23:12:32	ddd	i mean, i don't have any reason to be on 4.8 
+2016-10-08 23:12:33	aUsernameIsFineToo	apache, ssh tunnel, irc client, media streaming, backup storage
+2016-10-08 23:12:40	aUsernameIsFineToo	and gaymes
+2016-10-08 23:12:54	nu11	>gaymes
+2016-10-08 23:12:57	GreyMan	Linux Fedora 4.7.5-200.fc24.x86_64
+2016-10-08 23:12:58	GreyMan	heh
+2016-10-08 23:13:00	RemoveMoe	fucking around, file sharing and streaming, it's a home server
+2016-10-08 23:13:06	RemoveMoe	I'm running plex in a VM
+2016-10-08 23:13:17	aUsernameIsFineToo	i'm running pfsense in a vm
+2016-10-08 23:13:27	RemoveMoe	Nice
+2016-10-08 23:13:32	aUsernameIsFineToo	connected one of the ethernet ports to a router for inhome wifi
+2016-10-08 23:13:43	aUsernameIsFineToo	it scans traffic in real time and blocks ads via hosts
+2016-10-08 23:13:53	nu11	Linux 4.8.0
+2016-10-08 23:13:56	RemoveMoe	I want to run a pfsense firewall using pci passthrough
+2016-10-08 23:14:28	aUsernameIsFineToo	32 cores, 64gb ddr3 ecc ram, 12tb raid10
+2016-10-08 23:14:30	aUsernameIsFineToo	confy af
+2016-10-08 23:14:36	RemoveMoe	whoah
+2016-10-08 23:14:37	nu11	What cpu?
+2016-10-08 23:14:56	GreyMan	totally jelly aUsernameIsFineToo 
+2016-10-08 23:14:56	aUsernameIsFineToo	two e5-2670s
+2016-10-08 23:15:05	nu11	nice
+2016-10-08 23:15:07	aUsernameIsFineToo	entire build was around $1100
+2016-10-08 23:15:22	RemoveMoe	Man ameriburgers are lucky
+2016-10-08 23:15:31	RemoveMoe	Server stuff isn't that cheap in europe
+2016-10-08 23:15:39	nu11	Did you buy used?
+2016-10-08 23:15:45	aUsernameIsFineToo	of course
+2016-10-08 23:15:55	nu11	That off lease stuff is prety cheeap
+2016-10-08 23:16:03	aUsernameIsFineToo	a new server like that would cost three or maybe four times as much
+2016-10-08 23:16:24	slagman	any servers we bought in ireland and the uk weren't too expensive for decent spec
+2016-10-08 23:16:25	aUsernameIsFineToo	it logged nearly 8000 hours of uptime when i got it
+2016-10-08 23:16:41	nu11	8000 is pretty good
+2016-10-08 23:16:46	GreyMan	fuuug
+2016-10-08 23:16:54	GreyMan	!wa 8000 hours to days
+2016-10-08 23:16:56	yossarian-bot	GreyMan: 333.3 days
+2016-10-08 23:17:02	nu11	my highest was 200 days
+2016-10-08 23:17:02	aUsernameIsFineToo	i also got a used gtx 980 for $300
+2016-10-08 23:17:06	aUsernameIsFineToo	and a sound card
+2016-10-08 23:17:10	nu11	>sound card
+2016-10-08 23:17:22	aUsernameIsFineToo	server boards have no integrated sound
+2016-10-08 23:17:36	nu11	Why do you need sound on a server?
+2016-10-08 23:17:53	RemoveMoe	only 8000? damn
+2016-10-08 23:18:00	aUsernameIsFineToo	muh gaymes
+2016-10-08 23:18:11	aUsernameIsFineToo	also connected it to my tv for watching animu
+2016-10-08 23:18:33	nu11	>gaymes on a server
+2016-10-08 23:18:36	RemoveMoe	windows server have passthrough support?
+2016-10-08 23:18:39	aUsernameIsFineToo	yes
+2016-10-08 23:18:45	slagman	>gay men on a server
+2016-10-08 23:18:53	◣	Nux (~nux@opiated.bliss) has quit (Ping timeout: 240 seconds)
+2016-10-08 23:19:01	nu11	> windows server
+2016-10-08 23:19:05	RemoveMoe	Isn't it loud though
+2016-10-08 23:19:19	aUsernameIsFineToo	it's actually pretty quiet
+2016-10-08 23:19:21	slagman	I firmly believe the vast majority of people who own actual servers for home server use never actually worked on or with servers professionally 
+2016-10-08 23:19:40	nu11	Actually servers are cheap tho
+2016-10-08 23:19:41	aUsernameIsFineToo	when POSTing it tests the fans and it sounds like a siren
+2016-10-08 23:19:53	RemoveMoe	it's a 4u right?
+2016-10-08 23:19:54	aUsernameIsFineToo	but during normal and even full load use it's pretty quiet
+2016-10-08 23:20:03	aUsernameIsFineToo	RemoveMoe: yes
+2016-10-08 23:20:09	aUsernameIsFineToo	tower-style 4U
+2016-10-08 23:20:26	nu11	Why wouldn't you get a rack mounted server?
+2016-10-08 23:20:27	slagman	two psus?
+2016-10-08 23:20:35	aUsernameIsFineToo	two 1 kW psus
+2016-10-08 23:20:37	slagman	>rack mounted home servers
+2016-10-08 23:20:39	slagman	stop please
+2016-10-08 23:20:47	nu11	Why?
+2016-10-08 23:20:53	nu11	Whats wrong with a rack?
+2016-10-08 23:21:17	aUsernameIsFineToo	plays gta v at maxed out settings 1600x1200 60fps
+2016-10-08 23:21:17	RemoveMoe	I guess a rack is fine if you have a big house
+2016-10-08 23:21:26	◣	skiddie (~6D6963686@5C7870C6.A6751C32.FA1D661C.IP) has quit (Ping timeout: 240 seconds)
+2016-10-08 23:22:01	ddd	it's getting cold outside lads :)
+2016-10-08 23:22:03	~Uncled1023	i have a rack at home
+2016-10-08 23:22:16	nu11	What do you have on the rack?
+2016-10-08 23:22:48	~Uncled1023	Teknik, my media server, minecraft, other game servers, ZNC
+2016-10-08 23:23:23	nu11	specs?
+2016-10-08 23:23:33	RemoveMoe	aUsernameIsFineToo: 1600x1200 is nothing though
+2016-10-08 23:24:14	~Uncled1023	nothing too special, 2 opterons (1.8 ghz each i think), 32gb ram, 15tb hdd space in raid 6
+2016-10-08 23:24:37	nu11	You run Teknik?
+2016-10-08 23:24:40	~Uncled1023	mhm
+2016-10-08 23:24:56	nu11	How much does it cost to run?
+2016-10-08 23:25:13	~Uncled1023	https://transparency.teknik.io/
+2016-10-08 23:25:15	&Combot	[URL] Transparency - Teknik (transparency.teknik.io)
+2016-10-08 23:25:19	aUsernameIsFineToo	RemoveMoe: 17" trinitron crt
+2016-10-08 23:25:24	RemoveMoe	Oh ic
+2016-10-08 23:25:31	~Uncled1023	electricity is cheap, unl bandwidth, so just pay for the plan and static IP
+2016-10-08 23:25:36	aUsernameIsFineToo	because i have the desk space and the image looks absolutely gorgeous
+2016-10-08 23:26:09	~Uncled1023	and now working on a CDN so paying for that (est at a few bucks per month)
+2016-10-08 23:26:15	nu11	-$6830
+2016-10-08 23:26:19	nu11	Thats not good
+2016-10-08 23:26:44	RemoveMoe	Just wondering, does win 2008 server have decent file compression and dedup support?
+2016-10-08 23:26:53	~Uncled1023	2008?
+2016-10-08 23:27:00	aUsernameIsFineToo	compression is just ntfs compression
+2016-10-08 23:27:08	RemoveMoe	err
+2016-10-08 23:27:12	aUsernameIsFineToo	dedup can be done with shell scripts
+2016-10-08 23:27:25	slagman	yeah natively 2008 isn't good at any of that
+2016-10-08 23:27:29	~Uncled1023	nu11: Yea, it's not as bad because i utilize it for personal reasons as well.  I also treat it as a hobby.
+2016-10-08 23:27:32	◥	Nem-47 (~Nem-47@facility.star) has joined #/g/technology
+2016-10-08 23:27:48	RemoveMoe	zfs is really comfy
+2016-10-08 23:27:50	aUsernameIsFineToo	2008 r2 is basically windows 7 server edition
+2016-10-08 23:27:54	~Uncled1023	mhm
+2016-10-08 23:27:59	~Uncled1023	2016 is coming out this month
+2016-10-08 23:28:00	~Uncled1023	:D
+2016-10-08 23:28:00	aUsernameIsFineToo	where windows 7 is the last good windows
+2016-10-08 23:28:24	◣	weemsledeux (~frodo@Rizon-525D5B80.dhcp.mtgm.al.charter.com) has quit (Quit: My MacBook has gone to sleep. ZZZzzz…)
+2016-10-08 23:28:30	slagman	if you're implying the same about 2008 R2 pls stop
+2016-10-08 23:28:46	aUsernameIsFineToo	if 2016 has all the bugs of windows 10 i'm not installing it
+2016-10-08 23:28:47	nu11	Uncled1023: what OS do you host on?
+2016-10-08 23:28:51	RemoveMoe	Oh yeah and what do you use to log in into a windows server
+2016-10-08 23:28:53	RemoveMoe	RDP?
+2016-10-09 13:45:15	--	irc: disconnected from server
+2016-10-09 13:45:35	◥	naughtsee (~james@572981D9:1226C0D6:727DB645:IP) has joined #/g/technology
+2016-10-09 13:45:35	--	Topic for #/g/technology is "/!\ It’s dangerous to go alone! Take this: .help /!\ Channel Rules: .rules /!\ What do you want to improve in the channel? Tell a mod! /!\ Auto-Voice for active members /!\ Teknikast Ep11: https://podcast.teknik.io/11 /!\ Teknikast at 8pm PDT, 11pm EDT on Saturday, August 13th - Mumble: mumble.teknik.io:64738"
+2016-10-09 13:45:35	--	Topic set by Kunorei (~Kunoichi@98BAAC7C.59D568C6.7C47A8B3.IP) on Sat, 24 Sep 2016 23:23:45
+2016-10-09 13:45:35	--	Channel #/g/technology: 258 nicks (7 ops, 5 halfops, 1 voice, 245 normals)
+2016-10-09 13:45:45	--	Channel created on Tue, 27 Mar 2012 18:32:05
+2016-10-09 13:47:14	◣	internetguy000 (~internetg@Rizon-B24F15CB.triad.res.rr.com) has quit

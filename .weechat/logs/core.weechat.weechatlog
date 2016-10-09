@@ -1760,3 +1760,85 @@
 2016-09-29 23:18:03		script: downloading list of scripts...
 2016-09-29 23:18:03		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, perl, python, relay, script, trigger, xfer
 2016-09-29 23:18:04		script: 310 scripts for WeeChat 1.5
+2016-10-03 04:14:48		perl scripts loaded: buffers
+2016-10-03 04:14:48		script: 310 scripts for WeeChat 1.4
+2016-10-03 04:14:48		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-10-03 04:15:10		fifo: pipe closed
+2016-10-03 04:15:59		perl scripts loaded: buffers
+2016-10-03 04:15:59		script: 310 scripts for WeeChat 1.4
+2016-10-03 04:15:59		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-10-03 04:16:04	=!=	Error: unknown command "/add" (type /help for help)
+2016-10-03 04:16:08		No server
+2016-10-03 04:16:11	=!=	Error with command "/server help" (help on command: /help server)
+2016-10-03 04:16:13		[irc]  /server  list|listfull [<server>]
+2016-10-03 04:16:13		                add <server> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2016-10-03 04:16:13		                copy|rename <server> <new_name>
+2016-10-03 04:16:13		                reorder <server> [<server>...]
+2016-10-03 04:16:13		                del|keep <server>
+2016-10-03 04:16:13		                deloutq|jump|raw
+2016-10-03 04:16:13		list, add or remove IRC servers
+2016-10-03 04:16:13		    list: list servers (without argument, this list is displayed)
+2016-10-03 04:16:13		listfull: list servers with detailed info for each server
+2016-10-03 04:16:13		     add: add a new server
+2016-10-03 04:16:13		  server: server name, for internal and display use
+2016-10-03 04:16:13		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2016-10-03 04:16:13		    temp: add a temporary server (not saved)
+2016-10-03 04:16:13		  option: set option for server (for boolean option, value can be omitted)
+2016-10-03 04:16:13		nooption: set boolean option to 'off' (for example: -nossl)
+2016-10-03 04:16:13		    copy: duplicate a server
+2016-10-03 04:16:13		  rename: rename a server
+2016-10-03 04:16:13		 reorder: reorder list of servers
+2016-10-03 04:16:13		    keep: keep server in config file (for temporary servers only)
+2016-10-03 04:16:13		     del: delete a server
+2016-10-03 04:16:13		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2016-10-03 04:16:13		    jump: jump to server buffer
+2016-10-03 04:16:13		     raw: open buffer with raw IRC data
+2016-10-03 04:16:13		Examples:
+2016-10-03 04:16:13		  /server listfull
+2016-10-03 04:16:13		  /server add freenode chat.freenode.net
+2016-10-03 04:16:13		  /server add freenode chat.freenode.net/6697 -ssl -autoconnect
+2016-10-03 04:16:13		  /server add chatspike irc.chatspike.net/6667,irc.duckspike.net/6667
+2016-10-03 04:16:13		  /server copy freenode freenode-test
+2016-10-03 04:16:13		  /server rename freenode-test freenode2
+2016-10-03 04:16:13		  /server reorder freenode2 freenode
+2016-10-03 04:16:13		  /server del freenode
+2016-10-03 04:16:13		  /server deloutq
+2016-10-03 04:16:24		irc: server rizon added
+2016-10-03 04:17:10	=!=	Option "rizon" not found (tip: you can use wildcard "*" in option to see a sublist)
+2016-10-03 04:17:56		Option changed: irc.server.rizon.nicks = "naughtsee,notc,0c"  (default if null: "james,james1,james2,james3,james4")
+2016-10-03 04:18:10		Option changed: irc.server.rizon.command = "/msg nickserv identify newmist3"  (default if null: "")
+2016-10-03 04:18:39		Option changed: irc.server.rizon.autoconnect = on  (default if null: off)
+2016-10-03 04:18:47		Option changed: irc.server.rizon.autojoin = "on"  (default if null: "")
+2016-10-03 04:19:02		Option changed: irc.server.rizon.autojoin = "#rice,#code,#rainbow.tv,#/g/technology"  (default if null: "")
+2016-10-03 04:19:04		Options saved to sec.conf
+2016-10-03 04:19:04		Options saved to weechat.conf
+2016-10-03 04:19:04		Options saved to plugins.conf
+2016-10-03 04:19:04		Options saved to charset.conf
+2016-10-03 04:19:04		Options saved to logger.conf
+2016-10-03 04:19:04		Options saved to exec.conf
+2016-10-03 04:19:04		Options saved to trigger.conf
+2016-10-03 04:19:04		Options saved to aspell.conf
+2016-10-03 04:19:04		Options saved to alias.conf
+2016-10-03 04:19:04		Options saved to xfer.conf
+2016-10-03 04:19:04		Options saved to irc.conf
+2016-10-03 04:19:04		Options saved to relay.conf
+2016-10-03 04:19:04		Options saved to buffers.conf
+2016-10-03 04:19:04		Options saved to script.conf
+2016-10-03 04:19:13		fifo: pipe closed
+2016-10-03 04:19:15		perl scripts loaded: buffers
+2016-10-03 04:19:15		script: 310 scripts for WeeChat 1.4
+2016-10-03 04:19:15		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-10-03 04:28:35		fifo: pipe closed
+2016-10-03 11:47:11		perl scripts loaded: buffers
+2016-10-03 11:47:12		script: 310 scripts for WeeChat 1.4
+2016-10-03 11:47:12		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-10-03 13:28:36		fifo: pipe closed
+2016-10-03 14:33:51		perl scripts loaded: buffers
+2016-10-03 14:33:52		script: 310 scripts for WeeChat 1.4
+2016-10-03 14:33:52		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-10-08 23:00:55		fifo: removing old fifo pipe "/home/james/.weechat/weechat_fifo_4378"
+2016-10-08 23:00:55		perl scripts loaded: buffers
+2016-10-08 23:00:55		script: downloading list of scripts...
+2016-10-08 23:00:55		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, javascript, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-10-08 23:00:57		script: 310 scripts for WeeChat 1.4
+2016-10-09 13:58:40		fifo: pipe closed

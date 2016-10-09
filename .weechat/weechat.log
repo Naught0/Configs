@@ -1,15 +1,34 @@
-[2016-09-29 23:18:03] WeeChat 1.5 (compiled on May 11 2016 07:10:34)
-[2016-09-29 23:18:03] Reading configuration file sec.conf
-[2016-09-29 23:18:03] Reading configuration file weechat.conf
-[2016-09-29 23:18:03] Reading configuration file plugins.conf
-[2016-09-29 23:18:03] Reading configuration file charset.conf
-[2016-09-29 23:18:03] Reading configuration file logger.conf
-[2016-09-29 23:18:03] Reading configuration file exec.conf
-[2016-09-29 23:18:03] Reading configuration file trigger.conf
-[2016-09-29 23:18:03] Reading configuration file alias.conf
-[2016-09-29 23:18:03] Reading configuration file xfer.conf
-[2016-09-29 23:18:03] Reading configuration file irc.conf
-[2016-09-29 23:18:03] Reading configuration file relay.conf
-[2016-09-29 23:18:03] Reading configuration file buffers.conf
-[2016-09-29 23:18:03] Reading configuration file script.conf
-[2016-09-29 23:18:03] irc: connecting to server irc.rizon.net/6667...
+[2016-10-08 23:00:55] WeeChat 1.4 (compiled on Mar 14 2016 07:45:29)
+[2016-10-08 23:00:55] Reading configuration file sec.conf
+[2016-10-08 23:00:55] Reading configuration file weechat.conf
+[2016-10-08 23:00:55] Reading configuration file plugins.conf
+[2016-10-08 23:00:55] Reading configuration file charset.conf
+[2016-10-08 23:00:55] Reading configuration file logger.conf
+[2016-10-08 23:00:55] Reading configuration file exec.conf
+[2016-10-08 23:00:55] Reading configuration file trigger.conf
+[2016-10-08 23:00:55] Reading configuration file aspell.conf
+[2016-10-08 23:00:55] Reading configuration file alias.conf
+[2016-10-08 23:00:55] Reading configuration file xfer.conf
+[2016-10-08 23:00:55] Reading configuration file irc.conf
+[2016-10-08 23:00:55] Reading configuration file relay.conf
+[2016-10-08 23:00:55] Reading configuration file buffers.conf
+[2016-10-08 23:00:55] Reading configuration file script.conf
+[2016-10-08 23:00:55] irc: connecting to server irc.rizon.net/6667...
+[2016-10-09 13:45:25] irc: connecting to server irc.rizon.net/6667...
+[2016-10-09 13:58:40] Signal SIGTERM received, exiting WeeChat...
+[2016-10-09 13:58:40] Writing configuration file plugins.conf
+[2016-10-09 13:58:40] Signal SIGHUP received, exiting WeeChat...
+[2016-10-09 13:58:40] Writing configuration file exec.conf
+[2016-10-09 13:58:40] Writing configuration file charset.conf
+[2016-10-09 13:58:40] Writing configuration file logger.conf
+[2016-10-09 13:58:40] Signal SIGHUP received, exiting WeeChat...
+[2016-10-09 13:58:40] Writing configuration file trigger.conf
+[2016-10-09 13:58:40] Writing configuration file irc.conf
+[2016-10-09 13:58:40] Writing configuration file alias.conf
+[2016-10-09 13:58:40] Writing configuration file xfer.conf
+[2016-10-09 13:58:40] Writing configuration file buffers.conf
+[2016-10-09 13:58:40] Writing configuration file script.conf
+[2016-10-09 13:58:40] Writing configuration file aspell.conf
+[2016-10-09 13:58:40] Writing configuration file relay.conf
+[2016-10-09 13:58:40] Writing configuration file weechat.conf
+[2016-10-09 13:58:40] Writing configuration file sec.conf

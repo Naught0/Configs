@@ -3314,3 +3314,596 @@
 2016-09-30 00:49:14	+ajimu	oh
 2016-09-30 00:49:52	+ajimu	because interacting with people who have fancy symbols by their names is intimidating for new people and gives mods social status and/or detracts from their social status
 2016-09-30 00:50:02	+ajimu	it's all part of The Plan
+2016-10-03 04:19:20	◥	naughtsee (~james@DB1C268B:C3A13FF1:727DB645:IP) has joined #code
+2016-10-03 04:19:20	--	Topic for #code is "Welcome to #code | If you can't talk, go to https://wiki.rizon.net/index.php?title=Nick_Registration | Guidelines: http://softpunk.github.io/guidelines/ | https://u.teknik.io/NBkrr.png"
+2016-10-03 04:19:20	--	Topic set by modbot (~cinch@the.last.bot) on Fri, 30 Sep 2016 18:53:38
+2016-10-03 04:19:20	--	Channel #code: 74 nicks (1 op, 0 halfops, 61 voices, 12 normals)
+2016-10-03 04:19:21	--	Mode #code [+v naughtsee] by ChanServ
+2016-10-03 04:19:26	--	Channel created on Sat, 23 Nov 2013 00:26:36
+2016-10-03 11:47:16	◥	naughtsee (~james@4A8A5AD0:2C682B37:727DB645:IP) has joined #code
+2016-10-03 11:47:16	--	Topic for #code is "Welcome to #code | If you can't talk, go to https://wiki.rizon.net/index.php?title=Nick_Registration | Guidelines: http://softpunk.github.io/guidelines/ | https://u.teknik.io/NBkrr.png"
+2016-10-03 11:47:16	--	Topic set by modbot (~cinch@the.last.bot) on Fri, 30 Sep 2016 18:53:38
+2016-10-03 11:47:17	--	Channel #code: 79 nicks (1 op, 0 halfops, 65 voices, 13 normals)
+2016-10-03 11:47:17	--	Mode #code [+v naughtsee] by ChanServ
+2016-10-03 11:47:22	--	Channel created on Sat, 23 Nov 2013 00:26:36
+2016-10-03 11:47:40	+naughtsee	Guys! xfce4-panel supports bspwm like oob
+2016-10-03 11:58:21	◣	onodera (~onodera@present.day.present.time) has quit (Ping timeout: 240 seconds)
+2016-10-03 11:58:31	+naughtsee	get e x c i t e d guys
+2016-10-03 11:58:52	+bdelloid	why
+2016-10-03 11:58:55	+bdelloid	I don't use either
+2016-10-03 11:59:25	+naughtsee	b/c now I don't have to set up a lemonbar
+2016-10-03 11:59:27	+naughtsee	:>
+2016-10-03 11:59:39	+bdelloid	I use GNU screen's hardstatus as a system bar
+2016-10-03 12:01:23	+naughtsee	tfw tmux 
+2016-10-03 12:07:46	◣	cthuko (~brkk@y.a.n.a.g.i.n.a.g.i) has quit (Ping timeout: 240 seconds)
+2016-10-03 12:10:36	◥	ubuuu (~ubuuu@Rizon-D0C363AB.generic-hostname.arrownet.dk) has joined #code
+2016-10-03 12:10:36	--	Mode #code [+v ubuuu] by ChanServ
+2016-10-03 12:11:12	◣	ubuuu (~ubuuu@Rizon-D0C363AB.generic-hostname.arrownet.dk) has quit
+2016-10-03 12:13:27	+Lynn	naughtsee: ew.
+2016-10-03 12:14:17	+Lynn	>not using imagemagick to rebuild a image of your ideal statusbar every second and manually place this at the top of your screen
+2016-10-03 12:15:04	◥	Ponyo (~Anay@Mermaid.In.Oyster) has joined #code
+2016-10-03 12:15:04	--	Mode #code [+v Ponyo] by ChanServ
+2016-10-03 12:15:12	+naughtsee	LOL
+2016-10-03 12:16:32	◣	Ponyo (~Anay@Mermaid.In.Oyster) has left #code (Leaving)
+2016-10-03 12:16:39	+Lynn	hru
+2016-10-03 12:18:16	+Lynn	dinnertime sorry bb
+2016-10-03 12:20:36	+naughtsee	im g hru
+2016-10-03 12:20:38	+naughtsee	ok bye 
+2016-10-03 12:43:14	◥	Leocadia_ (~Leocadia_@1EBC7C50.B753F45F.1A390AE0.IP) has joined #code
+2016-10-03 12:43:25	◣	Arathnim (~Arathnim@lots.of.irritating.stupid.parentheses) has quit (Quit: leaving)
+2016-10-03 12:46:21	◣	Leocadia (~Leocadia_@69B6BF25.586015A6.BFC729F4.IP) has quit (Ping timeout: 240 seconds)
+2016-10-03 13:04:18	◥	onodera (~onodera@present.day.present.time) has joined #code
+2016-10-03 13:04:18	--	Mode #code [+v onodera] by ChanServ
+2016-10-03 13:08:13	+ajimu	hi friends
+2016-10-03 13:15:50	+bdelloid	hi
+2016-10-03 13:16:14	+bdelloid	fugg
+2016-10-03 13:16:23	+bdelloid	I can't remember how that crate to do shell like splitting was called
+2016-10-03 13:17:27	+bdelloid	mmh
+2016-10-03 13:17:30	+bdelloid	maybe clap can do it
+2016-10-03 13:24:30	+JX7P	How SmallTalk-72 worked. SmallTalk-72 was derived from S-Logo, a variant of the LISP 1.6 programming language. Objects were effectively lambda expressions crossed with macros: they processed a message stream consisting of the text coming after a message send to them. With pre-provided functionality to parse the message being available (though not mandated; you could choose any grammar for messages) the class definition would begin to look 
+2016-10-03 13:24:30	+JX7P	like a big Lisp lambda with a cond statement on the various keywords of the message.
+2016-10-03 14:33:56	◥	naughtsee (~james@F06C8B3A:A30867A9:727DB645:IP) has joined #code
+2016-10-03 14:33:56	--	Topic for #code is "Welcome to #code | If you can't talk, go to https://wiki.rizon.net/index.php?title=Nick_Registration | Guidelines: http://softpunk.github.io/guidelines/ | https://u.teknik.io/NBkrr.png"
+2016-10-03 14:33:56	--	Topic set by modbot (~cinch@the.last.bot) on Fri, 30 Sep 2016 18:53:38
+2016-10-03 14:33:57	--	Channel #code: 78 nicks (1 op, 0 halfops, 64 voices, 13 normals)
+2016-10-03 14:33:57	--	Mode #code [+v naughtsee] by ChanServ
+2016-10-03 14:34:03	--	Channel created on Sat, 23 Nov 2013 00:26:36
+2016-10-03 14:55:06	+ajimu	can we machine things like scalpels with reliable strength using a 3d printer?
+2016-10-03 14:58:43	+trinary	Depends on who "we" are.
+2016-10-03 14:59:35	+trinary	Shapeways probably can, they can print all sorts of metal. My local hackerspace with their "cheap" printer? Probably not.
+2016-10-03 15:03:32	+ajimu	how expensive are we talking?
+2016-10-03 15:03:46	+ajimu	"we" being hackers
+2016-10-03 15:06:29	+trinary	I have no idea how much their printers cost.
+2016-10-03 15:06:47	+ajimu	kk
+2016-10-03 15:30:50	--	irc: disconnected from server
+2016-10-03 15:31:06	◥	naughtsee (~james@F06C8B3A:A30867A9:727DB645:IP) has joined #code
+2016-10-03 15:31:06	--	Topic for #code is "Welcome to #code | If you can't talk, go to https://wiki.rizon.net/index.php?title=Nick_Registration | Guidelines: http://softpunk.github.io/guidelines/ | https://u.teknik.io/NBkrr.png"
+2016-10-03 15:31:06	--	Topic set by modbot (~cinch@the.last.bot) on Fri, 30 Sep 2016 18:53:37
+2016-10-03 15:31:06	--	Channel #code: 78 nicks (1 op, 0 halfops, 64 voices, 13 normals)
+2016-10-03 15:31:06	--	Mode #code [+v naughtsee] by ChanServ
+2016-10-03 15:31:11	◥	EvgenZhaba (KiwiIRC@2ECBDE30.6F923FE4.62595A1B.IP) has joined #code
+2016-10-03 15:31:16	--	Channel created on Sat, 23 Nov 2013 00:26:36
+2016-10-03 15:31:24	◣	EvgenZhaba (KiwiIRC@2ECBDE30.6F923FE4.62595A1B.IP) has left #code
+2016-10-03 15:32:41	+Arathnim	Oh, you actually use the terms interchangeably. I thought you didn't interstand because I've never heard of anyone using the terms like that.
+2016-10-03 15:39:01	+Arathnim	trinary: 
+2016-10-03 15:39:38	+trinary	Yes?
+2016-10-03 15:39:40	+Arathnim	Can you help me test lispbot quickly? It's difficult with one nick.
+2016-10-03 15:39:51	+Arathnim	And I don't want to spam #code
+2016-10-03 15:40:29	+Arathnim	Oh wait, I'll just run another terminal with irssi
+2016-10-03 15:41:26	+trinary	Sure.
+2016-10-03 15:42:32	+Arathnim	Oh, neat. #lispbot, then.
+2016-10-03 15:47:43	+ajimu	if anyone has resources on getting up to speed on 3d printing, I'd appreciate it
+2016-10-03 16:22:08	+bdelloid	ajimu, sorry I ain't got no money
+2016-10-03 16:32:07	◥	Cosumu (~Cosumu@Rizon-CFE09A54.lnse4.woo.bigpond.net.au) has joined #code
+2016-10-03 16:32:07	--	Mode #code [+v Cosumu] by ChanServ
+2016-10-03 16:37:03	+JX7P	>"Awesome. Let's hope more purpose built applications run on bare metal. Often times, there is no reason to run a full OS just to run a bit of code that executes over and over."
+2016-10-03 16:37:05	+JX7P	hideous comment
+2016-10-03 16:37:29	+JX7P	this is not progress but regress. writing for bare-metal is challenging and involves lots of repetition. it's also inherently limiting
+2016-10-03 16:38:15	+JX7P	i have been convinced for a while that the answer to our problems is to declare an end to the unix age, which is so taken for granted today, and begin the object age
+2016-10-03 16:38:36	+JX7P	that is, an operating system ought to be more like a smalltalk image, and applications be objects
+2016-10-03 16:39:44	+JX7P	we need, of course, a security mechanism there. something smalltalk never focused on much, but something i would like to research
+2016-10-03 16:40:11	+JX7P	i think it's sick and wrong that we are today 'solving' our security issues by running our applications inside another OS inside an application
+2016-10-03 16:40:18	+JX7P	horrifically redundant
+2016-10-03 16:40:34	◣	Cosumu (~Cosumu@Rizon-CFE09A54.lnse4.woo.bigpond.net.au) has quit (Quit: WeeChat 1.5)
+2016-10-03 16:40:46	+JX7P	and tacked-on things: GR Security, Se-Linux, and all that, they are perverse
+2016-10-03 16:41:22	+Arathnim	On that point, I agree. You either have to have security built into the user-facing language, or solid memory protection, not half-measures.
+2016-10-03 16:42:18	+JX7P	one place where i take a particularly radical line is the operating system itself
+2016-10-03 16:42:42	+JX7P	the kernel having full access to the entire system of applications is taken for granted, but it could be done away with
+2016-10-03 16:45:21	+ajimu	I much agree about ending the unix age, but at present we're facing its decline for desktops
+2016-10-03 16:46:03	+JX7P	i think it's clear that desktops are likely going to disappear
+2016-10-03 16:46:07	+bdelloid	tfw incremental backups with btrfs
+2016-10-03 16:46:55	+JX7P	we are moving towards the era of sealed-box computers-as-consumer-electronics and it's tragic
+2016-10-03 16:47:13	+JX7P	on a side note, solaris was my favourite unix because of it actually innovating significantly
+2016-10-03 16:48:05	+JX7P	8 years ago i remember dragging a slider along my home folder and watching as it traced back through 2 months of changes. i could access things at any point. linux only recently gained a NIH of this in btr-fs
+2016-10-03 16:48:48	+JX7P	oh, why do people still think "worse is better" was a non-ironic statement? why do people worship ugliness, mediocrity, and stagnation?
+2016-10-03 16:49:28	+Arathnim	It's the "right" thing vs. the simple thing.
+2016-10-03 16:49:33	+JX7P	i almost begin to like systemd for shaking up the dismal state of system management - even if it simply put that dismal state in a glass, shat in it, and served it as a cocktail
+2016-10-03 16:49:59	+Arathnim	implementation simplicity and interface simplicity
+2016-10-03 16:51:02	+JX7P	and my own system xvi, in retrospect, was basically an attempt to impose on systems an objects-style approach to service management, by creating vast translation layers (the restarter delegates) for a simple message-based management system
+2016-10-03 16:52:51	+ajimu	"worse is better" was about gaining market and moving quickly. it was never about quality
+2016-10-03 16:53:08	+JX7P	you are quite right. this is the free market at work
+2016-10-03 16:53:32	+JX7P	it does not see or hear for quality and rightness, only for marketing prowess
+2016-10-03 16:53:42	+ajimu	yep
+2016-10-03 16:54:18	+ajimu	higher quality loses because people will take something that kinda works over something that works well every time, as long as it's faster and convenient
+2016-10-03 16:54:32	+ajimu	this also means anything actually new is gonna fail to gain adoption
+2016-10-03 16:54:52	+ajimu	and under capitalism adoption determines what influence you have over future tech
+2016-10-03 16:55:05	+ajimu	e.g. in standards discussions
+2016-10-03 16:55:42	+ajimu	or in influencing similar "competing" projects
+2016-10-03 16:55:52	+JX7P	there were a whole series of incredible developments that should've been the future of computing but they ended up getting recuperated, to translate a term onto a different analysand
+2016-10-03 16:55:56	+ajimu	so worse *wins* but it's not better
+2016-10-03 16:55:59	+ajimu	yep
+2016-10-03 16:56:20	+ajimu	computing is a depressing example of the idiotgod nature of economics
+2016-10-03 16:56:20	+JX7P	lisp machines, dynabook, pretty much anything from xerox's palo alto research centre
+2016-10-03 16:56:38	+ajimu	yep
+2016-10-03 16:56:43	+ajimu	speaking of which
+2016-10-03 16:56:59	+JX7P	i mean, we had the GUI basically the same as it is today back in SmallTalk-72
+2016-10-03 16:57:25	+ajimu	I saw a kitsch plaque that said "the best way to predict the future is to invent it" with no attribution to Alan Kay
+2016-10-03 16:57:29	+JX7P	https://lively-web.org/users/Dan/ALTO-Smalltalk-72.html
+2016-10-03 16:57:30	+ajimu	it was WEIRD
+2016-10-03 16:58:08	+ajimu	I didn't realize this was on the lively web site
+2016-10-03 16:58:16	+ajimu	I'll have to check it when I'm home
+2016-10-03 16:58:47	+JX7P	https://lively-web.org/users/bert/Smalltalk-78.html pardon me, this one doesn't require you to type obscure smalltalk-72 code in to make the gui show interesting things
+2016-10-03 16:59:04	+ajimu	the only major change I recall with windows is something to do with a misunderstanding of how the smalltalk windows worked by the apple people
+2016-10-03 16:59:54	+ajimu	the common misconception is that the market gives people what they "want"
+2016-10-03 17:00:04	+ajimu	the reality is that it gives them what they'll settle for
+2016-10-03 17:00:26	+ajimu	"if they really wanted x then the market would provide it" is batshit
+2016-10-03 17:00:43	+ajimu	everyone will tell you they wish things were different but they take what they can get
+2016-10-03 17:12:55	◥	lispbot (~lispbot@Rizon-C52A89E7.mci.googlefiber.net) has joined #code
+2016-10-03 17:13:34	+kori	I think I want a Google Pixel
+2016-10-03 17:14:11	+kori	(the phone)
+2016-10-03 17:14:11	+ajimu	what's that
+2016-10-03 17:15:50	+kori	https://www.cnet.com/news/google-pixel-pixel-xl-leak-carphone-warehouse-bell/
+2016-10-03 17:16:04	+kori	it looks pretty much exactly like an iphone
+2016-10-03 17:16:28	+ajimu	wow
+2016-10-03 17:16:36	+ajimu	that's pretty weak
+2016-10-03 17:16:57	+bdelloid	>no micro sd
+2016-10-03 17:17:03	+bdelloid	>botnet intrinsic
+2016-10-03 17:17:07	+bdelloid	>looks ugly
+2016-10-03 17:17:09	+bdelloid	no thanks
+2016-10-03 17:17:19	+bdelloid	I'll keep my fully customized Moto X Force
+2016-10-03 17:17:37	+trinary	kori - Why?
+2016-10-03 17:17:44	+ajimu	this looks nothing like an iPhone idk what you're talking about
+2016-10-03 17:17:52	+ajimu	it looks bad tbh
+2016-10-03 17:17:58	+ajimu	trinary: because it looks like an iPhone by isn't
+2016-10-03 17:18:10	+trinary	No, why does he want one?
+2016-10-03 17:18:11	+ajimu	if he just got an iPhone it'd make him look bad after all
+2016-10-03 17:18:40	+ajimu	that's the question I was answering
+2016-10-03 17:18:41	+bdelloid	kek
+2016-10-03 17:18:51	+bdelloid	god I hate Rust so much
+2016-10-03 17:18:57	+bdelloid	fix the fucking borrow checker already
+2016-10-03 17:19:14	+Uncled1023	isn't rust open source?
+2016-10-03 17:19:15	+trinary	Lexical only borrows biting you?
+2016-10-03 17:19:28	+ajimu	what's wrong with the borrow checker?
+2016-10-03 17:19:29	+kori	i kinda miss the google is a botnet meme
+2016-10-03 17:19:32	+bdelloid	trinary, something even worse, that will unlikely be fixed
+2016-10-03 17:19:35	+trinary	ajimu - Then I guess I didn't understand that explanation.
+2016-10-03 17:19:37	+kori	that was a good meme
+2016-10-03 17:19:42	+bdelloid	I need to downgrade a mutable reference to an immutable one
+2016-10-03 17:19:50	+trinary	kori - Why do you want that phone?
+2016-10-03 17:19:52	+ajimu	> it's open source so you don't have the right to expect anyone to fix their shit
+2016-10-03 17:19:56	+bdelloid	but the lifetimes are always conflated
+2016-10-03 17:19:56	+trinary	bdelloid - Oh, right, I saw.
+2016-10-03 17:20:02	+kori	trinary: 1. android 2. looks like an iphone tbh
+2016-10-03 17:20:14	+kori	I like the shape of the iphone
+2016-10-03 17:20:18	+trinary	kori - Why's 2 a good point?
+2016-10-03 17:20:23	+trinary	Oh.
+2016-10-03 17:20:27	+bdelloid	but meh
+2016-10-03 17:20:31	+bdelloid	I guess I need to fix the design
+2016-10-03 17:20:51	+bdelloid	I don't like the way it does this honestly
+2016-10-03 17:21:37	+trinary	kori - I can recommend the OP3 if you're just looking for a new phone.
+2016-10-03 17:21:57	+ajimu	because kori wishes he were an applefag
+2016-10-03 17:22:00	+trinary	(Judge for yourself how much it looks like an iphone)
+2016-10-03 17:22:08	+bdelloid	I guess I can do something really ugly
+2016-10-03 17:22:54	+kori	trinary: nevermind the weirdly shaped home button, Hey, That's Pretty Good!™
+2016-10-03 17:23:20	+kori	I mean, I'll stick with my moto g for maybe a year or two more
+2016-10-03 17:23:31	+kori	well
+2016-10-03 17:23:41	+kori	I'll stick with it for as long as it is sufficient
+2016-10-03 17:25:42	◣	lispbot (~lispbot@Rizon-C52A89E7.mci.googlefiber.net) has quit (Remote host closed the connection)
+2016-10-03 17:35:22	+bdelloid	reee
+2016-10-03 17:35:39	+bdelloid	trinary, send help
+2016-10-03 17:39:05	◣	Leocadia_ (~Leocadia_@1EBC7C50.B753F45F.1A390AE0.IP) has quit (Quit: Leaving)
+2016-10-03 17:41:07	+trinary	fn help<'a, T>(t: &'a mut T) -> &'a T { unsafe { std::mem::transmute(t) } }
+2016-10-03 17:41:27	+bdelloid	trinary, that won't work
+2016-10-03 17:41:32	+bdelloid	'a is the same lifetime of t
+2016-10-03 17:41:59	+bdelloid	trinary, I need to redesign this thing
+2016-10-03 17:42:04	+bdelloid	I'm thinking about using mio
+2016-10-03 17:42:10	+bdelloid	but maybe futures are better
+2016-10-03 17:42:14	+trinary	I don't know what lifetime you would want t to have.
+2016-10-03 17:42:26	+bdelloid	trinary, an equivalent lifetime, but immutable
+2016-10-03 17:42:50	+bdelloid	I'm calling foo(&mut self) -> impl Iterator<Item = &T>
+2016-10-03 17:42:59	+bdelloid	but anyway
+2016-10-03 17:43:02	+bdelloid	I think I'll go with futures
+2016-10-03 17:43:05	+bdelloid	probably
+2016-10-03 17:43:35	+trinary	Huh? It will have the same lifetime as the one you passed in. Is that not equivalent
+2016-10-03 17:43:37	+trinary	*?
+2016-10-03 17:44:24	◥	lispbot (~lispbot@Rizon-C52A89E7.mci.googlefiber.net) has joined #code
+2016-10-03 17:45:18	--	Mode #code [+v lispbot] by ChanServ
+2016-10-03 17:46:56	+bdelloid	trinary, yes, but self will still be seen as mutable
+2016-10-03 17:48:00	◥	jiaxsun (~jiaxsun@852EF554:74F89767:45828DD2:IP) has joined #code
+2016-10-03 17:48:00	--	Mode #code [+v jiaxsun] by ChanServ
+2016-10-03 17:48:02	+trinary	Sure, that's what you asked it for. You can't &self?
+2016-10-03 17:48:14	+bdelloid	trinary, no
+2016-10-03 17:48:22	+trinary	Why not?
+2016-10-03 17:48:23	+bdelloid	I want &mut self, but &mut is not needed for the references returned
+2016-10-03 17:48:29	+bdelloid	because I need to mutate
+2016-10-03 17:48:35	+bdelloid	and return immutable references, with self as immutable
+2016-10-03 17:48:50	+trinary	Internal mutability?
+2016-10-03 17:48:53	+bdelloid	nope
+2016-10-03 17:48:57	+trinary	Why not?
+2016-10-03 17:48:59	+bdelloid	would slow everything down
+2016-10-03 17:49:04	+bdelloid	it's not internal mutability either
+2016-10-03 17:49:07	+bdelloid	it's external
+2016-10-03 17:49:10	+bdelloid	but not needed after
+2016-10-03 17:49:28	+bdelloid	the call needs &mut self
+2016-10-03 17:49:32	+bdelloid	but after the return, it does not
+2016-10-03 17:49:43	+bdelloid	but you can't drop the mutable after you get the &T
+2016-10-03 17:49:50	+bdelloid	self will still be &mut
+2016-10-03 17:49:56	+bdelloid	so you can't call other immutable methods on it
+2016-10-03 18:04:32	+bdelloid	reeee
+2016-10-03 18:15:21	+trinary	I'd have to see more context, but if you're going to restructure anyway... Is "cancer open" supposed to do anything?
+2016-10-03 18:23:45	+bdelloid	trinary, yeah, open the window
+2016-10-03 18:23:51	+bdelloid	and show the cursor
+2016-10-03 18:25:54	+trinary	That doesn't happen, and RUST_LOG=debug doesn't give any information I could give you.
+2016-10-03 18:26:03	+bdelloid	trinary, ヽ(´ｰ｀ )ﾉ 
+2016-10-03 18:26:14	+bdelloid	it's still under volatile development
+2016-10-03 18:26:22	+trinary	Sure, I'll check again later.
+2016-10-03 18:26:36	+bdelloid	does it crash?
+2016-10-03 18:26:41	+bdelloid	like a segfault
+2016-10-03 18:26:48	+bdelloid	if it segfaults I still fucked up the pty stuff
+2016-10-03 18:29:28	+trinary	No, it just doesn't do anything. The process doesn't terminate until I ^C it.
+2016-10-03 18:29:51	+trinary	(It probably does *something*, but nothing I can directly observe)
+2016-10-03 18:35:22	+bdelloid	must be stuck somewhere ヽ(´ｰ｀ )ﾉ 
+2016-10-03 18:39:24	◥	mofukka (~mofukka@gangster.mofukka) has joined #code
+2016-10-03 18:39:24	--	Mode #code [+v mofukka] by ChanServ
+2016-10-03 19:20:03	◣	onodera (~onodera@present.day.present.time) has quit (Quit: Lost terminal)
+2016-10-03 19:20:23	◥	onodera (~onodera@present.day.present.time) has joined #code
+2016-10-03 19:20:23	--	Mode #code [+v onodera] by ChanServ
+2016-10-03 19:21:00	◣	onodera (~onodera@present.day.present.time) has quit (Remote host closed the connection)
+2016-10-03 19:22:24	◥	onodera (~onodera@present.day.present.time) has joined #code
+2016-10-03 19:22:24	--	Mode #code [+v onodera] by ChanServ
+2016-10-03 20:38:09	◣	vitimiti (~Celtor@Rizon-1C08866F.red-88-27-60.staticip.rima-tde.net) has quit (Remote host closed the connection)
+2016-10-03 20:49:47	◣	Guest15937 (Volunteers@Rizon-BF9BF4ED.rizonbnc.us.rizon.net) has left #code
+2016-10-03 20:55:45	◣	luis (~luis@Free.as.in.Freedom) has quit (Quit: leaving)
+2016-10-03 20:56:54	◣	onodera (~onodera@present.day.present.time) has quit (Ping timeout: 240 seconds)
+2016-10-03 20:58:12	◥	luis (~luis@Free.as.in.Freedom) has joined #code
+2016-10-03 20:58:12	--	Mode #code [+v luis] by ChanServ
+2016-10-03 21:01:26	+kori	Alright
+2016-10-03 21:01:39	+kori	evening, #code
+2016-10-03 21:01:55	+bdelloid	bye
+2016-10-03 21:02:31	+kori	bdelloid: I'm nbot leaving!
+2016-10-03 21:02:40	+bdelloid	sure you are
+2016-10-03 21:04:39	+kori	you arent 100% wrong
+2016-10-03 21:04:42	+kori	I thought about leaivng
+2016-10-03 21:04:55	+bdelloid	http://www.hnng.moe/f/IQV 
+2016-10-03 21:08:42	◥	YPG (~None@vhost.vhost.vhost.vhost.vhost) has joined #code
+2016-10-03 21:08:42	--	Mode #code [+v YPG] by ChanServ
+2016-10-03 21:21:58	+LambdaComplex	hi #code 
+2016-10-03 21:22:35	+bdelloid	bye
+2016-10-03 21:23:14	+LambdaComplex	hi bdelloid 
+2016-10-03 21:24:14	+bdelloid	oh shit
+2016-10-03 21:24:23	+bdelloid	I just realized something
+2016-10-03 21:24:33	+bdelloid	this is bad
+2016-10-03 21:26:08	+kori	OH
+2016-10-03 21:26:10	+kori	oh
+2016-10-03 21:26:12	+kori	hi LambdaComplex 
+2016-10-03 21:26:30	+LambdaComplex	holy shit, bdelloid. you're right
+2016-10-03 21:26:35	+LambdaComplex	there _is_ a hole in my sock
+2016-10-03 21:29:17	+LambdaComplex	tfw networking basics final on wednesday and tuesday
+2016-10-03 21:30:32	 *	LambdaComplex divides kori using VLSM
+2016-10-03 21:30:58	+kori	stop reading my thoughts
+2016-10-03 21:42:37	◥	Nux (~nux@opiated.bliss) has joined #code
+2016-10-03 21:42:37	--	Mode #code [+v Nux] by ChanServ
+2016-10-03 21:43:26	+Nux	hey #code
+2016-10-03 21:46:40	+kori	ey
+2016-10-03 21:47:53	+bdelloid	bye
+2016-10-03 21:49:35	+Nux	hru kori
+2016-10-03 22:14:20	◣	Zanthas (~Zanthas@Misaki.Mei-chan) has quit (Quit: WeeChat 1.4)
+2016-10-03 22:24:42	+LambdaComplex	kori: wut
+2016-10-03 22:32:07	◥	Zanthas (~Zanthas@Misaki.Mei-chan) has joined #code
+2016-10-03 22:32:07	--	Mode #code [+v Zanthas] by ChanServ
+2016-10-03 22:37:02	◣	Arathnim (~Arathnim@lots.of.irritating.stupid.parentheses) has quit (Quit: leaving)
+2016-10-03 23:36:02	--	irc: disconnected from server
+2016-10-03 23:36:17	◥	naughtsee (~james@F06C8B3A:A30867A9:727DB645:IP) has joined #code
+2016-10-03 23:36:17	--	Topic for #code is "Welcome to #code | If you can't talk, go to https://wiki.rizon.net/index.php?title=Nick_Registration | Guidelines: http://softpunk.github.io/guidelines/ | https://u.teknik.io/NBkrr.png"
+2016-10-03 23:36:17	--	Topic set by modbot (~cinch@the.last.bot) on Fri, 30 Sep 2016 18:53:38
+2016-10-03 23:36:17	--	Channel #code: 77 nicks (1 op, 0 halfops, 65 voices, 11 normals)
+2016-10-03 23:36:17	--	Mode #code [+v naughtsee] by ChanServ
+2016-10-03 23:36:27	--	Channel created on Sat, 23 Nov 2013 00:26:36
+2016-10-03 23:43:53	+mofukka	http://imgur.com/gallery/UrhOtai
+2016-10-03 23:45:15	+bdelloid	uboaaaaa
+2016-10-04 00:10:03	◣	bdelloid (~innocuous@bdelloid.overlord) has quit (Ping timeout: 240 seconds)
+2016-10-04 00:40:19	◣	jiaxsun (~jiaxsun@852EF554:74F89767:45828DD2:IP) has quit (Quit: WeeChat 1.5)
+2016-10-04 00:40:29	◥	jiaxsun (~jiaxsun@852EF554:74F89767:45828DD2:IP) has joined #code
+2016-10-04 00:40:29	--	Mode #code [+v jiaxsun] by ChanServ
+2016-10-04 14:54:59	--	irc: disconnected from server
+2016-10-04 14:55:17	◥	naughtsee (~james@F06C8B3A:A30867A9:727DB645:IP) has joined #code
+2016-10-04 14:55:17	--	Topic for #code is "Welcome to #code | If you can't talk, go to https://wiki.rizon.net/index.php?title=Nick_Registration | Guidelines: http://softpunk.github.io/guidelines/ | https://u.teknik.io/NBkrr.png"
+2016-10-04 14:55:17	--	Topic set by modbot (~cinch@the.last.bot) on Fri, 30 Sep 2016 18:53:38
+2016-10-04 14:55:17	--	Channel #code: 80 nicks (1 op, 0 halfops, 67 voices, 12 normals)
+2016-10-04 14:55:17	--	Mode #code [+v naughtsee] by ChanServ
+2016-10-04 14:55:27	--	Channel created on Sat, 23 Nov 2013 00:26:36
+2016-10-05 00:44:30	--	irc: disconnected from server
+2016-10-05 00:44:47	◥	naughtsee (~james@F06C8B3A:A30867A9:727DB645:IP) has joined #code
+2016-10-05 00:44:47	--	Topic for #code is "Welcome to #code | If you can't talk, go to https://wiki.rizon.net/index.php?title=Nick_Registration | Guidelines: http://softpunk.github.io/guidelines/ | https://u.teknik.io/NBkrr.png"
+2016-10-05 00:44:47	--	Topic set by modbot (~cinch@the.last.bot) on Fri, 30 Sep 2016 18:53:38
+2016-10-05 00:44:47	--	Channel #code: 75 nicks (1 op, 0 halfops, 64 voices, 10 normals)
+2016-10-05 00:44:47	--	Mode #code [+v naughtsee] by ChanServ
+2016-10-05 00:44:56	+kori	hi james
+2016-10-05 00:44:56	+bdelloid	everyone should know C, it's the only lingua franca we have in the programming world
+2016-10-05 00:44:57	--	Channel created on Sat, 23 Nov 2013 00:26:36
+2016-10-05 00:45:01	+kori	bdelloid: I'm doing it as part of uni
+2016-10-05 00:45:18	+kori	I dont want to spend a second of my free time on C
+2016-10-05 00:45:28	+bdelloid	sucks to be you
+2016-10-05 00:45:55	+kori	haha it really does haha
+2016-10-05 00:45:57	+kori	kill me
+2016-10-05 00:46:14	+bdelloid	too busy reading web comics while I figure out a way to make this code not shit
+2016-10-05 00:47:07	◥	i44 (~i44@i144.i144.i144.i144.i144.i144) has joined #code
+2016-10-05 00:47:07	--	Mode #code [+v i44] by ChanServ
+2016-10-05 00:47:11	+kori	kinda same
+2016-10-05 00:47:21	+kori	I also am reading webcomics
+2016-10-05 00:47:28	+kori	while doing some code touch ups
+2016-10-05 21:43:03	--	irc: disconnected from server
+2016-10-05 21:43:19	◥	naughtsee (~james@F06C8B3A:A30867A9:727DB645:IP) has joined #code
+2016-10-05 21:43:19	--	Topic for #code is "Welcome to #code | If you can't talk, go to https://wiki.rizon.net/index.php?title=Nick_Registration | Guidelines: http://softpunk.github.io/guidelines/ | https://u.teknik.io/NBkrr.png"
+2016-10-05 21:43:19	--	Topic set by modbot (~cinch@the.last.bot) on Fri, 30 Sep 2016 18:53:38
+2016-10-05 21:43:19	--	Channel #code: 78 nicks (1 op, 0 halfops, 67 voices, 10 normals)
+2016-10-05 21:43:19	--	Mode #code [+v naughtsee] by ChanServ
+2016-10-05 21:43:29	--	Channel created on Sat, 23 Nov 2013 00:26:36
+2016-10-05 21:44:10	+bdelloid	https://github.com/meh/cancer/blob/master/src/terminal/escape.rs >a billion lines of tests
+2016-10-05 21:48:13	+cthuko	meh is a cool guy
+2016-10-05 21:48:20	+bdelloid	cthuko, thanks
+2016-10-05 21:48:33	+cthuko	Wait
+2016-10-05 21:48:43	+cthuko	Are you `meh`?
+2016-10-05 21:48:46	+bdelloid	yeah
+2016-10-05 21:48:51	+cthuko	Holy fuck
+2016-10-05 21:49:03	+cthuko	I'm like using amnesia rn
+2016-10-05 21:49:47	+bdelloid	Erlang crashes using libressl
+2016-10-05 21:49:51	+bdelloid	can't even publish package updates
+2016-10-05 21:50:05	+cthuko	tfw
+2016-10-05 21:52:10	+cthuko	I'm writing an imageboard engine in elixir, bdelloid
+2016-10-05 21:52:15	+bdelloid	good luck
+2016-10-05 21:52:22	+bdelloid	I was too once, I got bored 5 minutes later
+2016-10-05 21:52:26	+cthuko	Trying to minimize external dependencies
+2016-10-05 21:53:05	+cthuko	Ty
+2016-10-05 21:54:31	+bdelloid	mmh
+2016-10-05 21:54:48	+LambdaComplex	hi #code 
+2016-10-05 21:54:51	+bdelloid	bye
+2016-10-05 21:54:57	+bdelloid	ok
+2016-10-05 21:55:01	+bdelloid	I just need to figure out how to do this
+2016-10-05 21:55:02	+LambdaComplex	i said #code, not bdelloid 
+2016-10-05 21:55:04	+LambdaComplex	bdelloid: hi
+2016-10-05 21:55:04	+bdelloid	then it's good
+2016-10-05 21:55:15	+bdelloid	do I have bash installed?
+2016-10-05 21:55:18	+bdelloid	yes
+2016-10-05 21:55:37	+LambdaComplex	do you have zsh installed?
+2016-10-05 21:55:46	+bdelloid	what else would I be using
+2016-10-05 21:56:02	+LambdaComplex	maybe fish
+2016-10-05 21:56:11	+bdelloid	I hate fish
+2016-10-05 21:56:13	+bdelloid	worst dish
+2016-10-05 21:56:24	+LambdaComplex	same tbh
+2016-10-05 21:56:30	+LambdaComplex	although i strangely like sushi
+2016-10-05 21:56:50	+bdelloid	I don't eat raw food
+2016-10-05 21:56:54	+bdelloid	unless it's insects
+2016-10-05 21:56:58	+kori	sushi is eggselendt
+2016-10-05 21:57:17	+bdelloid	mmh
+2016-10-05 21:57:24	+bdelloid	what was that thing
+2016-10-05 21:57:28	+bdelloid	that does the thing
+2016-10-05 21:57:37	+LambdaComplex	a computer
+2016-10-05 21:58:04	+bdelloid	this should work
+2016-10-05 21:58:10	+bdelloid	unless
+2016-10-05 21:58:18	+bdelloid	maybe
+2016-10-05 22:00:04	+cthuko	Hi
+2016-10-05 22:00:27	+LambdaComplex	hi cthuko 
+2016-10-05 22:00:46	+cthuko	How you doing cute \
+2016-10-05 22:01:24	+bdelloid	I guess
+2016-10-05 22:01:42	+kori	http://stackoverflow.com/questions/407518/code-golf-leibniz-formula-for-pi
+2016-10-05 22:01:49	+kori	I'm having trouble implementing leibnizs formula
+2016-10-05 22:02:02	+cthuko	Git god gori
+2016-10-05 22:02:14	+kori	http://sprunge.us/iYLF
+2016-10-05 22:02:30	+kori	well
+2016-10-05 22:03:25	+bdelloid	ok, how do I do this
+2016-10-05 22:03:47	+bdelloid	kori, help me out, I know you can
+2016-10-05 22:03:53	+kori	what do you need
+2016-10-05 22:04:12	+bdelloid	well
+2016-10-05 22:04:23	+bdelloid	first I need to remember the higher bits for utf-8
+2016-10-05 22:04:31	+bdelloid	then I need to see which fall within an escape code as well
+2016-10-05 22:05:26	+kori	that went right over my head
+2016-10-05 22:05:57	+bdelloid	yeah
+2016-10-05 22:05:58	+bdelloid	they fall
+2016-10-05 22:06:01	+bdelloid	which means
+2016-10-05 22:06:11	+bdelloid	I need to extract one character at a time
+2016-10-05 22:06:28	+bdelloid	this sucks
+2016-10-05 22:07:40	+LambdaComplex	d-did cthuko just call me cute
+2016-10-05 22:08:05	+cthuko	LambdaComplex: yes :3
+2016-10-05 22:08:22	 *	LambdaComplex wonders if cthuko even knows what he looks like
+2016-10-05 22:08:46	+cthuko	lol
+2016-10-05 22:08:50	+ajimu	what's that got to do with cuteness
+2016-10-05 22:09:01	+ajimu	,cute cthuko
+2016-10-05 22:09:03	+cthuko	Did not get it, LambdaComplex
+2016-10-05 22:09:09	+LambdaComplex	depending on how you define cuteness, perhaps "everything"
+2016-10-05 22:09:19	+cthuko	ajimu: <3
+2016-10-05 22:09:23	+bdelloid	guess I need a nom parser for utf8
+2016-10-05 22:09:30	+LambdaComplex	bdelloid: i'm sorry
+2016-10-05 22:09:33	+cthuko	What do I look like, LambdaComplex?
+2016-10-05 22:09:39	+LambdaComplex	cthuko: i have no clue
+2016-10-05 22:09:50	+LambdaComplex	i don't know what anyone here looks like
+2016-10-05 22:09:53	+bdelloid	if there was an str::from_utf8 that would read just one character
+2016-10-05 22:09:55	+LambdaComplex	except.... Lynn and DANtheBEASTman and kyubiko 
+2016-10-05 22:10:06	+cthuko	Everyone here is a persona
+2016-10-05 22:10:19	+kori	 cthuko ha-ha
+2016-10-05 22:10:21	+kori	I sure wish
+2016-10-05 22:10:31	+cthuko	Cuteness isn't strictly about appearances
+2016-10-05 22:10:35	+LambdaComplex	bdelloid: chars().nth(1)?
+2016-10-05 22:10:43	+bdelloid	LambdaComplex, I don't have an str
+2016-10-05 22:10:51	+DANtheBEASTman	tfw still no selfie from ajimu 
+2016-10-05 22:11:23	+LambdaComplex	bdelloid: str::from_utf8().unwrap().chars().nth(1)?
+2016-10-05 22:11:48	+bdelloid	LambdaComplex, that will take the whole input, which won't be utf8
+2016-10-05 22:12:03	+LambdaComplex	bdelloid: back up and explain what you're actually trying to do
+2016-10-05 22:12:08	+bdelloid	no
+2016-10-05 22:12:08	+LambdaComplex	DANtheBEASTman: iktf
+2016-10-05 22:12:13	+LambdaComplex	bdelloid: why not
+2016-10-05 22:12:13	+bdelloid	I know it can't be done within libstd
+2016-10-05 22:12:22	+LambdaComplex	bdelloid: but i wanna know anyways!
+2016-10-05 22:12:25	+bdelloid	takes time, not cost effective
+2016-10-05 22:13:48	+LambdaComplex	as opposed to ranting about it?
+2016-10-05 22:13:52	+bdelloid	yes
+2016-10-05 22:14:01	+bdelloid	ranting is good
+2016-10-05 22:14:02	+LambdaComplex	tfw #code is now bdelloid's soapbox
+2016-10-05 22:14:13	+bdelloid	hey, any current IRC window is just my thought dump
+2016-10-05 22:14:29	+ajimu	how do I discover start-up items in windows 10
+2016-10-05 22:14:35	+LambdaComplex	ajimu: install gentoo
+2016-10-05 22:14:39	+ajimu	task manager and msconfig ain't showing shit
+2016-10-05 22:14:47	+LambdaComplex	is there a "startup items" folder?
+2016-10-05 22:14:47	+ajimu	at least I think this is 10
+2016-10-05 22:14:54	+ajimu	it might be 8
+2016-10-05 22:14:54	+LambdaComplex	....you don't know?
+2016-10-05 22:15:05	+LambdaComplex	okay, press the start button in the bottom left
+2016-10-05 22:15:10	+ajimu	you think I'M running windows?
+2016-10-05 22:15:10	+LambdaComplex	do you have a normal-ish looking start menu?
+2016-10-05 22:15:12	+ajimu	I'll fight you
+2016-10-05 22:15:18	+ajimu	no it's metro shit
+2016-10-05 22:15:19	+LambdaComplex	RIGHT HERE
+2016-10-05 22:15:21	+LambdaComplex	RIGHT NOW
+2016-10-05 22:15:29	+ajimu	think that makes it 8
+2016-10-05 22:15:32	+LambdaComplex	okay if that opens the metro tile bullshit thing then it's 8 or 8.1
+2016-10-05 22:15:34	+LambdaComplex	yeah
+2016-10-05 22:15:43	+ajimu	so where's that folder
+2016-10-05 22:15:46	+LambdaComplex	ajimu: fox only no items final destination
+2016-10-05 22:15:48	+LambdaComplex	idk
+2016-10-05 22:15:50	+LambdaComplex	ask duckduckgo
+2016-10-05 22:16:00	+LambdaComplex	who are you helping? is it a hot girl you wanna fuck?
+2016-10-05 22:16:35	+ajimu	a hot girl who's akin to a cousin
+2016-10-05 22:16:40	+ajimu	not interested
+2016-10-05 22:16:48	+LambdaComplex	>hot girl
+2016-10-05 22:16:50	+LambdaComplex	>akin to a cousin
+2016-10-05 22:16:55	+bdelloid	typical
+2016-10-05 22:16:58	+LambdaComplex	lemme try to process a bit harder
+2016-10-05 22:17:00	+LambdaComplex	>hot girl
+2016-10-05 22:17:02	+LambdaComplex	>cousinzoned
+2016-10-05 22:17:07	+LambdaComplex	nope, gonna have to try even harder to understand
+2016-10-05 22:17:11	+LambdaComplex	>sexually attractive female
+2016-10-05 22:17:20	+LambdaComplex	>does not want sexual intercourse with
+2016-10-05 22:17:33	+LambdaComplex	sorry ajimu i just don't get it!
+2016-10-05 22:17:36	+LambdaComplex	:^(
+2016-10-05 22:17:50	+LambdaComplex	bdelloid: what are you even working on now? your terminal?
+2016-10-05 22:17:53	+ajimu	I'm only into commies
+2016-10-05 22:18:32	+LambdaComplex	fwb?
+2016-10-05 22:19:06	+cthuko	ajimu: Windows' registry can contain startup things I guess
+2016-10-05 22:19:43	+ajimu	oh right
+2016-10-05 22:19:47	+ajimu	thanks
+2016-10-05 22:19:52	+LambdaComplex	>registry
+2016-10-05 22:19:54	+LambdaComplex	disgusting
+2016-10-06 15:58:54	--	irc: disconnected from server
+2016-10-06 16:00:11	◥	naughtsee (~james@F06C8B3A:A30867A9:727DB645:IP) has joined #code
+2016-10-06 16:00:11	--	Topic for #code is "Welcome to #code | If you can't talk, go to https://wiki.rizon.net/index.php?title=Nick_Registration | Guidelines: http://softpunk.github.io/guidelines/ | https://u.teknik.io/NBkrr.png"
+2016-10-06 16:00:11	--	Topic set by modbot (~cinch@the.last.bot) on Fri, 30 Sep 2016 18:53:37
+2016-10-06 16:00:11	--	Channel #code: 81 nicks (1 op, 0 halfops, 69 voices, 11 normals)
+2016-10-06 16:00:11	--	Mode #code [+v naughtsee] by ChanServ
+2016-10-06 16:00:21	--	Channel created on Sat, 23 Nov 2013 00:26:36
+2016-10-06 16:04:40	◥	onodera_ (~onodera@Rizon-1170F763.xs4all.nl) has joined #code
+2016-10-06 16:31:39	◥	rudy (~haze@Rizon-A28DF4FC.nyc.res.rr.com) has joined #code
+2016-10-06 16:31:39	--	Mode #code [+v rudy] by ChanServ
+2016-10-06 16:42:36	+ajimu	I need more math in my life
+2016-10-06 16:43:13	+ajimu	hm
+2016-10-06 16:43:38	+ajimu	I just realized I can throw a database at this problem and make it go away
+2016-10-06 16:43:43	+ajimu	nice
+2016-10-06 16:48:20	+bdelloid	livin' on the branch
+2016-10-08 23:00:59	◥	naughtsee (~james@572981D9:1226C0D6:727DB645:IP) has joined #code
+2016-10-08 23:00:59	--	Topic for #code is "Welcome to #code | If you can't talk, go to https://wiki.rizon.net/index.php?title=Nick_Registration | Guidelines: http://softpunk.github.io/guidelines/ | https://u.teknik.io/NBkrr.png"
+2016-10-08 23:00:59	--	Topic set by modbot (~cinch@the.last.bot) on Fri, 30 Sep 2016 18:53:38
+2016-10-08 23:00:59	--	Channel #code: 81 nicks (1 op, 0 halfops, 69 voices, 11 normals)
+2016-10-08 23:00:59	--	Mode #code [+v naughtsee] by ChanServ
+2016-10-08 23:01:04	+naughtsee	what u want girl (kori)
+2016-10-08 23:01:07	--	Channel created on Sat, 23 Nov 2013 00:26:36
+2016-10-08 23:01:08	+Yuno	speaking of one of the seven
+2016-10-08 23:01:15	+kori	Yuno: well
+2016-10-08 23:01:19	+kori	its no coincidence
+2016-10-08 23:01:21	+kori	 I INVITED 
+2016-10-08 23:01:22	+kori	him here
+2016-10-08 23:01:25	+kori	hi naughtsee 
+2016-10-08 23:01:27	+kori	Yuno's here
+2016-10-08 23:01:29	+naughtsee	h kori!!! hru
+2016-10-08 23:01:32	+Yuno	I gathered that from the (kori) in his message.
+2016-10-08 23:01:37	+kori	I'm Okey
+2016-10-08 23:01:39	+naughtsee	omg YUNO!!!!!!
+2016-10-08 23:01:43	+naughtsee	hi hru 
+2016-10-08 23:02:02	+Yuno	Dying from the cancer you gave me. "hru"?
+2016-10-08 23:02:13	+kori	pls no bully yames
+2016-10-08 23:02:36	+naughtsee	:o
+2016-10-08 23:02:40	+naughtsee	I'm sensitive don't you know
+2016-10-08 23:02:48	+Yuno	But I thought lazyspeak died in 2008-2010. :c
+2016-10-08 23:03:00	+kori	irc doesnt habe autocorrect
+2016-10-08 23:03:17	+Yuno	No, but typing doesn't have the same restrictions as phones did.
+2016-10-08 23:03:38	+Yuno	It's ${CURRENT_YEAR} for crying out loud.
+2016-10-08 23:03:42	+kori	it only died due to the advent of autocorrect mayne
+2016-10-08 23:03:54	+kori	sup naughtsee 
+2016-10-08 23:03:56	+kori	how goes uni
+2016-10-08 23:04:15	+Yuno	all you smart people in uni. :(
+2016-10-08 23:04:31	+ajimu	not me
+2016-10-08 23:04:58	+naughtsee	kori: !!
+2016-10-08 23:05:15	+naughtsee	Uni is dumb I hate school.
+2016-10-08 23:07:22	+naughtsee	:>
+2016-10-08 23:07:29	+naughtsee	you're in uni right kori 
+2016-10-08 23:07:32	+kori	ye
+2016-10-08 23:07:34	+kori	CompEng
+2016-10-08 23:07:42	+kori	and you're PoliSci if I recall correctly
+2016-10-08 23:07:52	+naughtsee	yep!
+2016-10-08 23:08:02	+naughtsee	why does hw exist tho amirite
+2016-10-08 23:09:07	+kori	lel
+2016-10-08 23:09:16	+kori	naughtsee: I solve that problem by not doing it
+2016-10-08 23:09:39	+Yuno	^
+2016-10-08 23:09:39	+naughtsee	yeah but I have mad academic scholarships to maintain :(
+2016-10-08 23:11:09	+kori	unsame
+2016-10-08 23:11:13	+kori	my unis free 
+2016-10-08 23:11:17	+kori	and the State is paying for it
+2016-10-08 23:11:35	+naughtsee	lol
+2016-10-08 23:11:37	+naughtsee	fucking america
+2016-10-08 23:11:45	+naughtsee	right in the freedoms
+2016-10-08 23:14:21	+kori	lmao
+2016-10-08 23:15:07	+kori	Wanna swop
+2016-10-08 23:15:21	+kori	xcept Ill prob. drop out
+2016-10-08 23:18:23	+ajimu	yo
+2016-10-08 23:18:29	+ajimu	great situation for my previous advice
+2016-10-08 23:18:46	+ajimu	if you think you should feel a certain way, figure out why you don't, and calibrate your sense of things
+2016-10-08 23:18:53	◣	Nux (~nux@opiated.bliss) has quit (Ping timeout: 240 seconds)
+2016-10-08 23:19:06	+ajimu	in this case: see what happens to people who don't have access to school in your country. compare it
+2016-10-08 23:19:24	+ajimu	make sure you feel it
+2016-10-08 23:19:30	+ajimu	it might help you appreciate school
+2016-10-08 23:20:04	+Yuno	Important for calibrating: pick the average person. Not a person who lucked out like I did.
+2016-10-08 23:22:11	+kori	ajimu: I'm doing alright now
+2016-10-08 23:22:13	+kori	@ uni
+2016-10-08 23:22:15	+kori	for now
+2016-10-08 23:22:25	+kori	I decided to not do physics until I can
+2016-10-08 23:23:34	+ajimu	when you're already compelled to drop out, it'll be too late
+2016-10-08 23:23:37	+ajimu	treat your shit ahead of time
+2016-10-08 23:26:04	+kori	I meant if it was polisci and paid
+2016-10-08 23:26:12	+kori	i.e. if I required a scholarship
+2016-10-08 23:28:03	+brkk	hey bdelloid 
+2016-10-08 23:28:20	+ajimu	ah
+2016-10-08 23:28:24	◣	weemsledeux (~frodo@Rizon-525D5B80.dhcp.mtgm.al.charter.com) has quit (Quit: My MacBook has gone to sleep. ZZZzzz…)
+2016-10-09 13:45:15	--	irc: disconnected from server
+2016-10-09 13:45:31	◥	naughtsee (~james@572981D9:1226C0D6:727DB645:IP) has joined #code
+2016-10-09 13:45:31	--	Topic for #code is "Welcome to #code | If you can't talk, go to https://wiki.rizon.net/index.php?title=Nick_Registration | Guidelines: http://softpunk.github.io/guidelines/ | https://u.teknik.io/NBkrr.png"
+2016-10-09 13:45:31	--	Topic set by modbot (~cinch@the.last.bot) on Fri, 30 Sep 2016 18:53:38
+2016-10-09 13:45:31	--	Channel #code: 85 nicks (1 op, 0 halfops, 75 voices, 9 normals)
+2016-10-09 13:45:31	--	Mode #code [+v naughtsee] by ChanServ
+2016-10-09 13:45:41	--	Channel created on Sat, 23 Nov 2013 00:26:36
+2016-10-09 13:45:58	+onodera	the todo popup is just a riced terminal because I want it to be interactive
+2016-10-09 13:47:56	+jumi	then use something other than n30f innit
+2016-10-09 13:48:01	+jumi	isn't it that kyubiko's thing
+2016-10-09 13:49:47	+Lynn	jumi: yes.
+2016-10-09 13:50:00	+jumi	Lynn hey man wassup
+2016-10-09 13:50:01	+kyubiko	onodera: what compositor?
+2016-10-09 13:50:08	+kyubiko	you can give unmanaged windows shadows
+2016-10-09 13:50:12	+onodera	compton
+2016-10-09 13:50:19	+kyubiko	yeah you can give unmanaged shadows
+2016-10-09 13:50:26	+onodera	anyways I think no shadows on the popups look better anyways
+2016-10-09 13:50:29	+kyubiko	you'll have turned it off in your settings
+2016-10-09 13:50:45	+kyubiko	if you ever want shadows on n30f then turn on shadows everywhere in compton
+2016-10-09 13:50:52	+kyubiko	and instead blacklist by window class in compton config
+2016-10-09 13:51:04	+kyubiko	and then cos you can change the window class/title using an option in an n30f
+2016-10-09 13:51:57	+kyubiko	you can have shadows on some n30f windows
+2016-10-09 13:51:59	+kyubiko	and not on others
+2016-10-09 13:52:40	+jumi	onodera see
+2016-10-09 13:52:49	+jumi	muh man kyubiko just gave you the steps
+2016-10-09 13:52:52	+jumi	stop being a lazy fuck
