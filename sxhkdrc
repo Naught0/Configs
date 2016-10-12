@@ -113,8 +113,8 @@ super + {Left,Down,Up,Right}
 	bspc node -v {-20 0,0 20,0 -20,20 0}
 
 # increase / decrease window gap
-alt + {equal,minus}
-    bspc config window_gap {20,10} 
+alt + {equal,minus, 0}
+    bspc config window_gap {$(($(bspc config window_gap) - 5)), $(($(bspc config window_gap) + 5)), 0}
 
 print
     scrot
