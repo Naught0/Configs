@@ -1,0 +1,29 @@
+#!/bin/sh
+
+# Monitors 
+
+bspc monitor -d i ii iii iv v
+
+# I have no idea what this does 
+
+desktop_config() {
+    bspc config $1 $2
+    for M in $(bspc query -M); do
+        bspc config -m $M $1 $2
+    done
+}
+
+# Gaps, padding, and size
+desktop_config border_width        3
+bspc config window_gap 5
+bspc config split_ratio         0.5
+bspc config borderless_monocle  false
+bspc config gapless_monocle     false
+bspc config top_padding 14px
+
+
+# Border colors
+bspc config presel_feedback_color "#717e8a"
+bspc config normal_border_color "#b7afa8"
+bspc config focused_border_color "#717e8a"
+bspc config focus_follows_pointer true

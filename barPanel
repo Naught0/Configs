@@ -1,3 +1,0 @@
-#!/bin/sh
-
-bash ~/.config/bspwm/barScript.sh | lemonbar -p -g 1366x14 -B "#FFdfeace" -F "#FF666666" -f "Tewi:size=10"  | sh &
