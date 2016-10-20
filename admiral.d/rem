@@ -1,0 +1,14 @@
+#!/bin/bash
+
+getTrue(){
+    echo $(acpi | grep 100% | wc -l)
+}
+
+rem(){    
+    if [ "$(getTrue)" -eq "0" ]
+        then 
+            echo -n $(acpi --battery | awk '{print $5}'| cut -c 1-5)
+    fi
+}
+
+printf "%s\n" " $(rem)"

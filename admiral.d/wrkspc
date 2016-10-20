@@ -1,0 +1,20 @@
+#!/bin/bash
+
+workspace(){
+    SPACE=$(bspc query -D -d | awk '{print substr($0,length,1)}');
+        case "$SPACE" in
+            "3")
+                SPACE=">< <> <> <> <>";;
+            "4")
+                SPACE="<> >< <> <> <>";;
+            "5")
+                SPACE="<> <> >< <> <>";;
+            "6")
+                SPACE="<> <> <> >< <>";;
+            "7")
+                SPACE="<> <> <> <> ><";;
+        esac
+    echo -n $SPACE
+}
+
+printf "%s\n" " $(workspace) "

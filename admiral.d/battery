@@ -1,0 +1,15 @@
+#!/bin/bash
+
+chg(){
+    if $(acpi --battery | grep "Charging")
+        then echo "⇧"
+    else
+        echo "⇩"
+    fi
+}
+
+bat(){
+    echo -n $(acpi --battery | awk '{gsub(/,/, "");} {print $4}')
+}
+
+printf "%s\n" " bat: $(chg)$(bat)"

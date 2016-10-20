@@ -1,0 +1,66 @@
+[admiral]
+items = ["left", "bg", "workspaces", "ubg", "brite", 
+        "center", "bbg", "date", "clock", "ubg",
+        "right", "vol", "bg", "bat", "rem", "sp", "ubg"]
+
+[workspaces]
+path = "./wrkspc"
+reload = 1
+
+[vol]
+path = "./vol"
+reload = 1
+
+[brite]
+path = "./brite"
+reload = 1
+
+[bat]
+path="./battery"
+reload = 10
+
+[rem]
+path="./rem"
+reload = 10
+
+[title]
+path = "xtitle -s -t 50"
+
+[clock]
+path = "date +' %H:%M '"
+reload = 30
+
+[date]
+path = "echo ' '$(date +'%D')' <>'"
+reload = 200
+
+# Used for formatting lemonbar
+[left]
+path = "echo '%{l}'"
+static = true
+
+[center]
+path = "echo '%{c}'"
+static = true
+
+[right]
+path = "echo '%{r}'"
+static = true
+
+# Other formatting
+
+[sp]
+path = "echo ' '"
+static = true
+
+[bg]
+path = "echo '%{B#8a7e71}'"
+static = true
+
+[bbg]
+path = "echo '%{B#717e8a}'"
+static = true
+
+[ubg]
+path = "echo '%{B-}'"
+static = true
