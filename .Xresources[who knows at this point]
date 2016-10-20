@@ -1,0 +1,94 @@
+! Xft.dpi: 96
+!Xft.antialias: true
+!Xft.hinting: true
+!Xft.rgba: rgb
+!Xft.autohint: false
+!Xft.hintstyle: hintslight
+!Xft.lcdfilter: lcddefault
+URxvt.internalBorder:  3
+urxvt*cursorBlink: true
+URxvt*buffered: false
+
+! URxvt*iconFile: /usr/share/icons/elFaenza/apps/48/Terminal.png
+
+URxvt.geometry: 98x20
+
+URxvt.scrollBar: false
+
+URxvt.font: xft:tewi:regular:pixelsize=9
+URxvt.boldFont: xft:tewi:regular:pixelsize=9
+
+! --- ~/.Xresources ------------------------------------------------------------
+! ------------------------------------------------------------------------------
+! --- generated with 4bit Terminal Color Scheme Designer -----------------------
+! ------------------------------------------------------------------------------
+! --- http://ciembor.github.com/4bit -------------------------------------------
+! ------------------------------------------------------------------------------
+
+! --- special colors ---
+
+*background: #333333
+*foreground: #d9d9d9
+
+! --- standard colors ---
+
+! black
+*color0: #474747
+
+! bright_black
+*color8: #585858
+
+! red
+*color1: #8a717e
+
+! bright_red
+*color9: #b7a8af
+
+! green
+*color2: #7e8a71
+
+! bright_green
+*color10: #afb7a8
+
+! yellow
+*color3: #8a7e71
+
+! bright_yellow
+*color11: #b7afa8
+
+! blue
+*color4: #717e8a
+
+! bright_blue
+*color12: #a8afb7
+
+! magenta
+*color5: #7e718a
+
+! bright_magenta
+*color13: #afa8b7
+
+! cyan
+*color6: #718a7e
+
+! bright_cyan
+*color14: #a8b7af
+
+! white
+*color7: #d9d9d9
+
+! bright_white
+*color15: #ffffff
+
+
+! ------------------------------------------------------------------------------
+! --- end of terminal colors section -------------------------------------------
+! ------------------------------------------------------------------------------
+
+! Click URLs
+URxvt.perl-ext-common:  default,matcher,clipboard
+URxvt.url-launcher:      /usr/bin/google-chrome-stable
+URxvt.matcher.button:   1
+
+URxvt.keysym.Shift-Control-V: perl:clipboard:paste
+urxvt.iso14755:false
