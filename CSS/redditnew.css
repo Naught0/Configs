@@ -1,0 +1,139 @@
+*{
+	background:#eee!important;
+	color:#666!important;
+	box-shadow:none!important;
+	border:none!important;
+	text-decoration:none!important;
+	font-family:Noto Sans!important;
+	font-weight:normal!important;
+}
+
+#sr-header-area,
+.default-header,
+.promotedlink,
+.trending-subreddits,
+.organic-listing,
+.hohoho-header,
+.rank,
+.listing-chooser,
+.thumbnail,
+.midcol,
+.expando-button,
+#sponsorship > a{
+	display:none!important;
+}
+
+html{
+	margin-top:25px!important;
+	padding:0!important;
+	overflow-x: hidden!important;
+}
+
+button,
+.btn{
+	border:1px solid #aaa!important;
+	background:#fafafa!important;
+}
+
+a{
+	color:#717e8a!important;
+}
+
+#mail,
+#mail *{
+	background:#000!important;
+	color:#000!important;
+}
+
+#header{
+	height:20px!important;
+	font-size:8pt!important;
+	width:100%!important;
+	top:0px!important;
+	position:fixed!important;
+}
+
+#header-bottom-left{	
+	height:20px!important;
+	box-shadow:0 0 5px #aaa!important;
+	border-bottom:1px solid #aaa!important;
+}
+
+#header,
+#header *{
+	background:#fafafa!important;
+}
+
+.tabmenu{
+	margin:0!important;
+	margin-bottom:2px!important;
+	font-size:8pt!important;
+}
+
+.redditname{
+	font-size:10pt!important;
+	position:relative!important;
+	background:transparent!important;
+}
+
+textarea{
+	background:#fafafa!important;
+	border:1px solid #aaa!important;
+}
+
+blockquote p{
+	color:#999!important;
+}
+
+/* Comments */
+.entry,
+.entry *,
+.unvoted{	
+	background:#fafafa!important;
+}
+.entry{
+	border-left:3px solid #717e8a!important;
+	margin-top:10px!important;
+	padding:10px!important;
+}
+
+.listing{
+	border-left:1px dashed #aaa!important;
+	margin-left:-10px!important;
+	padding-left:10px!important;
+}
+
+#search > input{
+	margin-top:-7px!important;
+	border:1px solid #aaa!important;
+}
+#search,
+#search > input,
+.infobar,
+.infobar *{
+	background:#fafafa!important;
+}
+
+.side{
+	position:absolute!important;
+	right:-330px!important;
+	top:20px!important;
+	background:#fafafa!important;
+	padding:10px!important;
+	padding-left:20px!important;
+	border-left:3px solid #718e8a!important;
+	opacity:0.3!important;
+	transition:0.5s ease all!important;
+	transition-delay:1s!important;
+}
+.side>*{
+	background:#fafafa!important;
+}
+.side:hover,
+.side:active,
+.side:focus{
+	opacity:1!important;
+	right:10px!important;
+	transition:0.5s ease all!important;
+	transition-delay:1s!important;
+}
