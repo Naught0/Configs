@@ -1,12 +1,12 @@
-! Xft.dpi: 96
+!Xft.dpi: 96
 !Xft.antialias: true
 !Xft.hinting: true
 !Xft.rgba: rgb
 !Xft.autohint: false
 !Xft.hintstyle: hintslight
 !Xft.lcdfilter: lcddefault
-URxvt.internalBorder:  3
-urxvt*cursorBlink: true
+*internalBorder:  3
+urxvt*cursorBlink: false
 URxvt*buffered: false
 
 ! URxvt*iconFile: /usr/share/icons/elFaenza/apps/48/Terminal.png
