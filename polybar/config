@@ -7,6 +7,15 @@
 ;
 ;=====================================================
 
+[c/colors]
+blue = ${xrdb:color4}
+red = ${xrdb:color1}
+cyan = ${xrdb:color6}
+green = ${xrdb:color2}
+lgreen = ${xrdb:color10}
+white = ${xrdb:color7}
+bg = ${xrdb:background}
+
 [global/wm]
 margin-top = 0
 margin-bottom = 0
@@ -16,13 +25,12 @@ margin-bottom = 0
 ;monitor = ${env:MONITOR:HDMI-1}
 dock = false
 width = 100%
-height = 14
-offset-x = 0
+height = 20
 offset-y = 0
+offset-x = 0
 
-background = ${xrdb:background}
-;background = #FF333333
-foreground = #dfdfdf
+background = ${c/colors.bg}
+foreground = ${c/colors.white}
 
 ;lineheight = 1
 ;linecolor = #555
@@ -32,13 +40,12 @@ underline-size = 0
 underline-color = #00f
 
 border-bottom = 0
-border-bottom-color = #333
 
-spacing = 1
-padding-left = 0
-padding-right = 1
-module-margin-left = 1
-module-margin-right = 1
+spacing = 2
+padding-left = 1
+padding-right = 0
+module-margin-left = 0
+module-margin-right = 0
 
 font-0 = tewi:pixelsize=9;0
 font-1 = tewi:pixelsize=9;0
@@ -81,11 +88,13 @@ label-unmounted-foreground = #55
 type = internal/bspwm
 ws-icon-default = 
 
-label-active = %{F#ffE7EBA4}⭳%{F-}
+label-active = ⭳
+label-active-foreground = ${c/colors.lgreen}
 label-active-background = ${xrdb:background}
 label-active-padding = 2
 
-label-occupied = %{F#ffa8afb7}⭵%{F-}
+label-occupied = ⭵
+label-occupied-foreground = ${c/colors.red}
 label-occupied-padding = 2
 
 label-urgent = ⭐
@@ -146,32 +155,34 @@ toggle-off-foreground = #66
 type = internal/xbacklight
 
 format = <label> <bar>
-label = %{F#888}⭱%{F-}
+label ="⭱"
 
 bar-width = 8
-bar-indicator = >
-bar-indicator-foreground = #ff888
+bar-indicator ="> "
+bar-indicator-foreground = ${c/colors.white}
 bar-indicator-font = 1
-bar-fill = —
+bar-fill ="—"
 bar-fill-font = 1
 bar-fill-foreground = #ff888
-bar-empty = —
+bar-empty =" "
 bar-empty-font = 1
 bar-empty-foreground = #55
 
 
 [module/cpu]
 type = internal/cpu
-interval = 5
-label = %{F#888}⭥%{F#cc} %percentage%
-label-underline = ${xrdb:color5}
+interval = 3
+label ="  ⭥  %percentage%  "
+label-background = ${c/colors.green}
+label-foreground = ${c/colors.white}
 
 
 [module/memory]
 type = internal/memory
 interval = 10
-label = %{F#888}⭦%{F#cc} %percentage_used%
-label-underline = ${xrdb:color6}
+label ="  ⭦  %percentage_used%  "
+label-background = ${c/colors.cyan}
+label-foreground = ${c/colors.white}
 
 
 [module/wlan]
@@ -212,10 +223,10 @@ label-disconnected-foreground = #55
 type = internal/date
 ;date = %%{F#ff888}⭧%%{F#cc} %H:%M
 ;date-alt = %%{F#ff888}⭰%%{F#cc} %Y-%m-%d %%{F#ff888}⭧%%{F#cc} %H:%M
-date = %%{F#55}⭧%%{F#ff} %H:%M
-date-alt = %%{F#55}⭰%{F#ff} %Y-%m-%d  %%{F#55}⭧%%{F#ff} %H:%M
+date ="  ⭧  %H:%M  "
+date-alt ="  ⭰  %Y-%m-%d  ⭧  %H:%M  "
 interval = 30
-format-underline = ${xrdb:background}
+format-background = ${c/colors.blue}
 
 
 [module/volume]
@@ -254,22 +265,26 @@ battery = BAT0
 adapter = AC
 full-at = 99
 
-format-charging = <animation-charging> <label-charging>
-format-charging-underline = ${xrdb:color12}
-format-discharging = <ramp-capacity> <label-discharging>
-format-discharging-underline = ${xrdb:color11}
-format-full = %{F#55}%{F#ff}  <label-full>
+format-charging-background = ${c/colors.red}
+format-discharging-background = ${c/colors.red}
+format-full-background = ${c/colors.red}
+format-charging = "  <animation-charging> <label-charging>   "
+format-label-foreground = ${c/colors.white}
+format-charging-underline =
+format-discharging ="  <ramp-capacity> <label-discharging>   "
+format-discharging-underline =
+format-full = ⭨ <label-full>
 format-full-underline = ${self.format-charging-underline}
 
-ramp-capacity-0 = ⭪
-ramp-capacity-1 = ⭫
-ramp-capacity-2 = ⭨
-ramp-capacity-foreground = #55
+ramp-capacity-0 =" ⭪"
+ramp-capacity-1 =" ⭫"
+ramp-capacity-2 =" ⭨"
+ramp-capacity-foreground = ${c/colors.white}
 
-animation-charging-0 = ⭲
-animation-charging-1 = ⭲
-animation-charging-2 = ⭲
-animation-charging-foreground = #55
+animation-charging-0 =" ⭲"
+animation-charging-1 =" ⭲"
+animation-charging-2 =" ⭲"
+animation-charging-foreground = ${c/colors.white}
 animation-charging-framerate = 100000000000
 
 
