@@ -1,0 +1,99 @@
+* {
+	font-family: "Open Sans" !important;
+	color: #ddd !important;
+	background: transparent !important;
+	box-shadow: none !important;
+	border: 0 !important;
+}
+html {
+	overflow-x: hidden !important;
+	background: #2B2D31 !important;
+}
+.promotedlink,
+.trending-subreddits,
+.listing-chooser,
+.default-header,
+#sr-header-area {
+	display: none !important;
+}
+a {
+	color: #A2BEDB !important;
+}
+.tabmenu .selected * {
+	color: #A2BEDB !important;
+}
+.tabmenu .selected {
+	background: #45484E !important;
+	padding: 3px !important;
+	border-radius: 3px !important;
+	box-shadow: 0 2px 5px #000 !important;
+}
+.drop-choices {
+	background: #fdfdfd !important;
+	box-shadow: 0 2px 5px #999 !important;
+}
+.title {
+	color: #D3E2F2 !important;
+}
+.expando-button {
+	background: #2B2D31 !important;
+	box-shadow: 0 2px 5px #000 !important;
+	height: 15px !important;
+	width: 15px !important;
+	border-radius: 20% !important;
+}
+.expando-button.expanded{
+	box-shadow: 3px 2px 5px #111 inset !important;
+}
+
+.entry {
+	background: #45484E !important;
+	padding: 10px !important;
+	box-shadow: 0 2px 5px #222 !important;
+	transition: 0.5s ease all !important;
+}
+.entry:hover {
+	box-shadow: 0 2px 10px #000 !important;
+}
+blockquote {
+	border-left: 3px solid #999 !important;
+}
+blockquote * {
+	color: #999 !important;
+}
+.linkflairlabel {
+	color: #999 !important;
+	text-decoration: underline !important;
+}
+.stamp * {
+	color: red !important;
+}
+.thumbnail {
+	padding-right: 10px !important;
+}
+/* Sidebar */
+
+.side {
+	position: absolute !important;
+	padding-left: 50px !important;
+	border-left: 3px solid #ccc !important;
+	right: -325px !important;
+	top: 80px !important;
+	z-index: 1 !important;
+	opacity: 0.2 !important;
+	transition: 0.5s ease all !important;
+	background: #45484E !important;
+}
+.side:hover,
+.side:active,
+.side *:hover {
+	opacity: 0.9 !important;
+	right: 0 !important;
+}
+.arrow {
+	background: #45484E !important;
+	border-radius: 3px !important;
+	height: 15px !important;
+	width: 15px !important;
+	box-shadow: 0 2px 5px #222 !important;
+}
