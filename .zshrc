@@ -6,7 +6,7 @@ export PULSE_LATENCY_MSEC=60
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
-ZSH_THEME="eastwood"
+ZSH_THEME="agnoster"
 #PROMPT='> '
 
 # Grep_error fix
@@ -88,6 +88,7 @@ alias rmv="sudo pacman -R"
 alias rmva="sudo pacman -Rcns"
 alias up="sudo pacman -Syuu"
 alias inst="pacaur -S"
+alias clnup="sudo pacman -R $(pacman -Qqdt)"
 #alias in="sudo apt-get install"
 #alias rmv="sudo apt-get remove"
 #alias rmva="sudo apt-get autoremove --purge"
@@ -101,4 +102,6 @@ alias git1="git add ."
 alias git2="git commit -m"
 alias git3="git push origin master"
 alias xinit="startx"
+alias ctl="sudo systemctl"
+alias update-grub="sudo grub-mkconfig -o /boot/grub/grub.cfg"
 export PATH="$HOME/.rbenv/bin:$PATH"

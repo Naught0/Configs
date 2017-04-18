@@ -1,9 +1,14 @@
-" Fix Colors
+" Pathogen settings
+execute pathogen#infect()
+
+" Pretty shit
+colorscheme solarized
 syntax on
 set background=dark
 set ai
-colorscheme slate
-set t_Co=16
+
+" Airline shit
+let g:airline_powerline_fonts = 1
 
 " Center Cursor
 set scrolloff=100
@@ -18,7 +23,6 @@ set softtabstop=4
 " Line numbers
 set number
 set numberwidth=2
-highlight LineNr ctermfg=DarkGrey ctermbg=NONE
 
 " Undo History
 set undofile
