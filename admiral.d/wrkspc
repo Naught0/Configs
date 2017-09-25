@@ -1,20 +1,19 @@
 #!/bin/bash
 
-workspace(){
-    SPACE=$(bspc query -D -d | awk '{print substr($0,length,1)}');
-        case "$SPACE" in
-            "3")
-                SPACE=">< <> <> <> <>";;
-            "4")
-                SPACE="<> >< <> <> <>";;
-            "5")
-                SPACE="<> <> >< <> <>";;
-            "6")
-                SPACE="<> <> <> >< <>";;
-            "7")
-                SPACE="<> <> <> <> ><";;
-        esac
-    echo -n $SPACE
-}
+E="%{F#151721}"
+Z="%{F-}"
 
-printf "%s\n" " $(workspace) "
+while read -r line; do
+echo -n " $E"
+    case `bspc query -D -d | awk '{print substr($0,length,1)}'` in
+        "5")
+			echo -n "$Z››$E ⬤ ⬤ ⬤ ";;
+		"6")
+			echo -n "›› $Z⬤$E ⬤ ⬤ ";;
+		"7")
+			echo -n "›› ⬤ $Z⬤$E ⬤ ";;
+		"8")
+			echo -n "›› ⬤ ⬤ $Z⬤$E ";;
+	esac
+echo "$Z"
+done < <(bspc subscribe report)

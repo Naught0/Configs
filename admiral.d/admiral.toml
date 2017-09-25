@@ -1,27 +1,13 @@
 [admiral]
-items = ["left", "bg", "workspaces", "ubg", "brite", 
+items = ["left", "bg", "workspaces", "ubg",
         "center", "bbg", "date", "clock", "ubg",
-        "right", "vol", "bg", "bat", "rem", "sp", "ubg"]
+        "right", "bg", "vol", "ubg"]
 
 [workspaces]
 path = "./wrkspc"
-reload = 1
 
 [vol]
 path = "./vol"
-reload = 1
-
-[brite]
-path = "./brite"
-reload = 1
-
-[bat]
-path="./battery"
-reload = 10
-
-[rem]
-path="./rem"
-reload = 10
 
 [title]
 path = "xtitle -s -t 50"
@@ -31,7 +17,7 @@ path = "date +' %H:%M '"
 reload = 30
 
 [date]
-path = "echo ' '$(date +'%D')' <>'"
+path = "date +' %D'"
 reload = 200
 
 # Used for formatting lemonbar
