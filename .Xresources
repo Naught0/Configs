@@ -5,8 +5,8 @@
 !Xft.autohint: false
 !Xft.hintstyle: hintslight
 !Xft.lcdfilter: lcddefault
-*internalBorder:  3
-urxvt*cursorBlink: false
+URxvt.internalBorder: 6
+URxvt*cursorBlink: true
 URxvt*buffered: false
 
 ! URxvt*iconFile: /usr/share/icons/elFaenza/apps/48/Terminal.png
@@ -15,8 +15,8 @@ URxvt.geometry: 98x20
 
 URxvt.scrollBar: false
 
-URxvt.font: xft:tewi:regular:pixelsize=9
-URxvt.boldFont: xft:tewi:regular:pixelsize=9
+URxvt.font: xft:Iosevka:regular:pixelsize=11
+URxvt.boldFont: xft:Iosevka:bold:pixelsize=11
 
 ! --- ~/.Xresources ------------------------------------------------------------
 ! ------------------------------------------------------------------------------
@@ -27,52 +27,52 @@ URxvt.boldFont: xft:tewi:regular:pixelsize=9
 
 ! --- special colors ---
 
-*background: #333333
+*background: #101010
 *foreground: #d9d9d9
 
 ! --- standard colors ---
 
 ! black
-*color0: #474747
+*color0: #343942
 
 ! bright_black
 *color8: #585858
 
 ! red
-*color1: #8a717e
+*color1: #aa8d57
 
 ! bright_red
-*color9: #b7a8af
+*color9: #dcb670
 
 ! green
-*color2: #7e8a71
+*color2: #ab9e7f
 
 ! bright_green
-*color10: #afb7a8
+*color10: #ddcca4
 
 ! yellow
-*color3: #8a7e71
+*color3: #a4a8a2
 
 ! bright_yellow
-*color11: #b7afa8
+*color11: #d4dad2
 
 ! blue
-*color4: #717e8a
+*color4: #5888a9
 
 ! bright_blue
-*color12: #a8afb7
+*color12: #72b0db
 
 ! magenta
-*color5: #7e718a
+*color5: #8a89aa
 
 ! bright_magenta
-*color13: #afa8b7
+*color13: #b2b1dc
 
 ! cyan
-*color6: #718a7e
+*color6: #859ca9
 
 ! bright_cyan
-*color14: #a8b7af
+*color14: #accadb
 
 ! white
 *color7: #d9d9d9

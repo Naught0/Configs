@@ -1,0 +1,46 @@
+[admiral]
+items = ["left", "pad", "desktop", "sep", "title",
+         "center", "time",
+         "right", "brite", "sep", "cpu", "sep", "bat_percent", "bat_rem", "pad"]
+
+[desktop]
+path = "./desktop_mon.sh"
+
+[time]
+path = "date '+%I:%M %p'"
+reload = 20
+
+[bat_percent]
+path = "./bat_percent.sh"
+
+[bat_rem]
+path = "./bat_rem.sh"
+
+[brite]
+path = "./brite.sh"
+
+[cpu]
+path = "./cpu.py"
+
+[title]
+path = "./title.sh"
+
+[pad]
+path = "echo '  '"
+static = true
+
+[sep]
+path = "echo ' | '"
+static = true
+
+[left]
+path = "echo '%{l}'"
+static = true
+
+[center]
+path = "echo '%{c}'"
+static = true
+
+[right]
+path = "echo '%{r}'"
+static = true
