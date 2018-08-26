@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# Misc
+sep="»"
+PAD=" "
+
+# Colors
+MAGENTA="%{B#8a89aa}%{F#101010}"
+LMAGENTA="%{B#b2b1dc}%{F#101010}"
+BLUE="%{B#5888a9}%{F#101010}"
+DYELLOW="%{B#ab9e7f}%{F#101010}"
+YELLOW="%{B#aa8d57}%{F#101010}"
+LYELLOW="%{B#dcb670}%{F#101010}"
+CYAN="%{B#859ca9}%{F#101010}"
+LCYAN="%{B#accadb}%{F#101010}"
+OFF="%{B-}%{F-}"
+
+# Positioning
+LEFT="%{l}"
+CENTER="%{c}"
+RIGHT="%{r}"
+
+# FIFO
+PANEL_FIFO="/tmp/PANEL_FIFO"
