@@ -5,28 +5,33 @@
 while read -r line; do
     case $line in
         TIME*)
-            time="$MAGENTA$PAD${line#????}$PAD$OFF"
+            time="$PAD${line#????}$PAD"
             ;;
         bat*)
-            bat="$BLUE$PAD${line}$PAD$OFF"
+            bat="$PAD${line}$PAD"
             ;;
         lite*)
-            lite="$LYELLOW$PAD${line}$PAD$OFF"
+            lite="$PAD${line}$PAD"
             ;;
         disk*)
-            disk="$YELLOW$PAD${line}$PAD$OFF"
+            disk="$PAD${line}$PAD"
             ;;
         vol*)
-            vol="$DYELLOW$PAD${line}$PAD$OFF"
+            vol="$PAD${line}$PAD"
             ;;
         cpu*)
-            cpu="$LCYAN$PAD${line}$PAD$OFF"
+            cpu="$PAD${line}$PAD"
+            ;;
+        mem*)
+            mem="$PAD${line}$PAD"
             ;;
         DESKTOP*)
-            desk="$CYAN${line#???????}$PAD$OFF"
+            desk="${line#???????}$PAD"
             ;;
+        TITLE*)
+            title="$PAD${line#?????}$PAD"
     esac
 
-    printf "%s\n" "$LEFT${desk}$CENTER${time}$RIGHT${disk}${vol}${lite}${cpu}${bat}"
+    printf "%s\n" "$LMAGENTA$LEFT${desk}${title}$OFF$CENTER${time}$RIGHT$YELLOW${disk}${vol}${lite}${mem}${cpu}${bat}$OFF"
 done
 

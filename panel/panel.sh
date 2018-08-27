@@ -1,5 +1,7 @@
 #!/bin/env bash
 
+cd "${0%/*}"
+
 . vars
 
 # Make da fifo if required
@@ -11,12 +13,14 @@ mkfifo "$PANEL_FIFO"
 ./bat_percent.sh &
 ./brite.sh &
 ./disk.sh & 
-./cpu.sh &
+./cpu.sh & 
 ./vol.sh &
+./mem.sh & 
+./title.sh &
 ./desktop_mon.sh &
 ./time.sh &
 
-./panel_bar.sh < "$PANEL_FIFO" | lemonbar -p -f "IBM Plex Mono Medium-8","Unifont-9"\
-    -B "#101010" -F "#efefef" -g $(xrandr | grep current | awk '{print $8}')x16 | bash
+./panel_bar.sh < "$PANEL_FIFO" | lemonbar -p -f "tewi-10","Unifont-10"\
+    -B "#00101010" -F "#cccccc" -g $(xrandr | grep current | awk '{print $8}')x16 | bash
 
 wait 
