@@ -2,6 +2,6 @@
 . vars
 
 while :; do
-    echo -e TIME$(date +"%D %H:%M")
+    echo -e TIME$(date +"%D %l:%M")
 sleep 45
 done > "$PANEL_FIFO" 
