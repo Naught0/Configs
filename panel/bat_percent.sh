@@ -2,6 +2,13 @@
 
 . vars
 
+# This echos the PID of the script to bat_percent.pid
+# I can then run pkill -P $(<bat_percent.pid) sleep
+# To exit the sleep early
+# Another script monitoring udev will terminate the sleep
+# Whenever AC power is plugged in
+echo $$ > bat_percent.pid
+
 while :; do
     bat="$(acpi | awk '{print $4}' | tr -d ',')"
     rem="$(acpi | awk '{print $5}' | rev | cut -c 4- | rev)"
@@ -10,7 +17,7 @@ while :; do
     if [[ $power = 0 ]]; then
         charging=""
     else
-        charging="\uf1e6"
+        charging="\uf0e7 "
     fi
     
     if (( ${bat: :-1} >= 95 )); then
@@ -26,7 +33,6 @@ while :; do
         icon="%{F#dd543a}\uf244%{F-}"
     fi
     
-    echo -e "bat$charging$icon $bat"
-    
+    echo -e "bat%{A:bat_notif.sh:}$icon $SECONDARY$charging$bat%{A}"
     sleep 60
 done > "$PANEL_FIFO"

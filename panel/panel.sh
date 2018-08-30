@@ -16,8 +16,10 @@ mkfifo "$PANEL_FIFO"
 trap "trap - SIGTERM && kill -- -$$" SIGINT SIGTERM EXIT
 
 ./bat_percent.sh &
+./bat_ac_mon.sh &
 ./brite.sh &
 ./disk.sh & 
+./wifi.sh &
 ./cpu.sh & 
 ./vol.sh &
 ./mem.sh & 

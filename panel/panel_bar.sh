@@ -13,6 +13,9 @@ while read -r line; do
         TIME*)
             time="$PAD${line#????}$PAD"
             ;;
+        WIFI*)
+            net="${line#????}$PAD"
+            ;;
         disk*)
             disk="${line#????}$PAD"
             ;;
@@ -33,6 +36,6 @@ while read -r line; do
             ;;
     esac
 
-    printf "%s\n" "$PRIMARY$LEFT${desk}${title}$OFF$CENTER${time}$RIGHT$SECONDARY${disk}${vol}${lite}${mem}${cpu}${bat}$OFF"
+    printf "%s\n" "$PRIMARY$LEFT${desk}${title}$OFF$CENTER${time}$RIGHT$SECONDARY${net}${disk}${vol}${lite}${mem}${cpu}${bat}$OFF"
 done
 

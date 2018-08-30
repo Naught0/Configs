@@ -2,6 +2,12 @@
 
 . vars
 
+body() {
+    lite=$(light -G)
+    echo -e "lite\uf0eb ${lite: :-3}%" > "$PANEL_FIFO"
+}
+body
+
 while read -r line; do
-    echo -e "lite\uf0eb $(printf "%.0f" $(cat light_mon.log))%"
-done < <(tail -F light_mon.log 2> /dev/null) > "$PANEL_FIFO"
+    body
+done < <(udevadm monitor -u | grep --line-buffered backlight)

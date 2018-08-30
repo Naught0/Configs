@@ -1,18 +1,16 @@
-#!/bin/bash
+#!/bin/env zsh
+
+. "/home/james/.cache/wal/colors.sh"
 
 # Misc
-sep=">"
+HEIGHT="30"
+sep="»"
 PAD=" "
 
 # Colors
-MAGENTA="%{F#8a89aa}"
-LMAGENTA="%{F#b2b1dc}"
-BLUE="%{F#5888a9}"
-DYELLOW="%{F#ab9e7f}"
-YELLOW="%{F#aa8d57}"
-LYELLOW="%{F#dcb670}"
-CYAN="%{F#859ca9}"
-LCYAN="%{F#accadb}"
+BG="%{F$background}"
+PRIMARY="%{F$color4}"
+SECONDARY="%{F$color9}"
 OFF="%{B-}%{F-}"
 
 # Positioning

@@ -2,17 +2,10 @@
 
 . vars
 
-# Display the icon before events are received
-echo -e vol"\uf028" > "$PANEL_FIFO"
-
-get_vars(){
+body(){
     mute=$(pactl list sinks | grep Mute | awk '{print $2}')
     vol=$(pactl list sinks | grep "Volume: front-left" | tail -n 1 | awk '{print $5}')
-}
-
-while read -r line; do
-    get_vars
-
+    
     # {VAR: :-1} trims the last character from the string
     if [ "$mute" = "yes" ]; then
         icon="\uf026\uf12a"
@@ -24,5 +17,10 @@ while read -r line; do
         icon="\uf026" 
     fi
     
-    echo -e "vol$icon $vol"
-done < <(pactl subscribe | grep --line-buffered "sink") > "$PANEL_FIFO"
+    echo -e "vol$icon $vol" > "$PANEL_FIFO"
+}
+body
+
+while read -r line; do
+    body
+done < <(pactl subscribe | grep --line-buffered "sink")

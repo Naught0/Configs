@@ -2,7 +2,7 @@
 
 from sys import argv
 
-ICON_ARR = {'focus': '\uf276',
+ICON_ARR = {'focus': '\uf21d',
             'empty': '\uf278',
             'occupied': '\uf279'}
 
