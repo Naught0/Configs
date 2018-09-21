@@ -1,0 +1,28 @@
+#!/bin/env zsh
+
+. "/home/james/.cache/wal/colors.sh"
+
+# Misc
+PANEL_HEIGHT=30
+#TRANS_PAD="%{B#00000000}    %{B-}"
+TRANS_PAD=
+PAD=" "
+FONT="Inconsolata"
+FONT_SIZE="10"
+
+# Colors
+PRIMARY=$(get_font_color "$color3")
+SECONDARY=$(get_font_color "$color4")
+TERTIARY=$(get_font_color "$foreground")
+PRIMARY_BG="%{B$color3}%{F$PRIMARY}"
+SECONDARY_BG="%{B$color4}%{F$SECONDARY}"
+TERTIARY_BG="%{B$foreground}%{F$TERTIARY}"
+OFF="%{B-}%{F-}"
+
+# Positioning
+LEFT="%{l}"
+CENTER="%{c}"
+RIGHT="%{r}"
+
+# FIFO
+PANEL_FIFO="/tmp/PANEL_FIFO"

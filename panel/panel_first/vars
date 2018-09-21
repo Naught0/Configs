@@ -10,7 +10,7 @@ PAD=" "
 # Colors
 BG="%{F$background}"
 PRIMARY="%{F$color4}"
-SECONDARY="%{F$color9}"
+SECONDARY="%{F$color6}"
 OFF="%{B-}%{F-}"
 
 # Positioning
